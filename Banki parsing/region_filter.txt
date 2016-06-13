@@ -1,0 +1,1091 @@
+region	city	id	href	region_code	
+Москва	Москва	4	/banks/Moskva/	77	
+Санкт-Петербург	Санкт-Петербург	211	/banks/Sankt-Peterburg/	78	
+Новосибирская область	Новосибирск	677	/banks/Novosibirsk/	54	
+Свердловская область	Екатеринбург	532	/banks/Ekaterinburg/	66	
+Нижегородская область	Нижний Новгород	396	/banks/Nizhniy_Novgorod/	52	
+Самарская область	Самара	489	/banks/Samara/	63	
+Омская область	Омск	680	/banks/Omsk/	55	
+Республика Татарстан	Казань	479	/banks/Kazan~/	16	
+Республика Татарстан	Казань	479	/banks/Kazan~/	16	
+Челябинская область	Челябинск	580	/banks/Chelyabinsk/	74	
+Ростовская область	Ростов-на-Дону	345	/banks/Rostov-na-Donu/	61	
+Республика Башкортостан	Уфа	459	/banks/Ufa/	2	
+Волгоградская область	Волгоград	292	/banks/Volgograd/list/	34	
+Пермский край	Пермь	433	/banks/Perm~/	59	
+Красноярский край	Красноярск	657	/banks/Krasnoyarsk/	24	
+Саратовская область	Саратов	498	/banks/Saratov/	64	
+Краснодарский край	Краснодар	319	/banks/Krasnodar/	23	
+Самарская область	Тольятти	490	/banks/Samarskaya_oblast~/Tol~yatti/	63	
+Удмуртская Республика	Ижевск	508	/banks/Izhevsk/	18	
+Удмуртская Республика	Ижевск	508	/banks/Izhevsk/	18	
+Алтайский край	Барнаул	620	/banks/Barnaul/list/	22	
+Приморский край	Владивосток	735	/banks/Vladivostok/	25	
+Ярославская область	Ярославль	200	/banks/Yaroslavl~/	76	
+Иркутская область	Иркутск	626	/banks/Irkutsk/list/	38	
+Тюменская область	Тюмень	561	/banks/Tyumen~/	72	
+Республика Дагестан	Махачкала	791	/banks/Mahachkala/	5	
+Хабаровский край	Хабаровск	780	/banks/Habarovsk/	27	
+Кемеровская область	Новокузнецк	641	/banks/Kemerovskaya_oblast~/Novokuznetssk/list/	42	
+Оренбургская область	Оренбург	419	/banks/Orenburg/	56	
+Кемеровская область	Кемерово	640	/banks/Kemerovo/list/	42	
+Рязанская область	Рязань	169	/banks/Ryazan~/	62	
+Томская область	Томск	695	/banks/Tomsk/	70	
+Астраханская область	Астрахань	290	/banks/Astrahan~/list/	30	
+Пензенская область	Пенза	431	/banks/Penza/	58	
+Республика Татарстан	Набережные Челны	480	/banks/Respublika_Tatarstan/Naberezhnyie_Chelnyi/	16	
+Республика Татарстан	Набережные Челны	480	/banks/Respublika_Tatarstan/Naberezhnyie_Chelnyi/	16	
+Липецкая область	Липецк	158	/banks/Lipetssk/	48	
+Тульская область	Тула	194	/banks/Tula/	71	
+Кировская область	Киров	388	/banks/Kirov/	43	
+Чувашская Республика	Чебоксары	517	/banks/Cheboksaryi/	21	
+Калининградская область	Калининград	247	/banks/Kaliningrad/list/	39	
+Брянская область	Брянск	103	/banks/Bryansk/list/	32	
+Курская область	Курск	152	/banks/Kursk/	46	
+Ивановская область	Иваново	136	/banks/Ivanovo/list/	37	
+Челябинская область	Магнитогорск	581	/banks/Chelyabinskaya_oblast~/Magnitogorsk/	74	
+Республика Бурятия	Улан-Удэ	688	/banks/Ulan-Udje/	3	
+Тверская область	Тверь	191	/banks/Tver~/	69	
+Ставропольский край	Ставрополь	813	/banks/Stavropol~/	26	
+Свердловская область	Нижний Тагил	534	/banks/Sverdlovskaya_oblast~/Nizhniy_Tagil/	66	
+Белгородская область	Белгород	92	/banks/Belgorod/list/	31	
+Архангельская область	Архангельск	232	/banks/Arhangel~sk/list/	29	
+Владимирская область	Владимир	106	/banks/Vladimir/list/	33	
+Краснодарский край	Сочи	320	/banks/Krasnodarskiy_kray/Sochi/	23	
+Курганская область	Курган	527	/banks/Kurgan/	45	
+Смоленская область	Смоленск	176	/banks/Smolensk/	67	
+Калужская область	Калуга	140	/banks/Kaluga/list/	40	
+Забайкальский край	Чита	707	/banks/Chita/list/	75	
+Орловская область	Орел	163	/banks/Orel/	57	
+Волгоградская область	Волжский	293	/banks/Volgogradskaya_oblast~/Volzhskiy/list/	34	
+Вологодская область	Череповец	241	/banks/Vologodskaya_oblast~/Cherepovetss/list/	35	
+Республика Северная Осетия-Алания	Владикавказ	806	/banks/Vladikavkaz/	15	
+Мурманская область	Мурманск	252	/banks/Murmansk/	51	
+Ханты-Мансийский автономный округ	Сургут	566	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Surgut/	86	
+Вологодская область	Вологда	240	/banks/Vologda/list/	35	
+Республика Мордовия	Саранск	476	/banks/Saransk/	13	
+Тамбовская область	Тамбов	184	/banks/Tambov/	68	
+Республика Башкортостан	Стерлитамак	462	/banks/Respublika_Basshkortostan/Sterlitamak/	2	
+Республика Саха (Якутия)	Якутск	769	/banks/Yakutsk/	14	
+Костромская область	Кострома	148	/banks/Kostroma/	44	
+Хабаровский край	Комсомольск-на-Амуре	781	/banks/Habarovskiy_kray/Komsomol~sk-na-Amure/	27	
+Республика Карелия	Петрозаводск	270	/banks/Petrozavodsk/	10	
+Ростовская область	Таганрог	347	/banks/Rostovskaya_oblast~/Taganrog/	61	
+Ханты-Мансийский автономный округ	Нижневартовск	567	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Nizhnevartovsk/	86	
+Республика Марий Эл	Йошкар-Ола	394	/banks/Yosshkar-Ola/	12	
+Иркутская область	Братск	627	/banks/Irkutskaya_oblast~/Bratsk/list/	38	
+Краснодарский край	Новороссийск	321	/banks/Krasnodarskiy_kray/Novorossiysk/	23	
+Нижегородская область	Дзержинск	397	/banks/Nizhegorodskaya_oblast~/Dzerzhinsk/	52	
+Ростовская область	Шахты	350	/banks/Rostovskaya_oblast~/Shahtyi/	61	
+Кабардино-Балкарская Республика	Нальчик	799	/banks/Nal~chik/list/	7	
+Оренбургская область	Орск	420	/banks/Orenburgskaya_oblast~/Orsk/	56	
+Республика Коми	Сыктывкар	278	/banks/Syiktyivkar/	11	
+Республика Татарстан	Нижнекамск	483	/banks/Respublika_Tatarstan/Nizhnekamsk/	16	
+Республика Татарстан	Нижнекамск	483	/banks/Respublika_Tatarstan/Nizhnekamsk/	16	
+Иркутская область	Ангарск	628	/banks/Irkutskaya_oblast~/Angarsk/list/	38	
+Белгородская область	Старый Оскол	93	/banks/Belgorodskaya_oblast~/Staryiy_Oskol/list/	31	
+Новгородская область	Великий Новгород	2398	/banks/Velikiy_Novgorod/	53	
+Москва и область	Балашиха	9	/banks/Moskva_i_oblast~/Balasshiha/	50	
+Амурская область	Благовещенск	718	/banks/Blagovesschensk/list/	28	
+Кемеровская область	Прокопьевск	651	/banks/Kemerovskaya_oblast~/Prokop~evsk/list/	42	
+Алтайский край	Бийск	621	/banks/Altayskiy_kray/Biysk/list/	22	
+Москва и область	Химки	77	/banks/Moskva_i_oblast~/Himki/	50	
+Псковская область	Псков	267	/banks/Pskov/	60	
+Саратовская область	Энгельс	500	/banks/Saratovskaya_oblast~/Jengel~s/	64	
+Ярославская область	Рыбинск	201	/banks/Yaroslavskaya_oblast~/Ryibinsk/	76	
+Саратовская область	Балаково	499	/banks/Saratovskaya_oblast~/Balakovo/	64	
+Архангельская область	Северодвинск	233	/banks/Arhangel~skaya_oblast~/Severodvinsk/list/	29	
+Краснодарский край	Армавир	324	/banks/Krasnodarskiy_kray/Armavir/	23	
+Москва и область	Подольск	16	/banks/Moskva_i_oblast~/Podol~sk/	50	
+Москва и область	Королев	22	/banks/Moskva_i_oblast~/Korolev/	50	
+Сахалинская область	Южно-Сахалинск	778	/banks/Yuzhno-Sahalinsk/	65	
+Камчатский край	Петропавловск-Камчатский	729	/banks/Petropavlovsk-Kamchatskiy/list/	41	
+Самарская область	Сызрань	492	/banks/Samarskaya_oblast~/Syizran~/	63	
+Красноярский край	Норильск	660	/banks/Krasnoyarskiy_kray/Noril~sk/	24	
+Челябинская область	Златоуст	588	/banks/Chelyabinskaya_oblast~/Zlatoust/	74	
+Свердловская область	Каменск-Уральский	533	/banks/Sverdlovskaya_oblast~/Kamensk-Ural~skiy/	66	
+Москва и область	Мытищи	67	/banks/Moskva_i_oblast~/Myitisschi/	50	
+Москва и область	Люберцы	54	/banks/Moskva_i_oblast~/Lyubertssyi/	50	
+Ростовская область	Волгодонск	348	/banks/Rostovskaya_oblast~/Volgodonsk/	61	
+Ростовская область	Новочеркасск	346	/banks/Rostovskaya_oblast~/Novocherkassk/	61	
+Республика Хакасия	Абакан	691	/banks/Abakan/	19	
+Приморский край	Находка	736	/banks/Primorskiy_kray/Nahodka/	25	
+Приморский край	Уссурийск	737	/banks/Primorskiy_kray/Ussuriysk/	25	
+Пермский край	Березники	434	/banks/Permskiy_kray/Berezniki/	59	
+Республика Башкортостан	Салават	461	/banks/Respublika_Basshkortostan/Salavat/	2	
+Москва и область	Электросталь	81	/banks/Moskva_i_oblast~/Jelektrostal~/	50	
+Челябинская область	Миасс	582	/banks/Chelyabinskaya_oblast~/Miass/	74	
+Алтайский край	Рубцовск	624	/banks/Altayskiy_kray/Rubtssovsk/list/	22	
+Республика Татарстан	Альметьевск	481	/banks/Respublika_Tatarstan/Al~met~evsk/	16	
+Республика Татарстан	Альметьевск	481	/banks/Respublika_Tatarstan/Al~met~evsk/	16	
+Владимирская область	Ковров	107	/banks/Vladimirskaya_oblast~/Kovrov/list/	33	
+Москва и область	Коломна	12	/banks/Moskva_i_oblast~/Kolomna/	50	
+Республика Адыгея	Майкоп	340	/banks/Maykop/	1	
+Ставропольский край	Пятигорск	818	/banks/Stavropol~skiy_kray/Pyatigorsk/	26	
+Москва и область	Одинцово	68	/banks/Moskva_i_oblast~/Odintssovo/	50	
+Челябинская область	Копейск	590	/banks/Chelyabinskaya_oblast~/Kopeysk/	74	
+Республика Дагестан	Хасавюрт	792	/banks/Respublika_Dagestan/Hasavyurt/	5	
+Москва и область	Железнодорожный	25	/banks/Moskva_i_oblast~/Zheleznodorozhnyiy/	50	
+Тульская область	Новомосковск	195	/banks/Tul~skaya_oblast~/Novomoskovsk/	71	
+Ставропольский край	Кисловодск	815	/banks/Stavropol~skiy_kray/Kislovodsk/	26	
+Москва и область	Серпухов	19	/banks/Moskva_i_oblast~/Serpuhov/	50	
+Свердловская область	Первоуральск	535	/banks/Sverdlovskaya_oblast~/Pervoural~sk/	66	
+Чувашская Республика	Новочебоксарск	518	/banks/Chuvasshskaya_Respublika/Novocheboksarsk/	21	
+Ханты-Мансийский автономный округ	Нефтеюганск	568	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Nefteyugansk/	86	
+Республика Башкортостан	Нефтекамск	460	/banks/Respublika_Basshkortostan/Neftekamsk/	2	
+Карачаево-Черкесская Республика	Черкесск	803	/banks/Cherkessk/list/	9	
+Москва и область	Орехово-Зуево	15	/banks/Moskva_i_oblast~/Orehovo-Zuevo/	50	
+Республика Дагестан	Дербент	2780	/banks/Respublika_Dagestan/Derbent/	5	
+Волгоградская область	Камышин	294	/banks/Volgogradskaya_oblast~/Kamyisshin/list/	34	
+Ставропольский край	Невинномысск	817	/banks/Stavropol~skiy_kray/Nevinnomyissk/	26	
+Москва и область	Красногорск	13	/banks/Moskva_i_oblast~/Krasnogorsk/	50	
+Владимирская область	Муром	108	/banks/Vladimirskaya_oblast~/Murom/list/	33	
+Ростовская область	Батайск	353	/banks/Rostovskaya_oblast~/Bataysk/	61	
+Ростовская область	Новошахтинск	373	/banks/Rostovskaya_oblast~/Novosshahtinsk/	61	
+Москва и область	Сергиев Посад	18	/banks/Moskva_i_oblast~/Sergiev_Posad/	50	
+Ямало-Ненецкий автономный округ	Ноябрьск	605	/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Noyabr~sk/	89	
+Москва и область	Щелково	20	/banks/Moskva_i_oblast~/Schelkovo/	50	
+Республика Тыва	Кызыл	618	/banks/Kyizyil/	17	
+Республика Башкортостан	Октябрьский	463	/banks/Respublika_Basshkortostan/Oktyabr~skiy/	2	
+Красноярский край	Ачинск	658	/banks/Krasnoyarskiy_kray/Achinsk/	24	
+Томская область	Северск	696	/banks/Tomskaya_oblast~/Seversk/	70	
+Самарская область	Новокуйбышевск	495	/banks/Samarskaya_oblast~/Novokuybyisshevsk/	63	
+Липецкая область	Елец	160	/banks/Lipetsskaya_oblast~/Eletss/	48	
+Нижегородская область	Арзамас	404	/banks/Nizhegorodskaya_oblast~/Arzamas/	52	
+Калужская область	Обнинск	141	/banks/Kaluzhskaya_oblast~/Obninsk/list/	40	
+Ямало-Ненецкий автономный округ	Новый Уренгой	604	/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Novyiy_Urengoy/	89	
+Республика Дагестан	Каспийск	793	/banks/Respublika_Dagestan/Kaspiysk/	5	
+Республика Калмыкия	Элиста	343	/banks/Jelista/	8	
+Москва и область	Пушкино	66	/banks/Moskva_i_oblast~/Pusshkino/	50	
+Москва и область	Жуковский	21	/banks/Moskva_i_oblast~/Zhukovskiy/	50	
+Приморский край	Артем	741	/banks/Primorskiy_kray/Artem/	25	
+Кемеровская область	Междуреченск	642	/banks/Kemerovskaya_oblast~/Mezhdurechensk/list/	42	
+Кемеровская область	Ленинск-Кузнецкий	649	/banks/Kemerovskaya_oblast~/Leninsk-Kuznetsskiy/list/	42	
+Удмуртская Республика	Сарапул	510	/banks/Udmurtskaya_Respublika/Sarapul/	18	
+Удмуртская Республика	Сарапул	510	/banks/Udmurtskaya_Respublika/Sarapul/	18	
+Ставропольский край	Ессентуки	814	/banks/Stavropol~skiy_kray/Essentuki/	26	
+Удмуртская Республика	Воткинск	512	/banks/Udmurtskaya_Respublika/Votkinsk/	18	
+Удмуртская Республика	Воткинск	512	/banks/Udmurtskaya_Respublika/Votkinsk/	18	
+Москва и область	Ногинск	62	/banks/Moskva_i_oblast~/Noginsk/	50	
+Тюменская область	Тобольск	563	/banks/Tyumenskaya_oblast~/Tobol~sk/	72	
+Республика Коми	Ухта	281	/banks/Respublika_Komi/Uhta/	11	
+Свердловская область	Серов	559	/banks/Sverdlovskaya_oblast~/Serov/	66	
+Псковская область	Великие Луки	268	/banks/Pskovskaya_oblast~/Velikie_Luki/	60	
+Тамбовская область	Мичуринск	183	/banks/Tambovskaya_oblast~/Michurinsk/	68	
+Кемеровская область	Киселевск	648	/banks/Kemerovskaya_oblast~/Kiselevsk/list/	42	
+Оренбургская область	Новотроицк	424	/banks/Orenburgskaya_oblast~/Novotroitssk/	56	
+Республика Татарстан	Зеленодольск	2886	/banks/Respublika_Tatarstan/Zelenodol~sk/	16	
+Республика Татарстан	Зеленодольск	2886	/banks/Respublika_Tatarstan/Zelenodol~sk/	16	
+Новосибирская область	Бердск	674	/banks/Novosibirskaya_oblast~/Berdsk/	54	
+Пермский край	Соликамск	453	/banks/Permskiy_kray/Solikamsk/	59	
+Москва и область	Раменское	17	/banks/Moskva_i_oblast~/Ramenskoe/	50	
+Москва и область	Домодедово	85	/banks/Moskva_i_oblast~/Domodedovo/	50	
+Магаданская область	Магадан	733	/banks/Magadan/	49	
+Удмуртская Республика	Глазов	509	/banks/Udmurtskaya_Respublika/Glazov/	18	
+Удмуртская Республика	Глазов	509	/banks/Udmurtskaya_Respublika/Glazov/	18	
+Ростовская область	Каменск-Шахтинский	349	/banks/Rostovskaya_oblast~/Kamensk-Shahtinskiy/	61	
+Курская область	Железногорск	153	/banks/Kurskaya_oblast~/Zheleznogorsk/	46	
+Красноярский край	Канск	664	/banks/Krasnoyarskiy_kray/Kansk/	24	
+Республика Ингушетия	Назрань	796	/banks/Respublika_Ingusshetiya/Nazran~/	6	
+Санкт-Петербург и область	Гатчина	215	/banks/Sankt-Peterburg_i_oblast~/Gatchina/	47	
+Нижегородская область	Саров	398	/banks/Nizhegorodskaya_oblast~/Sarov/	52	
+Москва и область	Воскресенск	10	/banks/Moskva_i_oblast~/Voskresensk/	50	
+Москва и область	Долгопрудный	5	/banks/Moskva_i_oblast~/Dolgoprudnyiy/	50	
+Республика Татарстан	Бугульма	482	/banks/Respublika_Tatarstan/Bugul~ma/	16	
+Республика Татарстан	Бугульма	482	/banks/Respublika_Tatarstan/Bugul~ma/	16	
+Пензенская область	Кузнецк	430	/banks/Penzenskaya_oblast~/Kuznetssk/	58	
+Белгородская область	Губкин	97	/banks/Belgorodskaya_oblast~/Gubkin/list/	31	
+Ивановская область	Кинешма	137	/banks/Ivanovskaya_oblast~/Kinesshma/list/	37	
+Краснодарский край	Ейск	325	/banks/Krasnodarskiy_kray/Eysk/	23	
+Москва и область	Реутов	41	/banks/Moskva_i_oblast~/Reutov/	50	
+Иркутская область	Усть-Илимск	629	/banks/Irkutskaya_oblast~/Ust~-Ilimsk/list/	38	
+Красноярский край	Железногорск	661	/banks/Krasnoyarskiy_kray/Zheleznogorsk/	24	
+Свердловская область	Новоуральск	554	/banks/Sverdlovskaya_oblast~/Novoural~sk/	66	
+Иркутская область	Усолье-Сибирское	4033	/banks/Irkutskaya_oblast~/Usol~e-Sibirskoe/list/	38	
+Пермский край	Чайковский	455	/banks/Permskiy_kray/Chaykovskiy/	59	
+Ростовская область	Азов	354	/banks/Rostovskaya_oblast~/Azov/	61	
+Оренбургская область	Бузулук	423	/banks/Orenburgskaya_oblast~/Buzuluk/	56	
+Челябинская область	Озерск	583	/banks/Chelyabinskaya_oblast~/Ozersk/	74	
+Саратовская область	Балашов	502	/banks/Saratovskaya_oblast~/Balasshov/	64	
+Кемеровская область	Юрга	655	/banks/Kemerovskaya_oblast~/Yurga/list/	42	
+Кировская область	Кирово-Чепецк	389	/banks/Kirovskaya_oblast~/Kirovo-Chepetssk/	43	
+Краснодарский край	Кропоткин	3144	/banks/Krasnodarskiy_kray/Kropotkin/	23	
+Москва и область	Клин	45	/banks/Moskva_i_oblast~/Klin/	50	
+Санкт-Петербург и область	Выборг	212	/banks/Sankt-Peterburg_i_oblast~/Vyiborg/	47	
+Ханты-Мансийский автономный округ	Ханты-Мансийск	565	/banks/Hantyi-Mansiysk/	86	
+Челябинская область	Троицк	595	/banks/Chelyabinskaya_oblast~/Troitssk/	74	
+Нижегородская область	Бор	406	/banks/Nizhegorodskaya_oblast~/Bor/	52	
+Курганская область	Шадринск	529	/banks/Kurganskaya_oblast~/Shadrinsk/	45	
+Кемеровская область	Белово	646	/banks/Kemerovskaya_oblast~/Belovo/list/	42	
+Ставропольский край	Минеральные Воды	816	/banks/Stavropol~skiy_kray/Mineral~nyie_Vodyi/	26	
+Кемеровская область	Анжеро-Судженск	644	/banks/Kemerovskaya_oblast~/Anzhero-Sudzhensk/list/	42	
+Еврейская автономная область	Биробиджан	713	/banks/Birobidzhan/list/	79	
+Москва и область	Лобня	46	/banks/Moskva_i_oblast~/Lobnya/	50	
+Самарская область	Чапаевск	496	/banks/Samarskaya_oblast~/Chapaevsk/	63	
+Ставропольский край	Георгиевск	821	/banks/Stavropol~skiy_kray/Georgievsk/	26	
+Республика Хакасия	Черногорск	693	/banks/Respublika_Hakasiya/Chernogorsk/	19	
+Красноярский край	Минусинск	659	/banks/Krasnoyarskiy_kray/Minusinsk/	24	
+Ставропольский край	Михайловск	3318	/banks/Stavropol~skiy_kray/Mihaylovsk/	26	
+Республика Татарстан	Елабуга	487	/banks/Respublika_Tatarstan/Elabuga/	16	
+Республика Татарстан	Елабуга	487	/banks/Respublika_Tatarstan/Elabuga/	16	
+Москва и область	Дубна	6	/banks/Moskva_i_oblast~/Dubna/	50	
+Республика Коми	Воркута	279	/banks/Respublika_Komi/Vorkuta/	11	
+Алтайский край	Новоалтайск	3444	/banks/Altayskiy_kray/Novoaltaysk/list/	22	
+Москва и область	Егорьевск	83	/banks/Moskva_i_oblast~/Egor~evsk/	50	
+Свердловская область	Асбест	539	/banks/Sverdlovskaya_oblast~/Asbest/	66	
+Республика Башкортостан	Белорецк	466	/banks/Respublika_Basshkortostan/Beloretssk/	2	
+Амурская область	Белогорск	719	/banks/Amurskaya_oblast~/Belogorsk/list/	28	
+Ростовская область	Гуково	356	/banks/Rostovskaya_oblast~/Gukovo/	61	
+Москва и область	Ступино	73	/banks/Moskva_i_oblast~/Stupino/	50	
+Республика Башкортостан	Туймазы	470	/banks/Respublika_Basshkortostan/Tuymazyi/	2	
+Нижегородская область	Кстово	400	/banks/Nizhegorodskaya_oblast~/Kstovo/	52	
+Саратовская область	Вольск	503	/banks/Saratovskaya_oblast~/Vol~sk/	64	
+Республика Башкортостан	Ишимбай	468	/banks/Respublika_Basshkortostan/Isshimbay/	2	
+Пермский край	Кунгур	445	/banks/Permskiy_kray/Kungur/	59	
+Пермский край	Лысьва	447	/banks/Permskiy_kray/Lyis~va/	59	
+Санкт-Петербург и область	Сосновый Бор	217	/banks/Sankt-Peterburg_i_oblast~/Sosnovyiy_Bor/	47	
+Республика Дагестан	Буйнакск	2781	/banks/Respublika_Dagestan/Buynaksk/	5	
+Тюменская область	Ишим	562	/banks/Tyumenskaya_oblast~/Isshim/	72	
+Москва и область	Наро-Фоминск	57	/banks/Moskva_i_oblast~/Naro-Fominsk/	50	
+Ставропольский край	Буденновск	820	/banks/Stavropol~skiy_kray/Budennovsk/	26	
+Тульская область	Донской	2808	/banks/Tul~skaya_oblast~/Donskoy/	71	
+Свердловская область	Полевской	555	/banks/Sverdlovskaya_oblast~/Polevskoy/	66	
+Республика Татарстан	Лениногорск	485	/banks/Respublika_Tatarstan/Leninogorsk/	16	
+Республика Татарстан	Лениногорск	485	/banks/Respublika_Tatarstan/Leninogorsk/	16	
+Москва и область	Павловский Посад	56	/banks/Moskva_i_oblast~/Pavlovskiy_Posad/	50	
+Краснодарский край	Славянск-на-Кубани	334	/banks/Krasnodarskiy_kray/Slavyansk-na-Kubani/	23	
+Пензенская область	Заречный	429	/banks/Penzenskaya_oblast~/Zarechnyiy/	58	
+Краснодарский край	Туапсе	322	/banks/Krasnodarskiy_kray/Tuapse/	23	
+Республика Башкортостан	Кумертау	467	/banks/Respublika_Basshkortostan/Kumertau/	2	
+Краснодарский край	Лабинск	3189	/banks/Krasnodarskiy_kray/Labinsk/	23	
+Республика Башкортостан	Сибай	469	/banks/Respublika_Basshkortostan/Sibay/	2	
+Брянская область	Клинцы	3044	/banks/Bryanskaya_oblast~/Klintssyi/list/	32	
+Тверская область	Ржев	3714	/banks/Tverskaya_oblast~/Rzhev/	69	
+Свердловская область	Ревда	543	/banks/Sverdlovskaya_oblast~/Revda/	66	
+Краснодарский край	Тихорецк	336	/banks/Krasnodarskiy_kray/Tihoretssk/	23	
+Республика Саха (Якутия)	Нерюнгри	768	/banks/Respublika_Saha_(Yakutiya)/Neryungri/	14	
+Тульская область	Алексин	197	/banks/Tul~skaya_oblast~/Aleksin/	71	
+Владимирская область	Александров	110	/banks/Vladimirskaya_oblast~/Aleksandrov/list/	33	
+Москва и область	Дмитров	11	/banks/Moskva_i_oblast~/Dmitrov/	50	
+Республика Башкортостан	Мелеуз	3300	/banks/Respublika_Basshkortostan/Meleuz/	2	
+Ростовская область	Сальск	375	/banks/Rostovskaya_oblast~/Sal~sk/	61	
+Красноярский край	Лесосибирск	667	/banks/Krasnoyarskiy_kray/Lesosibirsk/	24	
+Владимирская область	Гусь-Хрустальный	2763	/banks/Vladimirskaya_oblast~/Gus~-Hrustal~nyiy/list/	33	
+Республика Татарстан	Чистополь	3359	/banks/Respublika_Tatarstan/Chistopol~/	16	
+Республика Татарстан	Чистополь	3359	/banks/Respublika_Tatarstan/Chistopol~/	16	
+Нижегородская область	Павлово	412	/banks/Nizhegorodskaya_oblast~/Pavlovo/	52	
+Москва и область	Чехов	87	/banks/Moskva_i_oblast~/Chehov/	50	
+Архангельская область	Котлас	4080	/banks/Arhangel~skaya_oblast~/Kotlas/list/	29	
+Республика Башкортостан	Белебей	2525	/banks/Respublika_Basshkortostan/Belebey/	2	
+Новосибирская область	Искитим	676	/banks/Novosibirskaya_oblast~/Iskitim/	54	
+Свердловская область	Верхняя Пышма	540	/banks/Sverdlovskaya_oblast~/Verhnyaya_Pyisshma/	66	
+Свердловская область	Краснотурьинск	546	/banks/Sverdlovskaya_oblast~/Krasnotur~insk/	66	
+Мурманская область	Апатиты	253	/banks/Murmanskaya_oblast~/Apatityi/	51	
+Санкт-Петербург и область	Всеволожск	214	/banks/Sankt-Peterburg_i_oblast~/Vsevolozhsk/	47	
+Кабардино-Балкарская Республика	Прохладный	3685	/banks/Kabardino-Balkarskaya_Respublika/Prohladnyiy/list/	7	
+Волгоградская область	Михайловка	305	/banks/Volgogradskaya_oblast~/Mihaylovka/list/	34	
+Краснодарский край	Анапа	323	/banks/Krasnodarskiy_kray/Anapa/	23	
+Санкт-Петербург и область	Тихвин	218	/banks/Sankt-Peterburg_i_oblast~/Tihvin/	47	
+Амурская область	Свободный	722	/banks/Amurskaya_oblast~/Svobodnyiy/list/	28	
+Москва и область	Ивантеевка	26	/banks/Moskva_i_oblast~/Ivanteevka/	50	
+Ивановская область	Шуя	4178	/banks/Ivanovskaya_oblast~/Shuya/list/	37	
+Ханты-Мансийский автономный округ	Когалым	572	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Kogalyim/	86	
+Тульская область	Щекино	4180	/banks/Tul~skaya_oblast~/Schekino/	71	
+Краснодарский край	Крымск	332	/banks/Krasnodarskiy_kray/Kryimsk/	23	
+Смоленская область	Вязьма	173	/banks/Smolenskaya_oblast~/Vyaz~ma/	67	
+Республика Алтай	Горно-Алтайск	615	/banks/Gorno-Altaysk/	4	
+Москва и область	Видное	30	/banks/Moskva_i_oblast~/Vidnoe/	50	
+Приморский край	Арсеньев	740	/banks/Primorskiy_kray/Arsen~ev/	25	
+Республика Дагестан	Избербаш	790	/banks/Respublika_Dagestan/Izberbassh/	5	
+Нижегородская область	Выкса	399	/banks/Nizhegorodskaya_oblast~/Vyiksa/	52	
+Москва и область	Климовск	27	/banks/Moskva_i_oblast~/Klimovsk/	50	
+Республика Марий Эл	Волжск	393	/banks/Respublika_Mariy_Jel/Volzhsk/	12	
+Забайкальский край	Краснокаменск	702	/banks/Zabaykal~skiy_kray/Krasnokamensk/list/	75	
+Самарская область	Жигулевск	491	/banks/Samarskaya_oblast~/Zhigulevsk/	63	
+Москва и область	Фрязино	23	/banks/Moskva_i_oblast~/Fryazino/	50	
+Тульская область	Узловая	4012	/banks/Tul~skaya_oblast~/Uzlovaya/	71	
+Москва и область	Лыткарино	53	/banks/Moskva_i_oblast~/Lyitkarino/	50	
+Ханты-Мансийский автономный округ	Нягань	3352	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Nyagan~/	86	
+Смоленская область	Рославль	174	/banks/Smolenskaya_oblast~/Roslavl~/	67	
+Краснодарский край	Геленджик	329	/banks/Krasnodarskiy_kray/Gelendzhik/	23	
+Краснодарский край	Тимашевск	335	/banks/Krasnodarskiy_kray/Timasshevsk/	23	
+Краснодарский край	Белореченск	328	/banks/Krasnodarskiy_kray/Belorechensk/	23	
+Новгородская область	Боровичи	263	/banks/Novgorodskaya_oblast~/Borovichi/	53	
+Москва и область	Солнечногорск	70	/banks/Moskva_i_oblast~/Solnechnogorsk/	50	
+Красноярский край	Назарово	3383	/banks/Krasnoyarskiy_kray/Nazarovo/	24	
+Санкт-Петербург и область	Кириши	216	/banks/Sankt-Peterburg_i_oblast~/Kirisshi/	47	
+Иркутская область	Черемхово	4119	/banks/Irkutskaya_oblast~/Cheremhovo/list/	38	
+Тверская область	Вышний Волочек	188	/banks/Tverskaya_oblast~/Vyisshniy_Volochek/	69	
+Пермский край	Краснокамск	443	/banks/Permskiy_kray/Krasnokamsk/	59	
+Свердловская область	Березовский	542	/banks/Sverdlovskaya_oblast~/Berezovskiy/	66	
+Нижегородская область	Балахна	403	/banks/Nizhegorodskaya_oblast~/Balahna/	52	
+Орловская область	Ливны	3215	/banks/Orlovskaya_oblast~/Livnyi/	57	
+Свердловская область	Лесной	550	/banks/Sverdlovskaya_oblast~/Lesnoy/	66	
+Ростовская область	Донецк	2807	/banks/Rostovskaya_oblast~/Donetssk/	61	
+Мурманская область	Североморск	3761	/banks/Murmanskaya_oblast~/Severomorsk/	51	
+Республика Хакасия	Саяногорск	692	/banks/Respublika_Hakasiya/Sayanogorsk/	19	
+Оренбургская область	Бугуруслан	2614	/banks/Orenburgskaya_oblast~/Buguruslan/	56	
+Тверская область	Кимры	189	/banks/Tverskaya_oblast~/Kimryi/	69	
+Ханты-Мансийский автономный округ	Мегион	574	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Megion/	86	
+Республика Дагестан	Кизляр	3024	/banks/Respublika_Dagestan/Kizlyar/	5	
+Челябинская область	Снежинск	593	/banks/Chelyabinskaya_oblast~/Snezhinsk/	74	
+Санкт-Петербург и область	Кингисепп	3029	/banks/Sankt-Peterburg_i_oblast~/Kingisepp/	47	
+Алтайский край	Заринск	623	/banks/Altayskiy_kray/Zarinsk/list/	22	
+Самарская область	Отрадный	3549	/banks/Samarskaya_oblast~/Otradnyiy/	63	
+Краснодарский край	Курганинск	3170	/banks/Krasnodarskiy_kray/Kurganinsk/	23	
+Иркутская область	Шелехов	638	/banks/Irkutskaya_oblast~/Shelehov/list/	38	
+Удмуртская Республика	Можга	3323	/banks/Udmurtskaya_Respublika/Mozhga/	18	
+Удмуртская Республика	Можга	3323	/banks/Udmurtskaya_Respublika/Mozhga/	18	
+Санкт-Петербург и область	Сертолово	226	/banks/Sankt-Peterburg_i_oblast~/Sertolovo/	47	
+Смоленская область	Ярцево	178	/banks/Smolenskaya_oblast~/Yartssevo/	67	
+Тверская область	Торжок	3967	/banks/Tverskaya_oblast~/Torzhok/	69	
+Республика Мордовия	Рузаевка	475	/banks/Respublika_Mordoviya/Ruzaevka/	13	
+Санкт-Петербург и область	Волхов	213	/banks/Sankt-Peterburg_i_oblast~/Volhov/	47	
+Кемеровская область	Березовский	645	/banks/Kemerovskaya_oblast~/Berezovskiy/list/	42	
+Москва и область	Дзержинский	84	/banks/Moskva_i_oblast~/Dzerzhinskiy/	50	
+Липецкая область	Грязи	2755	/banks/Lipetsskaya_oblast~/Gryazi/	48	
+Пермский край	Чусовой	456	/banks/Permskiy_kray/Chusovoy/	59	
+Ямало-Ненецкий автономный округ	Надым	608	/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Nadyim/	89	
+Свердловская область	Верхняя Салда	541	/banks/Sverdlovskaya_oblast~/Verhnyaya_Salda/	66	
+Смоленская область	Сафоново	175	/banks/Smolenskaya_oblast~/Safonovo/	67	
+Кемеровская область	Осинники	3542	/banks/Kemerovskaya_oblast~/Osinniki/list/	42	
+Владимирская область	Кольчугино	114	/banks/Vladimirskaya_oblast~/Kol~chugino/list/	33	
+Чувашская Республика	Канаш	521	/banks/Chuvasshskaya_Respublika/Kanassh/	21	
+Тамбовская область	Рассказово	3708	/banks/Tambovskaya_oblast~/Rasskazovo/	68	
+Челябинская область	Сатка	584	/banks/Chelyabinskaya_oblast~/Satka/	74	
+Мурманская область	Мончегорск	260	/banks/Murmanskaya_oblast~/Monchegorsk/	51	
+Новосибирская область	Куйбышев	3159	/banks/Novosibirskaya_oblast~/Kuybyisshev/	54	
+Иркутская область	Усть-Кут	636	/banks/Irkutskaya_oblast~/Ust~-Kut/list/	38	
+Иркутская область	Тулун	3982	/banks/Irkutskaya_oblast~/Tulun/list/	38	
+Белгородская область	Шебекино	100	/banks/Belgorodskaya_oblast~/Shebekino/list/	31	
+Приморский край	Спасск-Дальний	754	/banks/Primorskiy_kray/Spassk-Dal~niy/	25	
+Алтайский край	Камень-на-Оби	2974	/banks/Altayskiy_kray/Kamen~-na-Obi/list/	22	
+Ростовская область	Белая Калитва	357	/banks/Rostovskaya_oblast~/Belaya_Kalitva/	61	
+Республика Коми	Печора	286	/banks/Respublika_Komi/Pechora/	11	
+Челябинская область	Чебаркуль	598	/banks/Chelyabinskaya_oblast~/Chebarkul~/	74	
+Ханты-Мансийский автономный округ	Радужный	570	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Raduzhnyiy/	86	
+Краснодарский край	Усть-Лабинск	4048	/banks/Krasnodarskiy_kray/Ust~-Labinsk/	23	
+Орловская область	Мценск	3375	/banks/Orlovskaya_oblast~/Mtssensk/	57	
+Кемеровская область	Мыски	3376	/banks/Kemerovskaya_oblast~/Myiski/list/	42	
+Хабаровский край	Амурск	2439	/banks/Habarovskiy_kray/Amursk/	27	
+Курская область	Курчатов	155	/banks/Kurskaya_oblast~/Kurchatov/	46	
+Ямало-Ненецкий автономный округ	Салехард	603	/banks/Salehard/	89	
+Тульская область	Ефремов	2848	/banks/Tul~skaya_oblast~/Efremov/	71	
+Томская область	Стрежевой	698	/banks/Tomskaya_oblast~/Strezhevoy/	70	
+Ростовская область	Аксай	355	/banks/Rostovskaya_oblast~/Aksay/	61	
+Ярославская область	Переславль-Залесский	207	/banks/Yaroslavskaya_oblast~/Pereslavl~-Zalesskiy/	76	
+Астраханская область	Ахтубинск	2468	/banks/Astrahanskaya_oblast~/Ahtubinsk/list/	30	
+Москва и область	Кашира	42	/banks/Moskva_i_oblast~/Kasshira/	50	
+Республика Татарстан	Заинск	2867	/banks/Respublika_Tatarstan/Zainsk/	16	
+Республика Татарстан	Заинск	2867	/banks/Respublika_Tatarstan/Zainsk/	16	
+Калининградская область	Советск	3807	/banks/Kaliningradskaya_oblast~/Sovetsk/list/	39	
+Саратовская область	Пугачев	3689	/banks/Saratovskaya_oblast~/Pugachev/	64	
+Ханты-Мансийский автономный округ	Лангепас	571	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Langepas/	86	
+Республика Башкортостан	Бирск	465	/banks/Respublika_Basshkortostan/Birsk/	2	
+Волгоградская область	Урюпинск	314	/banks/Volgogradskaya_oblast~/Uryupinsk/list/	34	
+Тамбовская область	Моршанск	3337	/banks/Tambovskaya_oblast~/Morsshansk/	68	
+Ханты-Мансийский автономный округ	Пыть-Ях	573	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Pyit~-Yah/	86	
+Свердловская область	Качканар	544	/banks/Sverdlovskaya_oblast~/Kachkanar/	66	
+Тверская область	Конаково	190	/banks/Tverskaya_oblast~/Konakovo/	69	
+Саратовская область	Ртищево	3724	/banks/Saratovskaya_oblast~/Rtisschevo/	64	
+Владимирская область	Вязники	2710	/banks/Vladimirskaya_oblast~/Vyazniki/list/	33	
+Краснодарский край	Кореновск	3079	/banks/Krasnodarskiy_kray/Korenovsk/	23	
+Республика Коми	Усинск	280	/banks/Respublika_Komi/Usinsk/	11	
+Ярославская область	Тутаев	202	/banks/Yaroslavskaya_oblast~/Tutaev/	76	
+Ростовская область	Красный Сулин	368	/banks/Rostovskaya_oblast~/Krasnyiy_Sulin/	61	
+Иркутская область	Саянск	3751	/banks/Irkutskaya_oblast~/Sayansk/list/	38	
+Архангельская область	Новодвинск	238	/banks/Arhangel~skaya_oblast~/Novodvinsk/list/	29	
+Брянская область	Новозыбков	3454	/banks/Bryanskaya_oblast~/Novozyibkov/list/	32	
+Калужская область	Людиново	3244	/banks/Kaluzhskaya_oblast~/Lyudinovo/list/	40	
+Ставропольский край	Изобильный	2921	/banks/Stavropol~skiy_kray/Izobil~nyiy/	26	
+Кемеровская область	Мариинск	650	/banks/Kemerovskaya_oblast~/Mariinsk/list/	42	
+Калининградская область	Черняховск	4127	/banks/Kaliningradskaya_oblast~/Chernyahovsk/list/	39	
+Нижегородская область	Заволжье	408	/banks/Nizhegorodskaya_oblast~/Zavolzh~e/	52	
+Краснодарский край	Апшеронск	2446	/banks/Krasnodarskiy_kray/Apssheronsk/	23	
+Свердловская область	Красноуфимск	547	/banks/Sverdlovskaya_oblast~/Krasnoufimsk/	66	
+Архангельская область	Коряжма	236	/banks/Arhangel~skaya_oblast~/Koryazhma/list/	29	
+Пензенская область	Каменка	2970	/banks/Penzenskaya_oblast~/Kamenka/	58	
+Камчатский край	Елизово	730	/banks/Kamchatskiy_kray/Elizovo/list/	41	
+Волгоградская область	Фролово	313	/banks/Volgogradskaya_oblast~/Frolovo/list/	34	
+Ханты-Мансийский автономный округ	Урай	577	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Uray/	86	
+Приморский край	Большой Камень	743	/banks/Primorskiy_kray/Bol~sshoy_Kamen~/	25	
+Санкт-Петербург и область	Тосно	3207	/banks/Sankt-Peterburg_i_oblast~/Tosno/	47	
+Белгородская область	Алексеевка	96	/banks/Belgorodskaya_oblast~/Alekseevka/list/	31	
+Челябинская область	Коркино	3081	/banks/Chelyabinskaya_oblast~/Korkino/	74	
+Челябинская область	Кыштым	591	/banks/Chelyabinskaya_oblast~/Kyisshtyim/	74	
+Ханты-Мансийский автономный округ	Лянтор	3247	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Lyantor/	86	
+Республика Северная Осетия-Алания	Моздок	3324	/banks/Respublika_Severnaya_Osetiya-Alaniya/Mozdok/	15	
+Приморский край	Партизанск	3575	/banks/Primorskiy_kray/Partizansk/	25	
+Красноярский край	Шарыпово	671	/banks/Krasnoyarskiy_kray/Sharyipovo/	24	
+Ставропольский край	Светлоград	823	/banks/Stavropol~skiy_kray/Svetlograd/	26	
+Вологодская область	Сокол	3810	/banks/Vologodskaya_oblast~/Sokol/list/	35	
+Свердловская область	Ирбит	2939	/banks/Sverdlovskaya_oblast~/Irbit/	66	
+Оренбургская область	Гай	422	/banks/Orenburgskaya_oblast~/Gay/	56	
+Свердловская область	Реж	3711	/banks/Sverdlovskaya_oblast~/Rezh/	66	
+Чувашская Республика	Алатырь	2428	/banks/Chuvasshskaya_Respublika/Alatyir~/	21	
+Свердловская область	Алапаевск	538	/banks/Sverdlovskaya_oblast~/Alapaevsk/	66	
+Краснодарский край	Темрюк	337	/banks/Krasnodarskiy_kray/Temryuk/	23	
+Челябинская область	Южноуральск	599	/banks/Chelyabinskaya_oblast~/Yuzhnoural~sk/	74	
+Республика Башкортостан	Учалы	471	/banks/Respublika_Basshkortostan/Uchalyi/	2	
+Ивановская область	Вичуга	2676	/banks/Ivanovskaya_oblast~/Vichuga/list/	37	
+Приморский край	Дальнегорск	759	/banks/Primorskiy_kray/Dal~negorsk/	25	
+Москва и область	Протвино	60	/banks/Moskva_i_oblast~/Protvino/	50	
+Республика Саха (Якутия)	Мирный	767	/banks/Respublika_Saha_(Yakutiya)/Mirnyiy/	14	
+Иркутская область	Нижнеудинск	634	/banks/Irkutskaya_oblast~/Nizhneudinsk/list/	38	
+Приморский край	Лесозаводск	748	/banks/Primorskiy_kray/Lesozavodsk/	25	
+Кабардино-Балкарская Республика	Баксан	2497	/banks/Kabardino-Balkarskaya_Respublika/Baksan/list/	7	
+Республика Северная Осетия-Алания	Беслан	807	/banks/Respublika_Severnaya_Osetiya-Alaniya/Beslan/	15	
+Тюменская область	Ялуторовск	3354	/banks/Tyumenskaya_oblast~/Yalutorovsk/	72	
+Ростовская область	Миллерово	372	/banks/Rostovskaya_oblast~/Millerovo/	61	
+Санкт-Петербург и область	Луга	222	/banks/Sankt-Peterburg_i_oblast~/Luga/	47	
+Республика Дагестан	Кизилюрт	3023	/banks/Respublika_Dagestan/Kizilyurt/	5	
+Ивановская область	Фурманов	4071	/banks/Ivanovskaya_oblast~/Furmanov/list/	37	
+Калининградская область	Краснознаменск	7781	/banks/Kaliningradskaya_oblast~/Krasnoznamensk/list/	39	
+Ставропольский край	Зеленокумск	4700	/banks/Stavropol~skiy_kray/Zelenokumsk/	26	
+Нижегородская область	Кулебаки	409	/banks/Nizhegorodskaya_oblast~/Kulebaki/	52	
+Мурманская область	Кандалакша	256	/banks/Murmanskaya_oblast~/Kandalakssha/	51	
+Амурская область	Тында	720	/banks/Amurskaya_oblast~/Tyinda/list/	28	
+Иркутская область	Тайшет	635	/banks/Irkutskaya_oblast~/Taysshet/list/	38	
+Свердловская область	Тавда	3901	/banks/Sverdlovskaya_oblast~/Tavda/	66	
+Пензенская область	Сердобск	3779	/banks/Penzenskaya_oblast~/Serdobsk/	58	
+Белгородская область	Валуйки	95	/banks/Belgorodskaya_oblast~/Valuyki/list/	31	
+Краснодарский край	Гулькевичи	2757	/banks/Krasnodarskiy_kray/Gul~kevichi/	23	
+Кировская область	Вятские Поляны	387	/banks/Kirovskaya_oblast~/Vyatskie_Polyanyi/	43	
+Москва и область	Истра	50	/banks/Moskva_i_oblast~/Istra/	50	
+Ивановская область	Тейково	138	/banks/Ivanovskaya_oblast~/Teykovo/list/	37	
+Краснодарский край	Абинск	327	/banks/Krasnodarskiy_kray/Abinsk/	23	
+Республика Татарстан	Азнакаево	2415	/banks/Respublika_Tatarstan/Aznakaevo/	16	
+Республика Татарстан	Азнакаево	2415	/banks/Respublika_Tatarstan/Aznakaevo/	16	
+Краснодарский край	Новокубанск	333	/banks/Krasnodarskiy_kray/Novokubansk/	23	
+Свердловская область	Сухой Лог	557	/banks/Sverdlovskaya_oblast~/Suhoy_Log/	66	
+Ярославская область	Углич	208	/banks/Yaroslavskaya_oblast~/Uglich/	76	
+Самарская область	Кинель	3030	/banks/Samarskaya_oblast~/Kinel~/	63	
+Республика Башкортостан	Благовещенск	6276	/banks/Respublika_Basshkortostan/Blagovesschensk/	2	
+Ханты-Мансийский автономный округ	Югорск	578	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Yugorsk/	86	
+Кировская область	Слободской	3799	/banks/Kirovskaya_oblast~/Slobodskoy/	43	
+Пермский край	Добрянка	454	/banks/Permskiy_kray/Dobryanka/	59	
+Челябинская область	Трехгорный	596	/banks/Chelyabinskaya_oblast~/Trehgornyiy/	74	
+Санкт-Петербург и область	Сланцы	3206	/banks/Sankt-Peterburg_i_oblast~/Slantssyi/	47	
+Сахалинская область	Корсаков	774	/banks/Sahalinskaya_oblast~/Korsakov/	65	
+Рязанская область	Касимов	167	/banks/Ryazanskaya_oblast~/Kasimov/	62	
+Ямало-Ненецкий автономный округ	Муравленко	609	/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Muravlenko/	89	
+Пермский край	Чернушка	457	/banks/Permskiy_kray/Chernusshka/	59	
+Свердловская область	Артемовский	537	/banks/Sverdlovskaya_oblast~/Artemovskiy/	66	
+Красноярский край	Сосновоборск	668	/banks/Krasnoyarskiy_kray/Sosnovoborsk/	24	
+Республика Карелия	Кондопога	271	/banks/Respublika_Kareliya/Kondopoga/	10	
+Москва и область	Шатура	88	/banks/Moskva_i_oblast~/Shatura/	50	
+Ставропольский край	Благодарный	2564	/banks/Stavropol~skiy_kray/Blagodarnyiy/	26	
+Калининградская область	Балтийск	2503	/banks/Kaliningradskaya_oblast~/Baltiysk/list/	39	
+Республика Татарстан	Нурлат	3495	/banks/Respublika_Tatarstan/Nurlat/	16	
+Республика Татарстан	Нурлат	3495	/banks/Respublika_Tatarstan/Nurlat/	16	
+Иркутская область	Зима	633	/banks/Irkutskaya_oblast~/Zima/list/	38	
+Алтайский край	Славгород	3793	/banks/Altayskiy_kray/Slavgorod/list/	22	
+Москва и область	Котельники	49	/banks/Moskva_i_oblast~/Kotel~niki/	50	
+Краснодарский край	Приморско-Ахтарск	4832	/banks/Krasnodarskiy_kray/Primorsko-Ahtarsk/	23	
+Республика Коми	Инта	284	/banks/Respublika_Komi/Inta/	11	
+Челябинская область	Аша	587	/banks/Chelyabinskaya_oblast~/Assha/	74	
+Тульская область	Богородицк	2573	/banks/Tul~skaya_oblast~/Bogoroditssk/	71	
+Калужская область	Киров	5062	/banks/Kaluzhskaya_oblast~/Kirov/list/	40	
+Тамбовская область	Котовск	181	/banks/Tambovskaya_oblast~/Kotovsk/	68	
+Новгородская область	Старая Русса	264	/banks/Novgorodskaya_oblast~/Staraya_Russa/	53	
+Ярославская область	Ростов	205	/banks/Yaroslavskaya_oblast~/Rostov/	76	
+Чувашская Республика	Шумерля	522	/banks/Chuvasshskaya_Respublika/Shumerlya/	21	
+Смоленская область	Гагарин	172	/banks/Smolenskaya_oblast~/Gagarin/	67	
+Кабардино-Балкарская Республика	Нарткала	3387	/banks/Kabardino-Balkarskaya_Respublika/Nartkala/list/	7	
+Вологодская область	Великий Устюг	4715	/banks/Vologodskaya_oblast~/Velikiy_Ustyug/list/	35	
+Саратовская область	Маркс	505	/banks/Saratovskaya_oblast~/Marks/	64	
+Москва и область	Можайск	14	/banks/Moskva_i_oblast~/Mozhaysk/	50	
+Забайкальский край	Борзя	2604	/banks/Zabaykal~skiy_kray/Borzya/list/	75	
+Москва и область	Ликино-Дулево	3216	/banks/Moskva_i_oblast~/Likino-Dulevo/	50	
+Республика Башкортостан	Дюртюли	2821	/banks/Respublika_Basshkortostan/Dyurtyuli/	2	
+Саратовская область	Петровск	3595	/banks/Saratovskaya_oblast~/Petrovsk/	64	
+Республика Ингушетия	Карабулак	2983	/banks/Respublika_Ingusshetiya/Karabulak/	6	
+Республика Ингушетия	Малгобек	3265	/banks/Respublika_Ingusshetiya/Malgobek/	6	
+Тверская область	Удомля	192	/banks/Tverskaya_oblast~/Udomlya/	69	
+Сахалинская область	Холмск	776	/banks/Sahalinskaya_oblast~/Holmsk/	65	
+Нижегородская область	Городец	407	/banks/Nizhegorodskaya_oblast~/Gorodetss/	52	
+Свердловская область	Богданович	2570	/banks/Sverdlovskaya_oblast~/Bogdanovich/	66	
+Республика Дагестан	Дагестанские Огни	2765	/banks/Respublika_Dagestan/Dagestanskie_Ogni/	5	
+Карачаево-Черкесская Республика	Усть-Джегута	4038	/banks/Karachaevo-Cherkesskaya_Respublika/Ust~-Dzheguta/list/	9	
+Челябинская область	Верхний Уфалей	586	/banks/Chelyabinskaya_oblast~/Verhniy_Ufaley/	74	
+Калужская область	Малоярославец	145	/banks/Kaluzhskaya_oblast~/Maloyaroslavetss/list/	40	
+Новосибирская область	Барабинск	2506	/banks/Novosibirskaya_oblast~/Barabinsk/	54	
+Рязанская область	Скопин	3792	/banks/Ryazanskaya_oblast~/Skopin/	62	
+Архангельская область	Мирный	237	/banks/Arhangel~skaya_oblast~/Mirnyiy/list/	29	
+Челябинская область	Еманжелинск	597	/banks/Chelyabinskaya_oblast~/Emanzhelinsk/	74	
+Свердловская область	Кушва	549	/banks/Sverdlovskaya_oblast~/Kusshva/	66	
+Краснодарский край	Горячий Ключ	2746	/banks/Krasnodarskiy_kray/Goryachiy_Klyuch/	23	
+Владимирская область	Киржач	113	/banks/Vladimirskaya_oblast~/Kirzhach/list/	33	
+Москва и область	Луховицы	52	/banks/Moskva_i_oblast~/Luhovitssyi/	50	
+Смоленская область	Десногорск	177	/banks/Smolenskaya_oblast~/Desnogorsk/	67	
+Республика Карелия	Сегежа	276	/banks/Respublika_Kareliya/Segezha/	10	
+Алтайский край	Алейск	2429	/banks/Altayskiy_kray/Aleysk/list/	22	
+Брянская область	Дятьково	2823	/banks/Bryanskaya_oblast~/Dyat~kovo/list/	32	
+Ивановская область	Кохма	3094	/banks/Ivanovskaya_oblast~/Kohma/list/	37	
+Астраханская область	Знаменск	2896	/banks/Astrahanskaya_oblast~/Znamensk/list/	30	
+Москва и область	Дедовск	86	/banks/Moskva_i_oblast~/Dedovsk/	50	
+Свердловская область	Североуральск	3764	/banks/Sverdlovskaya_oblast~/Severoural~sk/	66	
+Оренбургская область	Сорочинск	3829	/banks/Orenburgskaya_oblast~/Sorochinsk/	56	
+Челябинская область	Карталы	3001	/banks/Chelyabinskaya_oblast~/Kartalyi/	74	
+Свердловская область	Карпинск	2999	/banks/Sverdlovskaya_oblast~/Karpinsk/	66	
+Пермский край	Кудымкар	446	/banks/Permskiy_kray/Kudyimkar/	59	
+Мурманская область	Кировск	257	/banks/Murmanskaya_oblast~/Kirovsk/	51	
+Кемеровская область	Топки	3961	/banks/Kemerovskaya_oblast~/Topki/list/	42	
+Новосибирская область	Карасук	2988	/banks/Novosibirskaya_oblast~/Karasuk/	54	
+Тульская область	Кимовск	4905	/banks/Tul~skaya_oblast~/Kimovsk/	71	
+Республика Карелия	Костомукша	3090	/banks/Respublika_Kareliya/Kostomukssha/	10	
+Оренбургская область	Соль-Илецк	3826	/banks/Orenburgskaya_oblast~/Sol~-Iletssk/	56	
+Красноярский край	Дивногорск	669	/banks/Krasnoyarskiy_kray/Divnogorsk/	24	
+Калининградская область	Гусев	2761	/banks/Kaliningradskaya_oblast~/Gusev/list/	39	
+Самарская область	Похвистнево	3656	/banks/Samarskaya_oblast~/Pohvistnevo/	63	
+Рязанская область	Сасово	3750	/banks/Ryazanskaya_oblast~/Sasovo/	62	
+Республика Коми	Сосногорск	3837	/banks/Respublika_Komi/Sosnogorsk/	11	
+Хабаровский край	Советская Гавань	786	/banks/Habarovskiy_kray/Sovetskaya_Gavan~/	27	
+Ставропольский край	Нефтекумск	3406	/banks/Stavropol~skiy_kray/Neftekumsk/	26	
+Ростовская область	Морозовск	374	/banks/Rostovskaya_oblast~/Morozovsk/	61	
+Кемеровская область	Полысаево	3645	/banks/Kemerovskaya_oblast~/Polyisaevo/list/	42	
+Приморский край	Дальнереченск	760	/banks/Primorskiy_kray/Dal~nerechensk/	25	
+Пермский край	Губаха	439	/banks/Permskiy_kray/Gubaha/	59	
+Омская область	Тара	3911	/banks/Omskaya_oblast~/Tara/	55	
+Оренбургская область	Медногорск	3296	/banks/Orenburgskaya_oblast~/Mednogorsk/	56	
+Самарская область	Октябрьск	3514	/banks/Samarskaya_oblast~/Oktyabr~sk/	63	
+Республика Башкортостан	Янаул	472	/banks/Respublika_Basshkortostan/Yanaul/	2	
+Ямало-Ненецкий автономный округ	Лабытнанги	607	/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Labyitnangi/	89	
+Волгоградская область	Калач-на-Дону	298	/banks/Volgogradskaya_oblast~/Kalach-na-Donu/list/	34	
+Свердловская область	Камышлов	2979	/banks/Sverdlovskaya_oblast~/Kamyisshlov/	66	
+Ростовская область	Зерноград	361	/banks/Rostovskaya_oblast~/Zernograd/	61	
+Тамбовская область	Уварово	4005	/banks/Tambovskaya_oblast~/Uvarovo/	68	
+Ставропольский край	Новоалександровск	3441	/banks/Stavropol~skiy_kray/Novoaleksandrovsk/	26	
+Кабардино-Балкарская Республика	Майский	3255	/banks/Kabardino-Balkarskaya_Respublika/Mayskiy/list/	7	
+Ставропольский край	Новопавловск	3470	/banks/Stavropol~skiy_kray/Novopavlovsk/	26	
+Ханты-Мансийский автономный округ	Советский	576	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Sovetskiy/	86	
+Калужская область	Балабаново	143	/banks/Kaluzhskaya_oblast~/Balabanovo/list/	40	
+Ивановская область	Родники	3719	/banks/Ivanovskaya_oblast~/Rodniki/list/	37	
+Москва и область	Красноармейск	43	/banks/Moskva_i_oblast~/Krasnoarmeysk/	50	
+Брянская область	Унеча	4019	/banks/Bryanskaya_oblast~/Unecha/list/	32	
+Оренбургская область	Кувандык	3151	/banks/Orenburgskaya_oblast~/Kuvandyik/	56	
+Иркутская область	Железногорск-Илимский	637	/banks/Irkutskaya_oblast~/Zheleznogorsk-Ilimskiy/list/	38	
+Ставропольский край	Ипатово	2937	/banks/Stavropol~skiy_kray/Ipatovo/	26	
+Москва и область	Озеры	3511	/banks/Moskva_i_oblast~/Ozeryi/	50	
+Костромская область	Буй	2616	/banks/Kostromskaya_oblast~/Buy/	44	
+Тюменская область	Заводоуковск	2859	/banks/Tyumenskaya_oblast~/Zavodoukovsk/	72	
+Санкт-Петербург и область	Кировск	221	/banks/Sankt-Peterburg_i_oblast~/Kirovsk/	47	
+Саратовская область	Аткарск	504	/banks/Saratovskaya_oblast~/Atkarsk/	64	
+Томская область	Асино	2460	/banks/Tomskaya_oblast~/Asino/	70	
+Тульская область	Киреевск	3033	/banks/Tul~skaya_oblast~/Kireevsk/	71	
+Нижегородская область	Богородск	405	/banks/Nizhegorodskaya_oblast~/Bogorodsk/	52	
+Новосибирская область	Обь	3506	/banks/Novosibirskaya_oblast~/Ob~/	54	
+Кемеровская область	Тайга	652	/banks/Kemerovskaya_oblast~/Tayga/list/	42	
+Амурская область	Зея	2889	/banks/Amurskaya_oblast~/Zeya/list/	28	
+Кировская область	Котельнич	3092	/banks/Kirovskaya_oblast~/Kotel~nich/	43	
+Свердловская область	Красноуральск	545	/banks/Sverdlovskaya_oblast~/Krasnoural~sk/	66	
+Республика Саха (Якутия)	Ленск	766	/banks/Respublika_Saha_(Yakutiya)/Lensk/	14	
+Республика Бурятия	Северобайкальск	686	/banks/Respublika_Buryatiya/Severobaykal~sk/	3	
+Кемеровская область	Гурьевск	2760	/banks/Kemerovskaya_oblast~/Gur~evsk/list/	42	
+Москва и область	Зарайск	36	/banks/Moskva_i_oblast~/Zaraysk/	50	
+Республика Бурятия	Гусиноозерск	684	/banks/Respublika_Buryatiya/Gusinoozersk/	3	
+Свердловская область	Невьянск	556	/banks/Sverdlovskaya_oblast~/Nev~yansk/	66	
+Тверская область	Бежецк	2518	/banks/Tverskaya_oblast~/Bezhetssk/	69	
+Ставропольский край	Железноводск	825	/banks/Stavropol~skiy_kray/Zheleznovodsk/	26	
+Омская область	Исилькуль	2941	/banks/Omskaya_oblast~/Isil~kul~/	55	
+Нижегородская область	Семенов	415	/banks/Nizhegorodskaya_oblast~/Semenov/	52	
+Новосибирская область	Татарск	3925	/banks/Novosibirskaya_oblast~/Tatarsk/	54	
+Томская область	Колпашево	3058	/banks/Tomskaya_oblast~/Kolpasshevo/	70	
+Волгоградская область	Котово	300	/banks/Volgogradskaya_oblast~/Kotovo/list/	34	
+Республика Башкортостан	Давлеканово	2764	/banks/Respublika_Basshkortostan/Davlekanovo/	2	
+Белгородская область	Строитель	3873	/banks/Belgorodskaya_oblast~/Stroitel~/list/	31	
+Архангельская область	Вельск	235	/banks/Arhangel~skaya_oblast~/Vel~sk/list/	29	
+Ростовская область	Семикаракорск	376	/banks/Rostovskaya_oblast~/Semikarakorsk/	61	
+Санкт-Петербург и область	Отрадное	224	/banks/Sankt-Peterburg_i_oblast~/Otradnoe/	47	
+Карачаево-Черкесская Республика	Карачаевск	2992	/banks/Karachaevo-Cherkesskaya_Respublika/Karachaevsk/list/	9	
+Приморский край	Фокино	757	/banks/Primorskiy_kray/Fokino/	25	
+Костромская область	Шарья	150	/banks/Kostromskaya_oblast~/Shar~ya/	44	
+Кировская область	Омутнинск	3532	/banks/Kirovskaya_oblast~/Omutninsk/	43	
+Челябинская область	Усть-Катав	4044	/banks/Chelyabinskaya_oblast~/Ust~-Katav/	74	
+Омская область	Калачинск	2959	/banks/Omskaya_oblast~/Kalachinsk/	55	
+Тверская область	Бологое	187	/banks/Tverskaya_oblast~/Bologoe/	69	
+Москва и область	Волоколамск	32	/banks/Moskva_i_oblast~/Volokolamsk/	50	
+Ямало-Ненецкий автономный округ	Губкинский	2756	/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Gubkinskiy/	89	
+Кемеровская область	Таштагол	653	/banks/Kemerovskaya_oblast~/Tasshtagol/list/	42	
+Мурманская область	Оленегорск	259	/banks/Murmanskaya_oblast~/Olenegorsk/	51	
+Сахалинская область	Оха	3550	/banks/Sahalinskaya_oblast~/Oha/	65	
+Москва и область	Кубинка	3150	/banks/Moskva_i_oblast~/Kubinka/	50	
+Камчатский край	Вилючинск	728	/banks/Kamchatskiy_kray/Vilyuchinsk/list/	41	
+Тверская область	Нелидово	3398	/banks/Tverskaya_oblast~/Nelidovo/	69	
+Костромская область	Нерехта	149	/banks/Kostromskaya_oblast~/Nerehta/	44	
+Хабаровский край	Николаевск-на-Амуре	784	/banks/Habarovskiy_kray/Nikolaevsk-na-Amure/	27	
+Пензенская область	Нижний Ломов	3414	/banks/Penzenskaya_oblast~/Nizhniy_Lomov/	58	
+Москва и область	Лосино-Петровский	48	/banks/Moskva_i_oblast~/Losino-Petrovskiy/	50	
+Ставропольский край	Лермонтов	822	/banks/Stavropol~skiy_kray/Lermontov/	26	
+Иркутская область	Вихоревка	631	/banks/Irkutskaya_oblast~/Vihorevka/list/	38	
+Пензенская область	Никольск	3428	/banks/Penzenskaya_oblast~/Nikol~sk/	58	
+Ростовская область	Зверево	2882	/banks/Rostovskaya_oblast~/Zverevo/	61	
+Архангельская область	Няндома	3499	/banks/Arhangel~skaya_oblast~/Nyandoma/list/	29	
+Красноярский край	Дудинка	670	/banks/Krasnoyarskiy_kray/Dudinka/	24	
+Пермский край	Верещагино	2650	/banks/Permskiy_kray/Veresschagino/	59	
+Республика Татарстан	Бавлы	2484	/banks/Respublika_Tatarstan/Bavlyi/	16	
+Республика Татарстан	Бавлы	2484	/banks/Respublika_Tatarstan/Bavlyi/	16	
+Республика Татарстан	Менделеевск	486	/banks/Respublika_Tatarstan/Mendeleevsk/	16	
+Республика Татарстан	Менделеевск	486	/banks/Respublika_Tatarstan/Mendeleevsk/	16	
+Свердловская область	Нижняя Тура	553	/banks/Sverdlovskaya_oblast~/Nizhnyaya_Tura/	66	
+Новосибирская область	Тогучин	3954	/banks/Novosibirskaya_oblast~/Toguchin/	54	
+Кемеровская область	Калтан	647	/banks/Kemerovskaya_oblast~/Kaltan/list/	42	
+Нижегородская область	Лысково	410	/banks/Nizhegorodskaya_oblast~/Lyiskovo/	52	
+Москва и область	Старая Купавна	71	/banks/Moskva_i_oblast~/Staraya_Kupavna/	50	
+Москва и область	Куровское	3173	/banks/Moskva_i_oblast~/Kurovskoe/	50	
+Рязанская область	Ряжск	166	/banks/Ryazanskaya_oblast~/Ryazhsk/	62	
+Псковская область	Остров	3545	/banks/Pskovskaya_oblast~/Ostrov/	60	
+Москва и область	Хотьково	4098	/banks/Moskva_i_oblast~/Hot~kovo/	50	
+Краснодарский край	Хадыженск	4074	/banks/Krasnodarskiy_kray/Hadyizhensk/	23	
+Санкт-Петербург и область	Пикалево	223	/banks/Sankt-Peterburg_i_oblast~/Pikalevo/	47	
+Курская область	Льгов	3241	/banks/Kurskaya_oblast~/L~gov/	46	
+Саратовская область	Ершов	2845	/banks/Saratovskaya_oblast~/Ersshov/	64	
+Нижегородская область	Сергач	414	/banks/Nizhegorodskaya_oblast~/Sergach/	52	
+Калининградская область	Светлый	250	/banks/Kaliningradskaya_oblast~/Svetlyiy/list/	39	
+Архангельская область	Онега	3534	/banks/Arhangel~skaya_oblast~/Onega/list/	29	
+Республика Мордовия	Ковылкино	3052	/banks/Respublika_Mordoviya/Kovyilkino/	13	
+Ненецкий автономный округ	Нарьян-Мар	230	/banks/Nar~yan-Mar/	83	
+Республика Саха (Якутия)	Алдан	765	/banks/Respublika_Saha_(Yakutiya)/Aldan/	14	
+Москва и область	Рошаль	3723	/banks/Moskva_i_oblast~/Rosshal~/	50	
+Республика Марий Эл	Козьмодемьянск	3056	/banks/Respublika_Mariy_Jel/Koz~modem~yansk/	12	
+Пермский край	Оса	449	/banks/Permskiy_kray/Osa/	59	
+Москва и область	Бронницы	29	/banks/Moskva_i_oblast~/Bronnitssyi/	50	
+Липецкая область	Данков	2769	/banks/Lipetsskaya_oblast~/Dankov/	48	
+Санкт-Петербург и область	Лодейное Поле	3224	/banks/Sankt-Peterburg_i_oblast~/Lodeynoe_Pole/	47	
+Красноярский край	Боготол	2574	/banks/Krasnoyarskiy_kray/Bogotol/	24	
+Свердловская область	Кировград	548	/banks/Sverdlovskaya_oblast~/Kirovgrad/	66	
+Кабардино-Балкарская Республика	Тырныауз	3993	/banks/Kabardino-Balkarskaya_Respublika/Tyirnyiauz/list/	7	
+Липецкая область	Лебедянь	159	/banks/Lipetsskaya_oblast~/Lebedyan~/	48	
+Москва и область	Черноголовка	8	/banks/Moskva_i_oblast~/Chernogolovka/	50	
+Челябинская область	Бакал	2495	/banks/Chelyabinskaya_oblast~/Bakal/	74	
+Республика Северная Осетия-Алания	Алагир	2426	/banks/Respublika_Severnaya_Osetiya-Alaniya/Alagir/	15	
+Нижегородская область	Шахунья	417	/banks/Nizhegorodskaya_oblast~/Shahun~ya/	52	
+Волгоградская область	Суровикино	3890	/banks/Volgogradskaya_oblast~/Surovikino/list/	34	
+Амурская область	Райчихинск	3704	/banks/Amurskaya_oblast~/Raychihinsk/list/	28	
+Свердловская область	Сысерть	558	/banks/Sverdlovskaya_oblast~/Syisert~/	66	
+Свердловская область	Среднеуральск	3842	/banks/Sverdlovskaya_oblast~/Sredneural~sk/	66	
+Волгоградская область	Котельниково	301	/banks/Volgogradskaya_oblast~/Kotel~nikovo/list/	34	
+Ямало-Ненецкий автономный округ	Тарко-Сале	610	/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Tarko-Sale/	89	
+Республика Татарстан	Буинск	2617	/banks/Respublika_Tatarstan/Buinsk/	16	
+Республика Татарстан	Буинск	2617	/banks/Respublika_Tatarstan/Buinsk/	16	
+Ханты-Мансийский автономный округ	Белоярский	2536	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Beloyarskiy/	86	
+Ростовская область	Пролетарск	3682	/banks/Rostovskaya_oblast~/Proletarsk/	61	
+Санкт-Петербург и область	Коммунар	3066	/banks/Sankt-Peterburg_i_oblast~/Kommunar/	47	
+Москва и область	Пущино	7	/banks/Moskva_i_oblast~/Pusschino/	50	
+Оренбургская область	Абдулино	2405	/banks/Orenburgskaya_oblast~/Abdulino/	56	
+Москва и область	Электроугли	82	/banks/Moskva_i_oblast~/Jelektrougli/	50	
+Республика Бурятия	Кяхта	3188	/banks/Respublika_Buryatiya/Kyahta/	3	
+Амурская область	Шимановск	725	/banks/Amurskaya_oblast~/Shimanovsk/list/	28	
+Новосибирская область	Черепаново	4121	/banks/Novosibirskaya_oblast~/Cherepanovo/	54	
+Брянская область	Карачев	2993	/banks/Bryanskaya_oblast~/Karachev/list/	32	
+Пермский край	Кизел	444	/banks/Permskiy_kray/Kizel/	59	
+Владимирская область	Юрьев-Польский	4206	/banks/Vladimirskaya_oblast~/Yur~ev-Pol~skiy/list/	33	
+Белгородская область	Новый Оскол	99	/banks/Belgorodskaya_oblast~/Novyiy_Oskol/list/	31	
+Владимирская область	Собинка	115	/banks/Vladimirskaya_oblast~/Sobinka/list/	33	
+Санкт-Петербург и область	Никольское	3429	/banks/Sankt-Peterburg_i_oblast~/Nikol~skoe/	47	
+Рязанская область	Новомичуринск	4862	/banks/Ryazanskaya_oblast~/Novomichurinsk/	62	
+Республика Татарстан	Агрыз	2411	/banks/Respublika_Tatarstan/Agryiz/	16	
+Республика Татарстан	Агрыз	2411	/banks/Respublika_Tatarstan/Agryiz/	16	
+Самарская область	Нефтегорск	3405	/banks/Samarskaya_oblast~/Neftegorsk/	63	
+Республика Карелия	Сортавала	272	/banks/Respublika_Kareliya/Sortavala/	10	
+Кабардино-Балкарская Республика	Терек	3939	/banks/Kabardino-Balkarskaya_Respublika/Terek/list/	7	
+Пермский край	Нытва	450	/banks/Permskiy_kray/Nyitva/	59	
+Брянская область	Стародуб	3852	/banks/Bryanskaya_oblast~/Starodub/list/	32	
+Тульская область	Суворов	198	/banks/Tul~skaya_oblast~/Suvorov/	71	
+Санкт-Петербург и область	Приозерск	3675	/banks/Sankt-Peterburg_i_oblast~/Priozersk/	47	
+Мурманская область	Ковдор	3050	/banks/Murmanskaya_oblast~/Kovdor/	51	
+Челябинская область	Куса	3179	/banks/Chelyabinskaya_oblast~/Kusa/	74	
+Республика Северная Осетия-Алания	Ардон	4661	/banks/Respublika_Severnaya_Osetiya-Alaniya/Ardon/	15	
+Красноярский край	Енисейск	2834	/banks/Krasnoyarskiy_kray/Eniseysk/	24	
+Липецкая область	Усмань	4032	/banks/Lipetsskaya_oblast~/Usman~/	48	
+Санкт-Петербург и область	Подпорожье	3629	/banks/Sankt-Peterburg_i_oblast~/Podporozh~e/	47	
+Алтайский край	Яровое	3348	/banks/Altayskiy_kray/Yarovoe/list/	22	
+Забайкальский край	Петровск-Забайкальский	3598	/banks/Zabaykal~skiy_kray/Petrovsk-Zabaykal~skiy/list/	75	
+Иркутская область	Слюдянка	3800	/banks/Irkutskaya_oblast~/Slyudyanka/list/	38	
+Москва и область	Апрелевка	90	/banks/Moskva_i_oblast~/Aprelevka/	50	
+Рязанская область	Рыбное	3730	/banks/Ryazanskaya_oblast~/Ryibnoe/	62	
+Брянская область	Жуковка	2854	/banks/Bryanskaya_oblast~/Zhukovka/list/	32	
+Владимирская область	Радужный	112	/banks/Vladimirskaya_oblast~/Raduzhnyiy/list/	33	
+Астраханская область	Харабали	4079	/banks/Astrahanskaya_oblast~/Harabali/list/	30	
+Калужская область	Козельск	3054	/banks/Kaluzhskaya_oblast~/Kozel~sk/list/	40	
+Республика Татарстан	Арск	2454	/banks/Respublika_Tatarstan/Arsk/	16	
+Республика Татарстан	Арск	2454	/banks/Respublika_Tatarstan/Arsk/	16	
+Тверская область	Осташков	3544	/banks/Tverskaya_oblast~/Ostasshkov/	69	
+Кабардино-Балкарская Республика	Чегем	4114	/banks/Kabardino-Balkarskaya_Respublika/Chegem/list/	7	
+Брянская область	Почеп	3657	/banks/Bryanskaya_oblast~/Pochep/list/	32	
+Брянская область	Сельцо	6249	/banks/Bryanskaya_oblast~/Sel~tsso/list/	32	
+Ростовская область	Константиновск	369	/banks/Rostovskaya_oblast~/Konstantinovsk/	61	
+Свердловская область	Туринск	3986	/banks/Sverdlovskaya_oblast~/Turinsk/	66	
+Волгоградская область	Новоаннинский	306	/banks/Volgogradskaya_oblast~/Novoanninskiy/list/	34	
+Курганская область	Шумиха	530	/banks/Kurganskaya_oblast~/Shumiha/	45	
+Ярославская область	Гаврилов-Ям	204	/banks/Yaroslavskaya_oblast~/Gavrilov-Yam/	76	
+Свердловская область	Ивдель	2906	/banks/Sverdlovskaya_oblast~/Ivdel~/	66	
+Владимирская область	Покров	117	/banks/Vladimirskaya_oblast~/Pokrov/list/	33	
+Республика Башкортостан	Баймак	2494	/banks/Respublika_Basshkortostan/Baymak/	2	
+Челябинская область	Катав-Ивановск	3006	/banks/Chelyabinskaya_oblast~/Katav-Ivanovsk/	74	
+Свердловская область	Нижняя Салда	552	/banks/Sverdlovskaya_oblast~/Nizhnyaya_Salda/	66	
+Костромская область	Мантурово	3279	/banks/Kostromskaya_oblast~/Manturovo/	44	
+Москва и область	Голицыно	31	/banks/Moskva_i_oblast~/Golitssyino/	50	
+Красноярский край	Бородино	2609	/banks/Krasnoyarskiy_kray/Borodino/	24	
+Оренбургская область	Ясный	426	/banks/Orenburgskaya_oblast~/Yasnyiy/	56	
+Республика Башкортостан	Межгорье	6280	/banks/Respublika_Basshkortostan/Mezhgor~e/	2	
+Костромская область	Галич	2716	/banks/Kostromskaya_oblast~/Galich/	44	
+Челябинская область	Пласт	3613	/banks/Chelyabinskaya_oblast~/Plast/	74	
+Мурманская область	Полярный	3648	/banks/Murmanskaya_oblast~/Polyarnyiy/	51	
+Кировская область	Яранск	390	/banks/Kirovskaya_oblast~/Yaransk/	43	
+Тамбовская область	Кирсанов	3038	/banks/Tambovskaya_oblast~/Kirsanov/	68	
+Хабаровский край	Бикин	2555	/banks/Habarovskiy_kray/Bikin/	27	
+Республика Хакасия	Абаза	2400	/banks/Respublika_Hakasiya/Abaza/	19	
+Костромская область	Волгореченск	2683	/banks/Kostromskaya_oblast~/Volgorechensk/	44	
+Курганская область	Куртамыш	3175	/banks/Kurganskaya_oblast~/Kurtamyissh/	45	
+Ханты-Мансийский автономный округ	Покачи	3635	/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Pokachi/	86	
+Курская область	Щигры	4183	/banks/Kurskaya_oblast~/Schigryi/	46	
+Саратовская область	Новоузенск	3482	/banks/Saratovskaya_oblast~/Novouzensk/	64	
+Челябинская область	Касли	3003	/banks/Chelyabinskaya_oblast~/Kasli/	74	
+Волгоградская область	Жирновск	316	/banks/Volgogradskaya_oblast~/Zhirnovsk/list/	34	
+Тульская область	Ясногорск	7588	/banks/Tul~skaya_oblast~/Yasnogorsk/	71	
+Ивановская область	Приволжск	3667	/banks/Ivanovskaya_oblast~/Privolzhsk/list/	37	
+Калужская область	Кондрово	3073	/banks/Kaluzhskaya_oblast~/Kondrovo/list/	40	
+Санкт-Петербург и область	Бокситогорск	2578	/banks/Sankt-Peterburg_i_oblast~/Boksitogorsk/	47	
+Кировская область	Советск	5030	/banks/Kirovskaya_oblast~/Sovetsk/	43	
+Новосибирская область	Болотное	2580	/banks/Novosibirskaya_oblast~/Bolotnoe/	54	
+Республика Татарстан	Мензелинск	3304	/banks/Respublika_Tatarstan/Menzelinsk/	16	
+Республика Татарстан	Мензелинск	3304	/banks/Respublika_Tatarstan/Menzelinsk/	16	
+Саратовская область	Калининск	2961	/banks/Saratovskaya_oblast~/Kalininsk/	64	
+Нижегородская область	Навашино	411	/banks/Nizhegorodskaya_oblast~/Navasshino/	52	
+Москва и область	Звенигород	37	/banks/Moskva_i_oblast~/Zvenigorod/	50	
+Республика Башкортостан	Агидель	6317	/banks/Respublika_Basshkortostan/Agidel~/	2	
+Псковская область	Невель	4750	/banks/Pskovskaya_oblast~/Nevel~/	60	
+Калужская область	Сухиничи	3895	/banks/Kaluzhskaya_oblast~/Suhinichi/list/	40	
+Астраханская область	Камызяк	2978	/banks/Astrahanskaya_oblast~/Kamyizyak/list/	30	
+Тульская область	Плавск	4904	/banks/Tul~skaya_oblast~/Plavsk/	71	
+Свердловская область	Талица	3909	/banks/Sverdlovskaya_oblast~/Talitssa/	66	
+Тверская область	Кашин	4712	/banks/Tverskaya_oblast~/Kasshin/	69	
+Красноярский край	Иланский	665	/banks/Krasnoyarskiy_kray/Ilanskiy/	24	
+Новгородская область	Валдай	2399	/banks/Novgorodskaya_oblast~/Valday/	53	
+Сахалинская область	Поронайск	775	/banks/Sahalinskaya_oblast~/Poronaysk/	65	
+Пермский край	Красновишерск	442	/banks/Permskiy_kray/Krasnovisshersk/	59	
+Красноярский край	Ужур	4011	/banks/Krasnoyarskiy_kray/Uzhur/	24	
+Волгоградская область	Краснослободск	5102	/banks/Volgogradskaya_oblast~/Krasnoslobodsk/list/	34	
+Волгоградская область	Палласовка	303	/banks/Volgogradskaya_oblast~/Pallasovka/list/	34	
+Санкт-Петербург и область	Светогорск	3756	/banks/Sankt-Peterburg_i_oblast~/Svetogorsk/	47	
+Новгородская область	Пестово	3591	/banks/Novgorodskaya_oblast~/Pestovo/	53	
+Ярославская область	Данилов	2767	/banks/Yaroslavskaya_oblast~/Danilov/	76	
+Мурманская область	Заполярный	255	/banks/Murmanskaya_oblast~/Zapolyarnyiy/	51	
+Владимирская область	Лакинск	3196	/banks/Vladimirskaya_oblast~/Lakinsk/list/	33	
+Курская область	Рыльск	3731	/banks/Kurskaya_oblast~/Ryil~sk/	46	
+Республика Карелия	Медвежьегорск	275	/banks/Respublika_Kareliya/Medvezh~egorsk/	10	
+Вологодская область	Грязовец	243	/banks/Vologodskaya_oblast~/Gryazovetss/list/	35	
+Волгоградская область	Ленинск	302	/banks/Volgogradskaya_oblast~/Leninsk/list/	34	
+Свердловская область	Дегтярск	2773	/banks/Sverdlovskaya_oblast~/Degtyarsk/	66	
+Новгородская область	Чудово	265	/banks/Novgorodskaya_oblast~/Chudovo/	53	
+Иркутская область	Бодайбо	632	/banks/Irkutskaya_oblast~/Bodaybo/list/	38	
+Тульская область	Венев	2647	/banks/Tul~skaya_oblast~/Venev/	71	
+Тамбовская область	Жердевка	4698	/banks/Tambovskaya_oblast~/Zherdevka/	68	
+Владимирская область	Меленки	3299	/banks/Vladimirskaya_oblast~/Melenki/list/	33	
+Владимирская область	Петушки	3605	/banks/Vladimirskaya_oblast~/Petusshki/list/	33	
+Мурманская область	Полярные Зори	3647	/banks/Murmanskaya_oblast~/Polyarnyie_Zori/	51	
+Волгоградская область	Николаевск	304	/banks/Volgogradskaya_oblast~/Nikolaevsk/list/	34	
+Ростовская область	Цимлянск	380	/banks/Rostovskaya_oblast~/Tsimlyansk/	61	
+Брянская область	Трубчевск	3978	/banks/Bryanskaya_oblast~/Trubchevsk/list/	32	
+Забайкальский край	Нерчинск	3403	/banks/Zabaykal~skiy_kray/Nerchinsk/list/	75	
+Нижегородская область	Лукоянов	3236	/banks/Nizhegorodskaya_oblast~/Lukoyanov/	52	
+Новосибирская область	Купино	3167	/banks/Novosibirskaya_oblast~/Kupino/	54	
+Владимирская область	Карабаново	2981	/banks/Vladimirskaya_oblast~/Karabanovo/list/	33	
+Красноярский край	Кодинск	666	/banks/Krasnoyarskiy_kray/Kodinsk/	24	
+Алтайский край	Белокуриха	2530	/banks/Altayskiy_kray/Belokuriha/list/	22	
+Республика Коми	Емва	2832	/banks/Respublika_Komi/Emva/	11	
+Нижегородская область	Первомайск	413	/banks/Nizhegorodskaya_oblast~/Pervomaysk/	52	
+Хабаровский край	Вяземский	2709	/banks/Habarovskiy_kray/Vyazemskiy/	27	
+Пермский край	Александровск	437	/banks/Permskiy_kray/Aleksandrovsk/	59	
+Челябинская область	Сим	3788	/banks/Chelyabinskaya_oblast~/Sim/	74	
+Республика Татарстан	Мамадыш	3276	/banks/Respublika_Tatarstan/Mamadyissh/	16	
+Республика Татарстан	Мамадыш	3276	/banks/Respublika_Tatarstan/Mamadyissh/	16	
+Саратовская область	Красный Кут	3132	/banks/Saratovskaya_oblast~/Krasnyiy_Kut/	64	
+Владимирская область	Струнино	3874	/banks/Vladimirskaya_oblast~/Strunino/list/	33	
+Волгоградская область	Дубовка	317	/banks/Volgogradskaya_oblast~/Dubovka/list/	34	
+Республика Калмыкия	Лагань	3190	/banks/Respublika_Kalmyikiya/Lagan~/	8	
+Пермский край	Очер	452	/banks/Permskiy_kray/Ocher/	59	
+Свердловская область	Арамиль	2447	/banks/Sverdlovskaya_oblast~/Aramil~/	66	
+Ивановская область	Южа	4199	/banks/Ivanovskaya_oblast~/Yuzha/list/	37	
+Курганская область	Катайск	3007	/banks/Kurganskaya_oblast~/Kataysk/	45	
+Владимирская область	Гороховец	2741	/banks/Vladimirskaya_oblast~/Gorohovetss/list/	33	
+Забайкальский край	Шилка	709	/banks/Zabaykal~skiy_kray/Shilka/list/	75	
+Алтайский край	Горняк	2739	/banks/Altayskiy_kray/Gornyak/list/	22	
+Тульская область	Белев	4901	/banks/Tul~skaya_oblast~/Belev/	71	
+Курганская область	Далматово	528	/banks/Kurganskaya_oblast~/Dalmatovo/	45	
+Калининградская область	Гвардейск	2718	/banks/Kaliningradskaya_oblast~/Gvardeysk/list/	39	
+Брянская область	Фокино	6248	/banks/Bryanskaya_oblast~/Fokino/list/	32	
+Тверская область	Калязин	4707	/banks/Tverskaya_oblast~/Kalyazin/	69	
+Москва и область	Талдом	3910	/banks/Moskva_i_oblast~/Taldom/	50	
+Санкт-Петербург и область	Сясьстрой	3899	/banks/Sankt-Peterburg_i_oblast~/Syas~stroy/	47	
+Иркутская область	Свирск	3757	/banks/Irkutskaya_oblast~/Svirsk/list/	38	
+Иркутская область	Байкальск	2492	/banks/Irkutskaya_oblast~/Baykal~sk/list/	38	
+Курская область	Обоянь	3503	/banks/Kurskaya_oblast~/Oboyan~/	46	
+Москва и область	Руза	39	/banks/Moskva_i_oblast~/Ruza/	50	
+Чувашская Республика	Цивильск	5007	/banks/Chuvasshskaya_Respublika/Tsivil~sk/	21	
+Республика Тыва	Ак-Довурак	4865	/banks/Respublika_Tyiva/Ak-Dovurak/	17	
+Москва и область	Краснозаводск	2860	/banks/Moskva_i_oblast~/Krasnozavodsk/	50	
+Санкт-Петербург и область	Шлиссельбург	3204	/banks/Sankt-Peterburg_i_oblast~/Shlissel~burg/	47	
+Волгоградская область	Петров Вал	3594	/banks/Volgogradskaya_oblast~/Petrov_Val/list/	34	
+Москва и область	Яхрома	89	/banks/Moskva_i_oblast~/Yahroma/	50	
+Забайкальский край	Могоча	704	/banks/Zabaykal~skiy_kray/Mogocha/list/	75	
+Челябинская область	Карабаш	589	/banks/Chelyabinskaya_oblast~/Karabassh/	74	
+Владимирская область	Камешково	2975	/banks/Vladimirskaya_oblast~/Kamesshkovo/list/	33	
+Саратовская область	Хвалынск	4085	/banks/Saratovskaya_oblast~/Hvalyinsk/	64	
+Республика Карелия	Кемь	3016	/banks/Respublika_Kareliya/Kem~/	10	
+Чукотский автономный округ	Анадырь	716	/banks/Anadyir~/	87	
+Тверская область	Торопец	3968	/banks/Tverskaya_oblast~/Toropetss/	69	
+Калининградская область	Зеленоградск	2885	/banks/Kaliningradskaya_oblast~/Zelenogradsk/list/	39	
+Красноярский край	Зеленогорск	663	/banks/Krasnoyarskiy_kray/Zelenogorsk/	24	
+Саратовская область	Аркадак	2453	/banks/Saratovskaya_oblast~/Arkadak/	64	
+Свердловская область	Новая Ляля	6177	/banks/Sverdlovskaya_oblast~/Novaya_Lyalya/	66	
+Мурманская область	Снежногорск	3806	/banks/Murmanskaya_oblast~/Snezhnogorsk/	51	
+Красноярский край	Уяр	4060	/banks/Krasnoyarskiy_kray/Uyar/	24	
+Рязанская область	Кораблино	4718	/banks/Ryazanskaya_oblast~/Korablino/	62	
+Липецкая область	Чаплыгин	4109	/banks/Lipetsskaya_oblast~/Chaplyigin/	48	
+Иркутская область	Киренск	3034	/banks/Irkutskaya_oblast~/Kirensk/list/	38	
+Республика Саха (Якутия)	Удачный	7377	/banks/Respublika_Saha_(Yakutiya)/Udachnyiy/	14	
+Челябинская область	Юрюзань	600	/banks/Chelyabinskaya_oblast~/Yuryuzan~/	74	
+Забайкальский край	Балей	5305	/banks/Zabaykal~skiy_kray/Baley/list/	75	
+Новгородская область	Окуловка	3522	/banks/Novgorodskaya_oblast~/Okulovka/	53	
+Новгородская область	Малая Вишера	3263	/banks/Novgorodskaya_oblast~/Malaya_Visshera/	53	
+Челябинская область	Нязепетровск	3498	/banks/Chelyabinskaya_oblast~/Nyazepetrovsk/	74	
+Калининградская область	Гурьевск	2759	/banks/Kaliningradskaya_oblast~/Gur~evsk/list/	39	
+Калужская область	Сосенский	3831	/banks/Kaluzhskaya_oblast~/Sosenskiy/list/	40	
+Нижегородская область	Чкаловск	4135	/banks/Nizhegorodskaya_oblast~/Chkalovsk/	52	
+Республика Коми	Вуктыл	6767	/banks/Respublika_Komi/Vuktyil/	11	
+Нижегородская область	Урень	416	/banks/Nizhegorodskaya_oblast~/Uren~/	52	
+Калужская область	Боровск	144	/banks/Kaluzhskaya_oblast~/Borovsk/list/	40	
+Тверская область	Лихославль	6029	/banks/Tverskaya_oblast~/Lihoslavl~/	69	
+Республика Адыгея	Адыгейск	2413	/banks/Respublika_Adyigeya/Adyigeysk/	1	
+Сахалинская область	Долинск	2805	/banks/Sahalinskaya_oblast~/Dolinsk/	65	
+Санкт-Петербург и область	Волосово	2687	/banks/Sankt-Peterburg_i_oblast~/Volosovo/	47	
+Калужская область	Жуков	2853	/banks/Kaluzhskaya_oblast~/Zhukov/list/	40	
+Республика Хакасия	Сорск	3830	/banks/Respublika_Hakasiya/Sorsk/	19	
+Вологодская область	Бабаево	2477	/banks/Vologodskaya_oblast~/Babaevo/list/	35	
+Пермский край	Горнозаводск	438	/banks/Permskiy_kray/Gornozavodsk/	59	
+Ивановская область	Заволжск	2862	/banks/Ivanovskaya_oblast~/Zavolzhsk/list/	37	
+Кировская область	Сосновка	3833	/banks/Kirovskaya_oblast~/Sosnovka/	43	
+Республика Марий Эл	Звенигово	2881	/banks/Respublika_Mariy_Jel/Zvenigovo/	12	
+Владимирская область	Судогда	3879	/banks/Vladimirskaya_oblast~/Sudogda/list/	33	
+Свердловская область	Верхний Тагил	2663	/banks/Sverdlovskaya_oblast~/Verhniy_Tagil/	66	
+Москва и область	Дрезна	2810	/banks/Moskva_i_oblast~/Drezna/	50	
+Калининградская область	Неман	3401	/banks/Kaliningradskaya_oblast~/Neman/list/	39	
+Рязанская область	Михайлов	3315	/banks/Ryazanskaya_oblast~/Mihaylov/	62	
+Сахалинская область	Невельск	3392	/banks/Sahalinskaya_oblast~/Nevel~sk/	65	
+Брянская область	Сураж	6233	/banks/Bryanskaya_oblast~/Surazh/list/	32	
+Нижегородская область	Ворсма	2696	/banks/Nizhegorodskaya_oblast~/Vorsma/	52	
+Калужская область	Кременки	3139	/banks/Kaluzhskaya_oblast~/Kremenki/list/	40	
+Омская область	Называевск	3384	/banks/Omskaya_oblast~/Nazyivaevsk/	55	
+Псковская область	Опочка	3536	/banks/Pskovskaya_oblast~/Opochka/	60	
+Республика Татарстан	Тетюши	3946	/banks/Respublika_Tatarstan/Tetyusshi/	16	
+Республика Татарстан	Тетюши	3946	/banks/Respublika_Tatarstan/Tetyusshi/	16	
+Новосибирская область	Чулым	4139	/banks/Novosibirskaya_oblast~/Chulyim/	54	
+Забайкальский край	Хилок	706	/banks/Zabaykal~skiy_kray/Hilok/list/	75	
+Республика Бурятия	Закаменск	2869	/banks/Respublika_Buryatiya/Zakamensk/	3	
+Республика Карелия	Питкяранта	274	/banks/Respublika_Kareliya/Pitkyaranta/	10	
+Амурская область	Завитинск	2858	/banks/Amurskaya_oblast~/Zavitinsk/list/	28	
+Орловская область	Болхов	2581	/banks/Orlovskaya_oblast~/Bolhov/	57	
+Астраханская область	Нариманов	3385	/banks/Astrahanskaya_oblast~/Narimanov/list/	30	
+Курганская область	Петухово	3603	/banks/Kurganskaya_oblast~/Petuhovo/	45	
+Омская область	Тюкалинск	3995	/banks/Omskaya_oblast~/Tyukalinsk/	55	
+Кировская область	Луза	3235	/banks/Kirovskaya_oblast~/Luza/	43	
+Кировская область	Белая Холуница	2524	/banks/Kirovskaya_oblast~/Belaya_Holunitssa/	43	
+Республика Карелия	Беломорск	2531	/banks/Respublika_Kareliya/Belomorsk/	10	
+Мурманская область	Заозерск	7702	/banks/Murmanskaya_oblast~/Zaozersk/	51	
+Кировская область	Зуевка	2901	/banks/Kirovskaya_oblast~/Zuevka/	43	
+Псковская область	Печоры	3606	/banks/Pskovskaya_oblast~/Pechoryi/	60	
+Мурманская область	Гаджиево	7757	/banks/Murmanskaya_oblast~/Gadzhievo/	51	
+Удмуртская Республика	Камбарка	2967	/banks/Udmurtskaya_Respublika/Kambarka/	18	
+Удмуртская Республика	Камбарка	2967	/banks/Udmurtskaya_Respublika/Kambarka/	18	
+Калининградская область	Пионерский	3612	/banks/Kaliningradskaya_oblast~/Pionerskiy/list/	39	
+Курганская область	Щучье	4184	/banks/Kurganskaya_oblast~/Schuch~e/	45	
+Республика Тыва	Шагонар	4861	/banks/Respublika_Tyiva/Shagonar/	17	
+Алтайский край	Змеиногорск	2892	/banks/Altayskiy_kray/Zmeinogorsk/list/	22	
+Республика Северная Осетия-Алания	Дигора	2790	/banks/Respublika_Severnaya_Osetiya-Alaniya/Digora/	15	
+Калининградская область	Светлогорск	249	/banks/Kaliningradskaya_oblast~/Svetlogorsk/list/	39	
+Пермский край	Гремячинск	436	/banks/Permskiy_kray/Gremyachinsk/	59	
+Республика Коми	Микунь	285	/banks/Respublika_Komi/Mikun~/	11	
+Смоленская область	Дорогобуж	2809	/banks/Smolenskaya_oblast~/Dorogobuzh/	67	
+Красноярский край	Заозерный	2875	/banks/Krasnoyarskiy_kray/Zaozernyiy/	24	
+Москва и область	Высоковск	2705	/banks/Moskva_i_oblast~/Vyisokovsk/	50	
+Сахалинская область	Александровск-Сахалинский	772	/banks/Sahalinskaya_oblast~/Aleksandrovsk-Sahalinskiy/	65	
+Псковская область	Порхов	6911	/banks/Pskovskaya_oblast~/Porhov/	60	
+Владимирская область	Суздаль	3880	/banks/Vladimirskaya_oblast~/Suzdal~/list/	33	
+Вологодская область	Вытегра	2708	/banks/Vologodskaya_oblast~/Vyitegra/list/	35	
+Мурманская область	Кола	258	/banks/Murmanskaya_oblast~/Kola/	51	
+Москва и область	Ожерелье	3509	/banks/Moskva_i_oblast~/Ozherel~e/	50	
+Кировская область	Кирс	3037	/banks/Kirovskaya_oblast~/Kirs/	43	
+Калужская область	Ермолино	2842	/banks/Kaluzhskaya_oblast~/Ermolino/list/	40	
+Амурская область	Углегорск	7272	/banks/Amurskaya_oblast~/Uglegorsk/list/	28	
+Чувашская Республика	Козловка	5000	/banks/Chuvasshskaya_Respublika/Kozlovka/	21	
+Свердловская область	Нижние Серги	551	/banks/Sverdlovskaya_oblast~/Nizhnie_Sergi/	66	
+Республика Саха (Якутия)	Вилюйск	2675	/banks/Respublika_Saha_(Yakutiya)/Vilyuysk/	14	
+Кировская область	Уржум	4024	/banks/Kirovskaya_oblast~/Urzhum/	43	
+Ивановская область	Наволоки	3379	/banks/Ivanovskaya_oblast~/Navoloki/list/	37	
+Ивановская область	Юрьевец	4205	/banks/Ivanovskaya_oblast~/Yur~evetss/list/	37	
+Челябинская область	Миньяр	3312	/banks/Chelyabinskaya_oblast~/Min~yar/	74	
+Республика Саха (Якутия)	Нюрба	3497	/banks/Respublika_Saha_(Yakutiya)/Nyurba/	14	
+Республика Мордовия	Краснослободск	3122	/banks/Respublika_Mordoviya/Krasnoslobodsk/	13	
+Архангельская область	Каргополь	2997	/banks/Arhangel~skaya_oblast~/Kargopol~/list/	29	
+Смоленская область	Ельня	4696	/banks/Smolenskaya_oblast~/El~nya/	67	
+Новгородская область	Сольцы	3827	/banks/Novgorodskaya_oblast~/Sol~tssyi/	53	
+Вологодская область	Харовск	4081	/banks/Vologodskaya_oblast~/Harovsk/list/	35	
+Республика Дагестан	Южно-Сухокумск	5064	/banks/Respublika_Dagestan/Yuzhno-Suhokumsk/	5	
+Новосибирская область	Каргат	2996	/banks/Novosibirskaya_oblast~/Kargat/	54	
+Смоленская область	Рудня	7610	/banks/Smolenskaya_oblast~/Rudnya/	67	
+Свердловская область	Волчанск	2689	/banks/Sverdlovskaya_oblast~/Volchansk/	66	
+Тверская область	Кувшиново	6004	/banks/Tverskaya_oblast~/Kuvsshinovo/	69	
+Нижегородская область	Володарск	2684	/banks/Nizhegorodskaya_oblast~/Volodarsk/	52	
+Свердловская область	Михайловск	6224	/banks/Sverdlovskaya_oblast~/Mihaylovsk/	66	
+Костромская область	Нея	3407	/banks/Kostromskaya_oblast~/Neya/	44	
+Санкт-Петербург и область	Ивангород	2903	/banks/Sankt-Peterburg_i_oblast~/Ivangorod/	47	
+Вологодская область	Тотьма	3969	/banks/Vologodskaya_oblast~/Tot~ma/list/	35	
+Республика Карелия	Суоярви	3886	/banks/Respublika_Kareliya/Suoyarvi/	10	
+Республика Карелия	Пудож	3690	/banks/Respublika_Kareliya/Pudozh/	10	
+Липецкая область	Задонск	2865	/banks/Lipetsskaya_oblast~/Zadonsk/	48	
+Калужская область	Таруса	3923	/banks/Kaluzhskaya_oblast~/Tarusa/list/	40	
+Тульская область	Болохово	7583	/banks/Tul~skaya_oblast~/Bolohovo/	71	
+Вологодская область	Белозерск	2529	/banks/Vologodskaya_oblast~/Belozersk/list/	35	
+Чувашская Республика	Ядрин	523	/banks/Chuvasshskaya_Respublika/Yadrin/	21	
+Республика Калмыкия	Городовиковск	2740	/banks/Respublika_Kalmyikiya/Gorodovikovsk/	8	
+Амурская область	Сковородино	723	/banks/Amurskaya_oblast~/Skovorodino/list/	28	
+Кировская область	Нолинск	3493	/banks/Kirovskaya_oblast~/Nolinsk/	43	
+Республика Саха (Якутия)	Покровск	3637	/banks/Respublika_Saha_(Yakutiya)/Pokrovsk/	14	
+Республика Саха (Якутия)	Олекминск	3524	/banks/Respublika_Saha_(Yakutiya)/Olekminsk/	14	
+Вологодская область	Устюжна	4055	/banks/Vologodskaya_oblast~/Ustyuzhna/list/	35	
+Свердловская область	Верхняя Тура	2665	/banks/Sverdlovskaya_oblast~/Verhnyaya_Tura/	66	
+Челябинская область	Верхнеуральск	4989	/banks/Chelyabinskaya_oblast~/Verhneural~sk/	74	
+Республика Мордовия	Ардатов	2451	/banks/Respublika_Mordoviya/Ardatov/	13	
+Еврейская автономная область	Облучье	3501	/banks/Evreyskaya_avtonomnaya_oblast~/Obluch~e/list/	79	
+Тверская область	Западная Двина	4699	/banks/Tverskaya_oblast~/Zapadnaya_Dvina/	69	
+Волгоградская область	Серафимович	3774	/banks/Volgogradskaya_oblast~/Serafimovich/list/	34	
+Нижегородская область	Перевоз	3586	/banks/Nizhegorodskaya_oblast~/Perevoz/	52	
+Владимирская область	Костерево	5096	/banks/Vladimirskaya_oblast~/Kosterevo/list/	33	
+Сахалинская область	Анива	773	/banks/Sahalinskaya_oblast~/Aniva/	65	
+Карачаево-Черкесская Республика	Теберда	3932	/banks/Karachaevo-Cherkesskaya_Respublika/Teberda/list/	9	
+Чувашская Республика	Мариинский Посад	3281	/banks/Chuvasshskaya_Respublika/Mariinskiy_Posad/	21	
+Псковская область	Дно	2797	/banks/Pskovskaya_oblast~/Dno/	60	
+Республика Карелия	Олонец	3526	/banks/Respublika_Kareliya/Olonetss/	10	
+Республика Тыва	Чадан	4860	/banks/Respublika_Tyiva/Chadan/	17	
+Иркутская область	Бирюсинск	2559	/banks/Irkutskaya_oblast~/Biryusinsk/list/	38	
+Нижегородская область	Ветлуга	2671	/banks/Nizhegorodskaya_oblast~/Vetluga/	52	
+Санкт-Петербург и область	Новая Ладога	3436	/banks/Sankt-Peterburg_i_oblast~/Novaya_Ladoga/	47	
+Свердловская область	Верхотурье	2668	/banks/Sverdlovskaya_oblast~/Verhotur~e/	66	
+Смоленская область	Починок	4771	/banks/Smolenskaya_oblast~/Pochinok/	67	
+Тульская область	Липки	7582	/banks/Tul~skaya_oblast~/Lipki/	71	
+Ивановская область	Комсомольск	3068	/banks/Ivanovskaya_oblast~/Komsomol~sk/list/	37	
+Республика Мордовия	Инсар	2934	/banks/Respublika_Mordoviya/Insar/	13	
+Республика Татарстан	Болгар	2579	/banks/Respublika_Tatarstan/Bolgar/	16	
+Республика Татарстан	Болгар	2579	/banks/Respublika_Tatarstan/Bolgar/	16	
+Тверская область	Старица	4796	/banks/Tverskaya_oblast~/Staritssa/	69	
+Ивановская область	Пучеж	3695	/banks/Ivanovskaya_oblast~/Puchezh/list/	37	
+Пензенская область	Белинский	2526	/banks/Penzenskaya_oblast~/Belinskiy/	58	
+Вологодская область	Никольск	3427	/banks/Vologodskaya_oblast~/Nikol~sk/list/	35	
+Калужская область	Белоусово	5108	/banks/Kaluzhskaya_oblast~/Belousovo/list/	40	
+Сахалинская область	Шахтерск	9074	/banks/Sahalinskaya_oblast~/Shahtersk/	65	
+Курганская область	Макушино	3262	/banks/Kurganskaya_oblast~/Makusshino/	45	
+Калужская область	Медынь	3297	/banks/Kaluzhskaya_oblast~/Medyin~/list/	40	
+Кировская область	Малмыж	3269	/banks/Kirovskaya_oblast~/Malmyizh/	43	
+Тверская область	Андреаполь	4660	/banks/Tverskaya_oblast~/Andreapol~/	69	
+Кемеровская область	Салаир	3741	/banks/Kemerovskaya_oblast~/Salair/list/	42	
+Псковская область	Новосокольники	3478	/banks/Pskovskaya_oblast~/Novosokol~niki/	60	
+Смоленская область	Сычевка	4803	/banks/Smolenskaya_oblast~/Syichevka/	67	
+Пензенская область	Городище	5352	/banks/Penzenskaya_oblast~/Gorodissche/	58	
+Республика Саха (Якутия)	Томмот	4808	/banks/Respublika_Saha_(Yakutiya)/Tommot/	14	
+Брянская область	Мглин	6232	/banks/Bryanskaya_oblast~/Mglin/list/	32	
+Белгородская область	Бирюч	2560	/banks/Belgorodskaya_oblast~/Biryuch/list/	31	
+Республика Карелия	Лахденпохья	6626	/banks/Respublika_Kareliya/Lahdenpoh~ya/	10	
+Калининградская область	Мамоново	4997	/banks/Kaliningradskaya_oblast~/Mamonovo/list/	39	
+Рязанская область	Спасск-Рязанский	4793	/banks/Ryazanskaya_oblast~/Spassk-Ryazanskiy/	62	
+Вологодская область	Кириллов	3035	/banks/Vologodskaya_oblast~/Kirillov/list/	35	
+Республика Татарстан	Лаишево	3195	/banks/Respublika_Tatarstan/Laisshevo/	16	
+Республика Татарстан	Лаишево	3195	/banks/Respublika_Tatarstan/Laisshevo/	16	
+Курская область	Дмитриев	2794	/banks/Kurskaya_oblast~/Dmitriev/	46	
+Смоленская область	Велиж	4673	/banks/Smolenskaya_oblast~/Velizh/	67	
+Калининградская область	Полесск	3610	/banks/Kaliningradskaya_oblast~/Polessk/list/	39	
+Тульская область	Советск	7578	/banks/Tul~skaya_oblast~/Sovetsk/	71	
+Пензенская область	Спасск	3840	/banks/Penzenskaya_oblast~/Spassk/	58	
+Смоленская область	Демидов	4687	/banks/Smolenskaya_oblast~/Demidov/	67	
+Тверская область	Весьегонск	2670	/banks/Tverskaya_oblast~/Ves~egonsk/	69	
+Брянская область	Севск	3766	/banks/Bryanskaya_oblast~/Sevsk/list/	32	
+Пермский край	Оханск	7816	/banks/Permskiy_kray/Ohansk/	59	
+Республика Мордовия	Темников	3935	/banks/Respublika_Mordoviya/Temnikov/	13	
+Костромская область	Макарьев	3261	/banks/Kostromskaya_oblast~/Makar~ev/	44	
+Калужская область	Юхнов	4208	/banks/Kaluzhskaya_oblast~/Yuhnov/list/	40	
+Пензенская область	Сурск	7357	/banks/Penzenskaya_oblast~/Sursk/	58	
+Вологодская область	Красавино	3103	/banks/Vologodskaya_oblast~/Krasavino/list/	35	
+Кировская область	Орлов	3540	/banks/Kirovskaya_oblast~/Orlov/	43	
+Тверская область	Зубцов	4704	/banks/Tverskaya_oblast~/Zubtssov/	69	
+Забайкальский край	Сретенск	4985	/banks/Zabaykal~skiy_kray/Sretensk/list/	75	
+Владимирская область	Курлово	3171	/banks/Vladimirskaya_oblast~/Kurlovo/list/	33	
+Санкт-Петербург и область	Каменногорск	2971	/banks/Sankt-Peterburg_i_oblast~/Kamennogorsk/	47	
+Кировская область	Мураши	3369	/banks/Kirovskaya_oblast~/Murasshi/	43	
+Иркутская область	Алзамай	2433	/banks/Irkutskaya_oblast~/Alzamay/list/	38	
+Нижегородская область	Княгинино	3048	/banks/Nizhegorodskaya_oblast~/Knyaginino/	52	
+Сахалинская область	Макаров	3259	/banks/Sahalinskaya_oblast~/Makarov/	65	
+Рязанская область	Шацк	4825	/banks/Ryazanskaya_oblast~/Shatssk/	62	
+Костромская область	Солигалич	3814	/banks/Kostromskaya_oblast~/Soligalich/	44	
+Ивановская область	Гаврилов Посад	2711	/banks/Ivanovskaya_oblast~/Gavrilov_Posad/list/	37	
+Калининградская область	Багратионовск	2488	/banks/Kaliningradskaya_oblast~/Bagrationovsk/list/	39	
+Псковская область	Себеж	6929	/banks/Pskovskaya_oblast~/Sebezh/	60	
+Белгородская область	Грайворон	2748	/banks/Belgorodskaya_oblast~/Grayvoron/list/	31	
+Красноярский край	Игарка	2909	/banks/Krasnoyarskiy_kray/Igarka/	24	
+Санкт-Петербург и область	Приморск	3671	/banks/Sankt-Peterburg_i_oblast~/Primorsk/	47	
+Ярославская область	Пошехонье	3659	/banks/Yaroslavskaya_oblast~/Posshehon~e/	76	
+Саратовская область	Шиханы	7511	/banks/Saratovskaya_oblast~/Shihanyi/	64	
+Курская область	Суджа	3876	/banks/Kurskaya_oblast~/Sudzha/	46	
+Ярославская область	Мышкин	206	/banks/Yaroslavskaya_oblast~/Myisshkin/	76	
+Рязанская область	Спас-Клепики	4792	/banks/Ryazanskaya_oblast~/Spas-Klepiki/	62	
+Белгородская область	Короча	3085	/banks/Belgorodskaya_oblast~/Korocha/list/	31	
+Магаданская область	Сусуман	3894	/banks/Magadanskaya_oblast~/Susuman/	49	
+Псковская область	Пыталово	7068	/banks/Pskovskaya_oblast~/Pyitalovo/	60	
+Архангельская область	Шенкурск	4164	/banks/Arhangel~skaya_oblast~/Shenkursk/list/	29	
+Пермский край	Усолье	7323	/banks/Permskiy_kray/Usol~e/	59	
+Орловская область	Дмитровск	2796	/banks/Orlovskaya_oblast~/Dmitrovsk/	57	
+Тверская область	Красный Холм	3133	/banks/Tverskaya_oblast~/Krasnyiy_Holm/	69	
+Калужская область	Жиздра	7538	/banks/Kaluzhskaya_oblast~/Zhizdra/list/	40	
+Ярославская область	Любим	5021	/banks/Yaroslavskaya_oblast~/Lyubim/	76	
+Брянская область	Злынка	6236	/banks/Bryanskaya_oblast~/Zlyinka/list/	32	
+Чукотский автономный округ	Билибино	2557	/banks/Chukotskiy_avtonomnyiy_okrug/Bilibino/	87	
+Курская область	Фатеж	4063	/banks/Kurskaya_oblast~/Fatezh/	46	
+Москва и область	Верея	2651	/banks/Moskva_i_oblast~/Vereya/	50	
+Костромская область	Чухлома	4144	/banks/Kostromskaya_oblast~/Chuhloma/	44	
+Республика Тыва	Туран	4859	/banks/Respublika_Tyiva/Turan/	17	
+Пермский край	Чердынь	7422	/banks/Permskiy_kray/Cherdyin~/	59	
+Калужская область	Спас-Деменск	3839	/banks/Kaluzhskaya_oblast~/Spas-Demensk/list/	40	
+Республика Бурятия	Бабушкин	2480	/banks/Respublika_Buryatiya/Babusshkin/	3	
+Вологодская область	Кадников	2950	/banks/Vologodskaya_oblast~/Kadnikov/list/	35	
+Калининградская область	Озерск	7776	/banks/Kaliningradskaya_oblast~/Ozersk/list/	39	
+Псковская область	Пустошка	6955	/banks/Pskovskaya_oblast~/Pustosshka/	60	
+Калининградская область	Славск	3794	/banks/Kaliningradskaya_oblast~/Slavsk/list/	39	
+Калининградская область	Нестеров	3404	/banks/Kaliningradskaya_oblast~/Nesterov/list/	39	
+Сахалинская область	Томари	4807	/banks/Sahalinskaya_oblast~/Tomari/	65	
+Псковская область	Гдов	2719	/banks/Pskovskaya_oblast~/Gdov/	60	
+Смоленская область	Духовщина	4695	/banks/Smolenskaya_oblast~/Duhovsschina/	67	
+Калининградская область	Правдинск	7835	/banks/Kaliningradskaya_oblast~/Pravdinsk/list/	39	
+Калужская область	Мосальск	3338	/banks/Kaluzhskaya_oblast~/Mosal~sk/list/	40	
+Санкт-Петербург и область	Любань	3242	/banks/Sankt-Peterburg_i_oblast~/Lyuban~/	47	
+Чукотский автономный округ	Певек	7554	/banks/Chukotskiy_avtonomnyiy_okrug/Pevek/	87	
+Калужская область	Мещовск	3308	/banks/Kaluzhskaya_oblast~/Messchovsk/list/	40	
+Пермский край	Чермоз	7883	/banks/Permskiy_kray/Chermoz/	59	
+Новгородская область	Холм	6701	/banks/Novgorodskaya_oblast~/Holm/	53	
+Калининградская область	Ладушкин	7765	/banks/Kaliningradskaya_oblast~/Ladusshkin/list/	39	
+Тверская область	Белый	6002	/banks/Tverskaya_oblast~/Belyiy/	69	
+Псковская область	Новоржев	7082	/banks/Pskovskaya_oblast~/Novorzhev/	60	
+Орловская область	Новосиль	3476	/banks/Orlovskaya_oblast~/Novosil~/	57	
+Орловская область	Малоархангельск	3270	/banks/Orlovskaya_oblast~/Maloarhangel~sk/	57	
+Архангельская область	Мезень	6318	/banks/Arhangel~skaya_oblast~/Mezen~/list/	29	
+Республика Саха (Якутия)	Среднеколымск	7390	/banks/Respublika_Saha_(Yakutiya)/Srednekolyimsk/	14	
+Костромская область	Кологрив	5557	/banks/Kostromskaya_oblast~/Kologriv/	44	
+Сахалинская область	Северо-Курильск	7568	/banks/Sahalinskaya_oblast~/Severo-Kuril~sk/	65	
+Архангельская область	Сольвычегодск	6296	/banks/Arhangel~skaya_oblast~/Sol~vyichegodsk/list/	29	
+Томская область	Кедровый	6662	/banks/Tomskaya_oblast~/Kedrovyiy/	70	
+Ивановская область	Плес	3615	/banks/Ivanovskaya_oblast~/Ples/list/	37	
+Нижегородская область	Горбатов	7167	/banks/Nizhegorodskaya_oblast~/Gorbatov/	52	
+Красноярский край	Артемовск	5555	/banks/Krasnoyarskiy_kray/Artemovsk/	24	
+Мурманская область	Островной	7700	/banks/Murmanskaya_oblast~/Ostrovnoy/	51	
+Сахалинская область	Курильск	4954	/banks/Sahalinskaya_oblast~/Kuril~sk/	65	
+Калининградская область	Приморск	7573	/banks/Kaliningradskaya_oblast~/Primorsk/list/	39	
+Санкт-Петербург и область	Высоцк	2707	/banks/Sankt-Peterburg_i_oblast~/Vyisotssk/	47	

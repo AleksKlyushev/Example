@@ -1,0 +1,989 @@
+region;city;id;href;region_code;ввым;фыв
+Алтайский край;Алейск;2429;/banks/Altayskiy_kray/Aleysk/list/;22;29512;0
+Алтайский край;Белокуриха;2530;/banks/Altayskiy_kray/Belokuriha/list/;22;14660;0
+Алтайский край;Горняк;2739;/banks/Altayskiy_kray/Gornyak/list/;22;13924;0
+Алтайский край;Заринск;623;/banks/Altayskiy_kray/Zarinsk/list/;22;48456;0
+Алтайский край;Змеиногорск;2892;/banks/Altayskiy_kray/Zmeinogorsk/list/;22;10955;0
+Алтайский край;Камень-на-Оби;2974;/banks/Altayskiy_kray/Kamen~-na-Obi/list/;22;43880;0
+Алтайский край;Новоалтайск;3444;/banks/Altayskiy_kray/Novoaltaysk/list/;22;70438;0
+Алтайский край;Рубцовск;624;/banks/Altayskiy_kray/Rubtssovsk/list/;22;147008;0
+Алтайский край;Славгород;3793;/banks/Altayskiy_kray/Slavgorod/list/;22;32390;0
+Алтайский край;Яровое;3348;/banks/Altayskiy_kray/Yarovoe/list/;22;18605;0
+Амурская область;Белогорск;719;/banks/Amurskaya_oblast~/Belogorsk/list/;28;68220;0
+Амурская область;Благовещенск;718;/banks/Blagovesschensk/list/;28;214397;0
+Амурская область;Завитинск;2858;/banks/Amurskaya_oblast~/Zavitinsk/list/;28;11481;0
+Амурская область;Зея;2889;/banks/Amurskaya_oblast~/Zeya/list/;28;25042;0
+Амурская область;Райчихинск;3704;/banks/Amurskaya_oblast~/Raychihinsk/list/;28;20499;0
+Амурская область;Свободный;722;/banks/Amurskaya_oblast~/Svobodnyiy/list/;28;58594;0
+Амурская область;Сковородино;723;/banks/Amurskaya_oblast~/Skovorodino/list/;28;9561;0
+Амурская область;Тында;720;/banks/Amurskaya_oblast~/Tyinda/list/;28;35574;0
+Амурская область;Углегорск;7272;/banks/Amurskaya_oblast~/Uglegorsk/list/;28;10382;0
+Амурская область;Шимановск;725;/banks/Amurskaya_oblast~/Shimanovsk/list/;28;19815;0
+Архангельская область;Вельск;235;/banks/Arhangel~skaya_oblast~/Vel~sk/list/;29;23885;0
+Архангельская область;Каргополь;2997;/banks/Arhangel~skaya_oblast~/Kargopol~/list/;29;10148;0
+Архангельская область;Коряжма;236;/banks/Arhangel~skaya_oblast~/Koryazhma/list/;29;39629;0
+Архангельская область;Котлас;4080;/banks/Arhangel~skaya_oblast~/Kotlas/list/;29;60562;0
+Архангельская область;Мезень;6318;/banks/Arhangel~skaya_oblast~/Mezen~/list/;29;3599;0
+Архангельская область;Мирный;237;/banks/Arhangel~skaya_oblast~/Mirnyiy/list/;29;30259;0
+Архангельская область;Новодвинск;238;/banks/Arhangel~skaya_oblast~/Novodvinsk/list/;29;40612;0
+Архангельская область;Няндома;3499;/banks/Arhangel~skaya_oblast~/Nyandoma/list/;29;22354;0
+Архангельская область;Онега;3534;/banks/Arhangel~skaya_oblast~/Onega/list/;29;21359;0
+Архангельская область;Сольвычегодск;6296;/banks/Arhangel~skaya_oblast~/Sol~vyichegodsk/list/;29;2460;0
+Архангельская область;Шенкурск;4164;/banks/Arhangel~skaya_oblast~/Shenkursk/list/;29;5702;0
+Астраханская область;Астрахань;290;/banks/Astrahan~/list/;30;520662;0
+Астраханская область;Ахтубинск;2468;/banks/Astrahanskaya_oblast~/Ahtubinsk/list/;30;41898;0
+Астраханская область;Знаменск;2896;/banks/Astrahanskaya_oblast~/Znamensk/list/;30;29357;0
+Астраханская область;Камызяк;2978;/banks/Astrahanskaya_oblast~/Kamyizyak/list/;30;16291;0
+Астраханская область;Нариманов;3385;/banks/Astrahanskaya_oblast~/Narimanov/list/;30;11386;0
+Астраханская область;Харабали;4079;/banks/Astrahanskaya_oblast~/Harabali/list/;30;18209;0
+Белгородская область;Алексеевка;96;/banks/Belgorodskaya_oblast~/Alekseevka/list/;31;39026;0
+Белгородская область;Бирюч;2560;/banks/Belgorodskaya_oblast~/Biryuch/list/;31;7842;0
+Белгородская область;Валуйки;95;/banks/Belgorodskaya_oblast~/Valuyki/list/;31;35322;0
+Белгородская область;Грайворон;2748;/banks/Belgorodskaya_oblast~/Grayvoron/list/;31;6234;0
+Белгородская область;Губкин;97;/banks/Belgorodskaya_oblast~/Gubkin/list/;31;88562;0
+Белгородская область;Короча;3085;/banks/Belgorodskaya_oblast~/Korocha/list/;31;5877;0
+Белгородская область;Новый Оскол;99;/banks/Belgorodskaya_oblast~/Novyiy_Oskol/list/;31;19530;0
+Белгородская область;Строитель;3873;/banks/Belgorodskaya_oblast~/Stroitel~/list/;31;23933;0
+Белгородская область;Шебекино;100;/banks/Belgorodskaya_oblast~/Shebekino/list/;31;44277;0
+Брянская область;Брянск;103;/banks/Bryansk/list/;32;415640;0
+Брянская область;Дятьково;2823;/banks/Bryanskaya_oblast~/Dyat~kovo/list/;32;29438;0
+Брянская область;Жуковка;2854;/banks/Bryanskaya_oblast~/Zhukovka/list/;32;18269;0
+Брянская область;Злынка;6236;/banks/Bryanskaya_oblast~/Zlyinka/list/;32;5507;0
+Брянская область;Карачев;2993;/banks/Bryanskaya_oblast~/Karachev/list/;32;19715;0
+Брянская область;Клинцы;3044;/banks/Bryanskaya_oblast~/Klintssyi/list/;32;62510;0
+Брянская область;Мглин;6232;/banks/Bryanskaya_oblast~/Mglin/list/;32;7916;0
+Брянская область;Новозыбков;3454;/banks/Bryanskaya_oblast~/Novozyibkov/list/;32;40552;0
+Брянская область;Почеп;3657;/banks/Bryanskaya_oblast~/Pochep/list/;32;17933;0
+Брянская область;Севск;3766;/banks/Bryanskaya_oblast~/Sevsk/list/;32;7282;0
+Брянская область;Сельцо;6249;/banks/Bryanskaya_oblast~/Sel~tsso/list/;32;17933;0
+Брянская область;Стародуб;3852;/banks/Bryanskaya_oblast~/Starodub/list/;32;19010;0
+Брянская область;Сураж;6233;/banks/Bryanskaya_oblast~/Surazh/list/;32;11640;0
+Брянская область;Трубчевск;3978;/banks/Bryanskaya_oblast~/Trubchevsk/list/;32;15014;0
+Брянская область;Унеча;4019;/banks/Bryanskaya_oblast~/Unecha/list/;32;26196;0
+Брянская область;Фокино;6248;/banks/Bryanskaya_oblast~/Fokino/list/;32;13874;0
+Владимирская область;Александров;110;/banks/Vladimirskaya_oblast~/Aleksandrov/list/;33;61544;0
+Владимирская область;Вязники;2710;/banks/Vladimirskaya_oblast~/Vyazniki/list/;33;41252;0
+Владимирская область;Гороховец;2741;/banks/Vladimirskaya_oblast~/Gorohovetss/list/;33;14015;0
+Владимирская область;Гусь-Хрустальный;2763;/banks/Vladimirskaya_oblast~/Gus~-Hrustal~nyiy/list/;33;60773;0
+Владимирская область;Камешково;2975;/banks/Vladimirskaya_oblast~/Kamesshkovo/list/;33;13113;0
+Владимирская область;Карабаново;2981;/banks/Vladimirskaya_oblast~/Karabanovo/list/;33;14868;0
+Владимирская область;Киржач;113;/banks/Vladimirskaya_oblast~/Kirzhach/list/;33;30044;0
+Владимирская область;Ковров;107;/banks/Vladimirskaya_oblast~/Kovrov/list/;33;145492;0
+Владимирская область;Кольчугино;114;/banks/Vladimirskaya_oblast~/Kol~chugino/list/;33;45804;0
+Владимирская область;Костерево;5096;/banks/Vladimirskaya_oblast~/Kosterevo/list/;33;9136;0
+Владимирская область;Курлово;3171;/banks/Vladimirskaya_oblast~/Kurlovo/list/;33;6791;0
+Владимирская область;Лакинск;3196;/banks/Vladimirskaya_oblast~/Lakinsk/list/;33;15707;0
+Владимирская область;Меленки;3299;/banks/Vladimirskaya_oblast~/Melenki/list/;33;15208;0
+Владимирская область;Муром;108;/banks/Vladimirskaya_oblast~/Murom/list/;33;116078;0
+Владимирская область;Петушки;3605;/banks/Vladimirskaya_oblast~/Petusshki/list/;33;15167;0
+Владимирская область;Покров;117;/banks/Vladimirskaya_oblast~/Pokrov/list/;33;17762;0
+Владимирская область;Радужный;112;/banks/Vladimirskaya_oblast~/Raduzhnyiy/list/;33;18212;0
+Владимирская область;Собинка;115;/banks/Vladimirskaya_oblast~/Sobinka/list/;33;19482;0
+Владимирская область;Струнино;3874;/banks/Vladimirskaya_oblast~/Strunino/list/;33;14372;0
+Владимирская область;Судогда;3879;/banks/Vladimirskaya_oblast~/Sudogda/list/;33;11848;0
+Владимирская область;Суздаль;3880;/banks/Vladimirskaya_oblast~/Suzdal~/list/;33;10535;0
+Владимирская область;Юрьев-Польский;4206;/banks/Vladimirskaya_oblast~/Yur~ev-Pol~skiy/list/;33;19588;0
+Волгоградская область;Дубовка;317;/banks/Volgogradskaya_oblast~/Dubovka/list/;34;14345;0
+Волгоградская область;Жирновск;316;/banks/Volgogradskaya_oblast~/Zhirnovsk/list/;34;16890;0
+Волгоградская область;Калач-на-Дону;298;/banks/Volgogradskaya_oblast~/Kalach-na-Donu/list/;34;26892;0
+Волгоградская область;Камышин;294;/banks/Volgogradskaya_oblast~/Kamyisshin/list/;34;119924;0
+Волгоградская область;Котельниково;301;/banks/Volgogradskaya_oblast~/Kotel~nikovo/list/;34;20441;0
+Волгоградская область;Котово;300;/banks/Volgogradskaya_oblast~/Kotovo/list/;34;24104;0
+Волгоградская область;Краснослободск;5102;/banks/Volgogradskaya_oblast~/Krasnoslobodsk/list/;34;16007;0
+Волгоградская область;Ленинск;302;/banks/Volgogradskaya_oblast~/Leninsk/list/;34;15527;0
+Волгоградская область;Михайловка;305;/banks/Volgogradskaya_oblast~/Mihaylovka/list/;34;59153;0
+Волгоградская область;Николаевск;304;/banks/Volgogradskaya_oblast~/Nikolaevsk/list/;34;15081;0
+Волгоградская область;Новоаннинский;306;/banks/Volgogradskaya_oblast~/Novoanninskiy/list/;34;17911;0
+Волгоградская область;Палласовка;303;/banks/Volgogradskaya_oblast~/Pallasovka/list/;34;15984;0
+Волгоградская область;Петров Вал;3594;/banks/Volgogradskaya_oblast~/Petrov_Val/list/;34;13264;0
+Волгоградская область;Серафимович;3774;/banks/Volgogradskaya_oblast~/Serafimovich/list/;34;9368;0
+Волгоградская область;Суровикино;3890;/banks/Volgogradskaya_oblast~/Surovikino/list/;34;20527;0
+Волгоградская область;Урюпинск;314;/banks/Volgogradskaya_oblast~/Uryupinsk/list/;34;41594;0
+Волгоградская область;Фролово;313;/banks/Volgogradskaya_oblast~/Frolovo/list/;34;39489;0
+Вологодская область;Бабаево;2477;/banks/Vologodskaya_oblast~/Babaevo/list/;35;12074;0
+Вологодская область;Белозерск;2529;/banks/Vologodskaya_oblast~/Belozersk/list/;35;9614;0
+Вологодская область;Великий Устюг;4715;/banks/Vologodskaya_oblast~/Velikiy_Ustyug/list/;35;31664;0
+Вологодская область;Вологда;240;/banks/Vologda/list/;35;301642;0
+Вологодская область;Вытегра;2708;/banks/Vologodskaya_oblast~/Vyitegra/list/;35;10490;0
+Вологодская область;Грязовец;243;/banks/Vologodskaya_oblast~/Gryazovetss/list/;35;15528;0
+Вологодская область;Кадников;2950;/banks/Vologodskaya_oblast~/Kadnikov/list/;35;4797;0
+Вологодская область;Кириллов;3035;/banks/Vologodskaya_oblast~/Kirillov/list/;35;7735;0
+Вологодская область;Красавино;3103;/banks/Vologodskaya_oblast~/Krasavino/list/;35;7003;0
+Вологодская область;Никольск;3427;/banks/Vologodskaya_oblast~/Nikol~sk/list/;35;8515;0
+Вологодская область;Сокол;3810;/banks/Vologodskaya_oblast~/Sokol/list/;35;38454;0
+Вологодская область;Тотьма;3969;/banks/Vologodskaya_oblast~/Tot~ma/list/;35;9784;0
+Вологодская область;Устюжна;4055;/banks/Vologodskaya_oblast~/Ustyuzhna/list/;35;9478;0
+Вологодская область;Харовск;4081;/banks/Vologodskaya_oblast~/Harovsk/list/;35;10078;0
+Вологодская область;Череповец;241;/banks/Vologodskaya_oblast~/Cherepovetss/list/;35;312311;0
+Еврейская автономная область;Биробиджан;713;/banks/Birobidzhan/list/;79;75419;0
+Еврейская автономная область;Облучье;3501;/banks/Evreyskaya_avtonomnaya_oblast~/Obluch~e/list/;79;9379;0
+Забайкальский край;Балей;5305;/banks/Zabaykal~skiy_kray/Baley/list/;75;12536;0
+Забайкальский край;Борзя;2604;/banks/Zabaykal~skiy_kray/Borzya/list/;75;31376;0
+Забайкальский край;Краснокаменск;702;/banks/Zabaykal~skiy_kray/Krasnokamensk/list/;75;55668;0
+Забайкальский край;Могоча;704;/banks/Zabaykal~skiy_kray/Mogocha/list/;75;13228;0
+Забайкальский край;Нерчинск;3403;/banks/Zabaykal~skiy_kray/Nerchinsk/list/;75;14976;0
+Забайкальский край;Петровск-Забайкальский;3598;/banks/Zabaykal~skiy_kray/Petrovsk-Zabaykal~skiy/list/;75;18555;0
+Забайкальский край;Сретенск;4985;/banks/Zabaykal~skiy_kray/Sretensk/list/;75;6850;0
+Забайкальский край;Хилок;706;/banks/Zabaykal~skiy_kray/Hilok/list/;75;11530;0
+Забайкальский край;Чита;707;/banks/Chita/list/;75;323964;0
+Забайкальский край;Шилка;709;/banks/Zabaykal~skiy_kray/Shilka/list/;75;13947;0
+Ивановская область;Вичуга;2676;/banks/Ivanovskaya_oblast~/Vichuga/list/;37;37609;0
+Ивановская область;Гаврилов Посад;2711;/banks/Ivanovskaya_oblast~/Gavrilov_Posad/list/;37;6434;0
+Ивановская область;Заволжск;2862;/banks/Ivanovskaya_oblast~/Zavolzhsk/list/;37;12045;0
+Ивановская область;Кинешма;137;/banks/Ivanovskaya_oblast~/Kinesshma/list/;37;88113;0
+Ивановская область;Комсомольск;3068;/banks/Ivanovskaya_oblast~/Komsomol~sk/list/;37;8693;0
+Ивановская область;Кохма;3094;/banks/Ivanovskaya_oblast~/Kohma/list/;37;29408;0
+Ивановская область;Наволоки;3379;/banks/Ivanovskaya_oblast~/Navoloki/list/;37;10207;0
+Ивановская область;Плес;3615;/banks/Ivanovskaya_oblast~/Ples/list/;37;2341;0
+Ивановская область;Приволжск;3667;/banks/Ivanovskaya_oblast~/Privolzhsk/list/;37;16749;0
+Ивановская область;Пучеж;3695;/banks/Ivanovskaya_oblast~/Puchezh/list/;37;8583;0
+Ивановская область;Родники;3719;/banks/Ivanovskaya_oblast~/Rodniki/list/;37;26318;0
+Ивановская область;Тейково;138;/banks/Ivanovskaya_oblast~/Teykovo/list/;37;34993;0
+Ивановская область;Фурманов;4071;/banks/Ivanovskaya_oblast~/Furmanov/list/;37;36149;0
+Ивановская область;Шуя;4178;/banks/Ivanovskaya_oblast~/Shuya/list/;37;58528;0
+Ивановская область;Южа;4199;/banks/Ivanovskaya_oblast~/Yuzha/list/;37;14170;0
+Ивановская область;Юрьевец;4205;/banks/Ivanovskaya_oblast~/Yur~evetss/list/;37;10205;0
+Иркутская область;Алзамай;2433;/banks/Irkutskaya_oblast~/Alzamay/list/;38;6751;0
+Иркутская область;Байкальск;2492;/banks/Irkutskaya_oblast~/Baykal~sk/list/;38;13589;0
+Иркутская область;Бирюсинск;2559;/banks/Irkutskaya_oblast~/Biryusinsk/list/;38;8981;0
+Иркутская область;Бодайбо;632;/banks/Irkutskaya_oblast~/Bodaybo/list/;38;15331;0
+Иркутская область;Братск;627;/banks/Irkutskaya_oblast~/Bratsk/list/;38;246348;0
+Иркутская область;Вихоревка;631;/banks/Irkutskaya_oblast~/Vihorevka/list/;38;22528;0
+Иркутская область;Железногорск-Илимский;637;/banks/Irkutskaya_oblast~/Zheleznogorsk-Ilimskiy/list/;38;26134;0
+Иркутская область;Зима;633;/banks/Irkutskaya_oblast~/Zima/list/;38;32522;0
+Иркутская область;Киренск;3034;/banks/Irkutskaya_oblast~/Kirensk/list/;38;12652;0
+Иркутская область;Нижнеудинск;634;/banks/Irkutskaya_oblast~/Nizhneudinsk/list/;38;37056;0
+Иркутская область;Саянск;3751;/banks/Irkutskaya_oblast~/Sayansk/list/;38;40786;0
+Иркутская область;Свирск;3757;/banks/Irkutskaya_oblast~/Svirsk/list/;38;13649;0
+Иркутская область;Слюдянка;3800;/banks/Irkutskaya_oblast~/Slyudyanka/list/;38;18542;0
+Иркутская область;Тайшет;635;/banks/Irkutskaya_oblast~/Taysshet/list/;38;35481;0
+Иркутская область;Тулун;3982;/banks/Irkutskaya_oblast~/Tulun/list/;38;44603;0
+Иркутская область;Усолье-Сибирское;4033;/banks/Irkutskaya_oblast~/Usol~e-Sibirskoe/list/;38;83364;0
+Иркутская область;Усть-Илимск;629;/banks/Irkutskaya_oblast~/Ust~-Ilimsk/list/;38;86591;0
+Иркутская область;Усть-Кут;636;/banks/Irkutskaya_oblast~/Ust~-Kut/list/;38;45061;0
+Иркутская область;Черемхово;4119;/banks/Irkutskaya_oblast~/Cheremhovo/list/;38;52650;0
+Иркутская область;Шелехов;638;/banks/Irkutskaya_oblast~/Shelehov/list/;38;47960;0
+Кабардино-Балкарская Республика;Баксан;2497;/banks/Kabardino-Balkarskaya_Respublika/Baksan/list/;7;36857;0
+Кабардино-Балкарская Республика;Майский;3255;/banks/Kabardino-Balkarskaya_Respublika/Mayskiy/list/;7;26755;0
+Кабардино-Балкарская Республика;Нальчик;799;/banks/Nal~chik/list/;7;240095;0
+Кабардино-Балкарская Республика;Нарткала;3387;/banks/Kabardino-Balkarskaya_Respublika/Nartkala/list/;7;31679;0
+Кабардино-Балкарская Республика;Прохладный;3685;/banks/Kabardino-Balkarskaya_Respublika/Prohladnyiy/list/;7;59595;0
+Кабардино-Балкарская Республика;Терек;3939;/banks/Kabardino-Balkarskaya_Respublika/Terek/list/;7;19170;0
+Кабардино-Балкарская Республика;Тырныауз;3993;/banks/Kabardino-Balkarskaya_Respublika/Tyirnyiauz/list/;7;21000;0
+Кабардино-Балкарская Республика;Чегем;4114;/banks/Kabardino-Balkarskaya_Respublika/Chegem/list/;7;17988;0
+Калининградская область;Багратионовск;2488;/banks/Kaliningradskaya_oblast~/Bagrationovsk/list/;39;6399;0
+Калининградская область;Балтийск;2503;/banks/Kaliningradskaya_oblast~/Baltiysk/list/;39;32670;0
+Калининградская область;Гвардейск;2718;/banks/Kaliningradskaya_oblast~/Gvardeysk/list/;39;13888;0
+Калининградская область;Гурьевск;2759;/banks/Kaliningradskaya_oblast~/Gur~evsk/list/;39;12433;0
+Калининградская область;Гусев;2761;/banks/Kaliningradskaya_oblast~/Gusev/list/;39;28260;0
+Калининградская область;Зеленоградск;2885;/banks/Kaliningradskaya_oblast~/Zelenogradsk/list/;39;13015;0
+Калининградская область;Краснознаменск;7781;/banks/Kaliningradskaya_oblast~/Krasnoznamensk/list/;39;36057;0
+Калининградская область;Ладушкин;7765;/banks/Kaliningradskaya_oblast~/Ladusshkin/list/;39;3788;0
+Калининградская область;Мамоново;4997;/banks/Kaliningradskaya_oblast~/Mamonovo/list/;39;7757;0
+Калининградская область;Неман;3401;/banks/Kaliningradskaya_oblast~/Neman/list/;39;11794;0
+Калининградская область;Нестеров;3404;/banks/Kaliningradskaya_oblast~/Nesterov/list/;39;4584;0
+Калининградская область;Озерск;7776;/banks/Kaliningradskaya_oblast~/Ozersk/list/;39;4740;0
+Калининградская область;Пионерский;3612;/banks/Kaliningradskaya_oblast~/Pionerskiy/list/;39;11017;0
+Калининградская область;Полесск;3610;/banks/Kaliningradskaya_oblast~/Polessk/list/;39;7580;0
+Калининградская область;Правдинск;7835;/banks/Kaliningradskaya_oblast~/Pravdinsk/list/;39;4323;0
+Калининградская область;Приморск;7573;/banks/Kaliningradskaya_oblast~/Primorsk/list/;39;1956;0
+Калининградская область;Светлогорск;249;/banks/Kaliningradskaya_oblast~/Svetlogorsk/list/;39;10775;0
+Калининградская область;Светлый;250;/banks/Kaliningradskaya_oblast~/Svetlyiy/list/;39;21380;0
+Калининградская область;Славск;3794;/banks/Kaliningradskaya_oblast~/Slavsk/list/;39;4614;0
+Калининградская область;Советск;3807;/banks/Kaliningradskaya_oblast~/Sovetsk/list/;39;41709;0
+Калининградская область;Черняховск;4127;/banks/Kaliningradskaya_oblast~/Chernyahovsk/list/;39;40464;0
+Калужская область;Балабаново;143;/banks/Kaluzhskaya_oblast~/Balabanovo/list/;40;26337;0
+Калужская область;Белоусово;5108;/banks/Kaluzhskaya_oblast~/Belousovo/list/;40;8432;0
+Калужская область;Боровск;144;/banks/Kaluzhskaya_oblast~/Borovsk/list/;40;12283;0
+Калужская область;Ермолино;2842;/banks/Kaluzhskaya_oblast~/Ermolino/list/;40;10409;0
+Калужская область;Жиздра;7538;/banks/Kaluzhskaya_oblast~/Zhizdra/list/;40;5585;0
+Калужская область;Жуков;2853;/banks/Kaluzhskaya_oblast~/Zhukov/list/;40;12150;0
+Калужская область;Козельск;3054;/banks/Kaluzhskaya_oblast~/Kozel~sk/list/;40;18203;0
+Калужская область;Кондрово;3073;/banks/Kaluzhskaya_oblast~/Kondrovo/list/;40;16672;0
+Калужская область;Кременки;3139;/banks/Kaluzhskaya_oblast~/Kremenki/list/;40;11617;0
+Калужская область;Людиново;3244;/banks/Kaluzhskaya_oblast~/Lyudinovo/list/;40;40550;0
+Калужская область;Малоярославец;145;/banks/Kaluzhskaya_oblast~/Maloyaroslavetss/list/;40;30401;0
+Калужская область;Медынь;3297;/banks/Kaluzhskaya_oblast~/Medyin~/list/;40;8298;0
+Калужская область;Мещовск;3308;/banks/Kaluzhskaya_oblast~/Messchovsk/list/;40;4101;0
+Калужская область;Мосальск;3338;/banks/Kaluzhskaya_oblast~/Mosal~sk/list/;40;4285;0
+Калужская область;Обнинск;141;/banks/Kaluzhskaya_oblast~/Obninsk/list/;40;104798;0
+Калужская область;Сосенский;3831;/banks/Kaluzhskaya_oblast~/Sosenskiy/list/;40;12394;0
+Калужская область;Спас-Деменск;3839;/banks/Kaluzhskaya_oblast~/Spas-Demensk/list/;40;4904;0
+Калужская область;Сухиничи;3895;/banks/Kaluzhskaya_oblast~/Suhinichi/list/;40;16295;0
+Калужская область;Таруса;3923;/banks/Kaluzhskaya_oblast~/Tarusa/list/;40;9656;0
+Калужская область;Юхнов;4208;/banks/Kaluzhskaya_oblast~/Yuhnov/list/;40;7056;0
+Камчатский край;Вилючинск;728;/banks/Kamchatskiy_kray/Vilyuchinsk/list/;41;22905;0
+Камчатский край;Елизово;730;/banks/Kamchatskiy_kray/Elizovo/list/;41;39548;0
+Камчатский край;Петропавловск-Камчатский;729;/banks/Petropavlovsk-Kamchatskiy/list/;41;179526;0
+Карачаево-Черкесская Республика;Карачаевск;2992;/banks/Karachaevo-Cherkesskaya_Respublika/Karachaevsk/list/;9;23848;0
+Карачаево-Черкесская Республика;Теберда;3932;/banks/Karachaevo-Cherkesskaya_Respublika/Teberda/list/;9;9097;0
+Карачаево-Черкесская Республика;Усть-Джегута;4038;/banks/Karachaevo-Cherkesskaya_Respublika/Ust~-Dzheguta/list/;9;30602;0
+Карачаево-Черкесская Республика;Черкесск;803;/banks/Cherkessk/list/;9;121439;0
+Кемеровская область;Анжеро-Судженск;644;/banks/Kemerovskaya_oblast~/Anzhero-Sudzhensk/list/;42;76669;0
+Кемеровская область;Белово;646;/banks/Kemerovskaya_oblast~/Belovo/list/;42;76752;0
+Кемеровская область;Березовский;645;/banks/Kemerovskaya_oblast~/Berezovskiy/list/;42;47292;0
+Кемеровская область;Гурьевск;2760;/banks/Kemerovskaya_oblast~/Gur~evsk/list/;42;24816;0
+Кемеровская область;Калтан;647;/banks/Kemerovskaya_oblast~/Kaltan/list/;42;21893;0
+Кемеровская область;Киселевск;648;/banks/Kemerovskaya_oblast~/Kiselevsk/list/;42;98382;0
+Кемеровская область;Ленинск-Кузнецкий;649;/banks/Kemerovskaya_oblast~/Leninsk-Kuznetsskiy/list/;42;101666;0
+Кемеровская область;Мариинск;650;/banks/Kemerovskaya_oblast~/Mariinsk/list/;42;40522;0
+Кемеровская область;Междуреченск;642;/banks/Kemerovskaya_oblast~/Mezhdurechensk/list/;42;101995;0
+Кемеровская область;Мыски;3376;/banks/Kemerovskaya_oblast~/Myiski/list/;42;43029;0
+Кемеровская область;Осинники;3542;/banks/Kemerovskaya_oblast~/Osinniki/list/;42;45997;0
+Кемеровская область;Полысаево;3645;/banks/Kemerovskaya_oblast~/Polyisaevo/list/;42;27624;0
+Кемеровская область;Салаир;3741;/banks/Kemerovskaya_oblast~/Salair/list/;42;8263;0
+Кемеровская область;Тайга;652;/banks/Kemerovskaya_oblast~/Tayga/list/;42;25330;0
+Кемеровская область;Таштагол;653;/banks/Kemerovskaya_oblast~/Tasshtagol/list/;42;23114;0
+Кемеровская область;Топки;3961;/banks/Kemerovskaya_oblast~/Topki/list/;42;28642;0
+Кировская область;Белая Холуница;2524;/banks/Kirovskaya_oblast~/Belaya_Holunitssa/;43;11232;0
+Кировская область;Вятские Поляны;387;/banks/Kirovskaya_oblast~/Vyatskie_Polyanyi/;43;35159;0
+Кировская область;Зуевка;2901;/banks/Kirovskaya_oblast~/Zuevka/;43;11198;0
+Кировская область;Кирово-Чепецк;389;/banks/Kirovskaya_oblast~/Kirovo-Chepetssk/;43;80920;0
+Кировская область;Кирс;3037;/banks/Kirovskaya_oblast~/Kirs/;43;10420;0
+Кировская область;Котельнич;3092;/banks/Kirovskaya_oblast~/Kotel~nich/;43;24979;0
+Кировская область;Луза;3235;/banks/Kirovskaya_oblast~/Luza/;43;11262;0
+Кировская область;Малмыж;3269;/banks/Kirovskaya_oblast~/Malmyizh/;43;8265;0
+Кировская область;Мураши;3369;/banks/Kirovskaya_oblast~/Murasshi/;43;6752;0
+Кировская область;Нолинск;3493;/banks/Kirovskaya_oblast~/Nolinsk/;43;9556;0
+Кировская область;Омутнинск;3532;/banks/Kirovskaya_oblast~/Omutninsk/;43;23618;0
+Кировская область;Орлов;3540;/banks/Kirovskaya_oblast~/Orlov/;43;6959;0
+Кировская область;Слободской;3799;/banks/Kirovskaya_oblast~/Slobodskoy/;43;33983;0
+Кировская область;Советск;5030;/banks/Kirovskaya_oblast~/Sovetsk/;43;16592;0
+Кировская область;Сосновка;3833;/banks/Kirovskaya_oblast~/Sosnovka/;43;11960;0
+Кировская область;Уржум;4024;/banks/Kirovskaya_oblast~/Urzhum/;43;10213;0
+Кировская область;Яранск;390;/banks/Kirovskaya_oblast~/Yaransk/;43;17252;0
+Костромская область;Буй;2616;/banks/Kostromskaya_oblast~/Buy/;44;25763;0
+Костромская область;Волгореченск;2683;/banks/Kostromskaya_oblast~/Volgorechensk/;44;17108;0
+Костромская область;Галич;2716;/banks/Kostromskaya_oblast~/Galich/;44;17346;0
+Костромская область;Кологрив;5557;/banks/Kostromskaya_oblast~/Kologriv/;44;3314;0
+Костромская область;Кострома;148;/banks/Kostroma/;44;268617;0
+Костромская область;Макарьев;3261;/banks/Kostromskaya_oblast~/Makar~ev/;44;7114;0
+Костромская область;Мантурово;3279;/banks/Kostromskaya_oblast~/Manturovo/;44;17479;0
+Костромская область;Нерехта;149;/banks/Kostromskaya_oblast~/Nerehta/;44;22817;0
+Костромская область;Нея;3407;/banks/Kostromskaya_oblast~/Neya/;44;9827;0
+Костромская область;Солигалич;3814;/banks/Kostromskaya_oblast~/Soligalich/;44;6438;0
+Костромская область;Чухлома;4144;/banks/Kostromskaya_oblast~/Chuhloma/;44;5209;0
+Костромская область;Шарья;150;/banks/Kostromskaya_oblast~/Shar~ya/;44;23668;0
+Краснодарский край;Абинск;327;/banks/Krasnodarskiy_kray/Abinsk/;23;34926;0
+Краснодарский край;Анапа;323;/banks/Krasnodarskiy_kray/Anapa/;23;58983;0
+Краснодарский край;Апшеронск;2446;/banks/Krasnodarskiy_kray/Apssheronsk/;23;40229;0
+Краснодарский край;Армавир;324;/banks/Krasnodarskiy_kray/Armavir/;23;188897;0
+Краснодарский край;Белореченск;328;/banks/Krasnodarskiy_kray/Belorechensk/;23;53891;0
+Краснодарский край;Геленджик;329;/banks/Krasnodarskiy_kray/Gelendzhik/;23;54813;0
+Краснодарский край;Горячий Ключ;2746;/banks/Krasnodarskiy_kray/Goryachiy_Klyuch/;23;30093;0
+Краснодарский край;Гулькевичи;2757;/banks/Krasnodarskiy_kray/Gul~kevichi/;23;35225;0
+Краснодарский край;Ейск;325;/banks/Krasnodarskiy_kray/Eysk/;23;87771;0
+Краснодарский край;Кореновск;3079;/banks/Krasnodarskiy_kray/Korenovsk/;23;41179;0
+Краснодарский край;Кропоткин;3144;/banks/Krasnodarskiy_kray/Kropotkin/;23;80743;0
+Краснодарский край;Крымск;332;/banks/Krasnodarskiy_kray/Kryimsk/;23;57370;0
+Краснодарский край;Курганинск;3170;/banks/Krasnodarskiy_kray/Kurganinsk/;23;47974;0
+Краснодарский край;Лабинск;3189;/banks/Krasnodarskiy_kray/Labinsk/;23;62822;0
+Краснодарский край;Новокубанск;333;/banks/Krasnodarskiy_kray/Novokubansk/;23;34847;0
+Краснодарский край;Приморско-Ахтарск;4832;/banks/Krasnodarskiy_kray/Primorsko-Ahtarsk/;23;32253;0
+Краснодарский край;Славянск-на-Кубани;334;/banks/Krasnodarskiy_kray/Slavyansk-na-Kubani/;23;63768;0
+Краснодарский край;Темрюк;337;/banks/Krasnodarskiy_kray/Temryuk/;23;38014;0
+Краснодарский край;Тимашевск;335;/banks/Krasnodarskiy_kray/Timasshevsk/;23;53921;0
+Краснодарский край;Тихорецк;336;/banks/Krasnodarskiy_kray/Tihoretssk/;23;61825;0
+Краснодарский край;Усть-Лабинск;4048;/banks/Krasnodarskiy_kray/Ust~-Labinsk/;23;43268;0
+Краснодарский край;Хадыженск;4074;/banks/Krasnodarskiy_kray/Hadyizhensk/;23;21580;0
+Красноярский край;Артемовск;5555;/banks/Krasnoyarskiy_kray/Artemovsk/;24;2180;0
+Красноярский край;Боготол;2574;/banks/Krasnoyarskiy_kray/Bogotol/;24;21029;0
+Красноярский край;Бородино;2609;/banks/Krasnoyarskiy_kray/Borodino/;24;17423;0
+Красноярский край;Дивногорск;669;/banks/Krasnoyarskiy_kray/Divnogorsk/;24;28271;0
+Красноярский край;Дудинка;670;/banks/Krasnoyarskiy_kray/Dudinka/;24;22207;0
+Красноярский край;Енисейск;2834;/banks/Krasnoyarskiy_kray/Eniseysk/;24;18769;0
+Красноярский край;Заозерный;2875;/banks/Krasnoyarskiy_kray/Zaozernyiy/;24;10683;0
+Красноярский край;Зеленогорск;663;/banks/Krasnoyarskiy_kray/Zelenogorsk/;24;12859;0
+Красноярский край;Игарка;2909;/banks/Krasnoyarskiy_kray/Igarka/;24;6183;0
+Красноярский край;Иланский;665;/banks/Krasnoyarskiy_kray/Ilanskiy/;24;16108;0
+Красноярский край;Канск;664;/banks/Krasnoyarskiy_kray/Kansk/;24;94230;0
+Красноярский край;Кодинск;666;/banks/Krasnoyarskiy_kray/Kodinsk/;24;14835;0
+Красноярский край;Лесосибирск;667;/banks/Krasnoyarskiy_kray/Lesosibirsk/;24;61146;0
+Красноярский край;Минусинск;659;/banks/Krasnoyarskiy_kray/Minusinsk/;24;71171;0
+Красноярский край;Назарово;3383;/banks/Krasnoyarskiy_kray/Nazarovo/;24;52829;0
+Красноярский край;Норильск;660;/banks/Krasnoyarskiy_kray/Noril~sk/;24;175301;0
+Красноярский край;Сосновоборск;668;/banks/Krasnoyarskiy_kray/Sosnovoborsk/;24;33090;0
+Красноярский край;Ужур;4011;/banks/Krasnoyarskiy_kray/Uzhur/;24;16079;0
+Красноярский край;Уяр;4060;/banks/Krasnoyarskiy_kray/Uyar/;24;12666;0
+Красноярский край;Шарыпово;671;/banks/Krasnoyarskiy_kray/Sharyipovo/;24;38570;0
+Курганская область;Далматово;528;/banks/Kurganskaya_oblast~/Dalmatovo/;45;13913;0
+Курганская область;Катайск;3007;/banks/Kurganskaya_oblast~/Kataysk/;45;14017;0
+Курганская область;Куртамыш;3175;/banks/Kurganskaya_oblast~/Kurtamyissh/;45;17098;0
+Курганская область;Макушино;3262;/banks/Kurganskaya_oblast~/Makusshino/;45;8337;0
+Курганская область;Петухово;3603;/banks/Kurganskaya_oblast~/Petuhovo/;45;11291;0
+Курганская область;Шадринск;529;/banks/Kurganskaya_oblast~/Shadrinsk/;45;77744;0
+Курганская область;Шумиха;530;/banks/Kurganskaya_oblast~/Shumiha/;45;17821;0
+Курганская область;Щучье;4184;/banks/Kurganskaya_oblast~/Schuch~e/;45;10971;0
+Курская область;Дмитриев;2794;/banks/Kurskaya_oblast~/Dmitriev/;46;7721;0
+Курская область;Курчатов;155;/banks/Kurskaya_oblast~/Kurchatov/;46;42691;0
+Курская область;Льгов;3241;/banks/Kurskaya_oblast~/L~gov/;46;21452;0
+Курская область;Обоянь;3503;/banks/Kurskaya_oblast~/Oboyan~/;46;13562;0
+Курская область;Рыльск;3731;/banks/Kurskaya_oblast~/Ryil~sk/;46;15667;0
+Курская область;Суджа;3876;/banks/Kurskaya_oblast~/Sudzha/;46;6036;0
+Курская область;Фатеж;4063;/banks/Kurskaya_oblast~/Fatezh/;46;5404;0
+Курская область;Щигры;4183;/banks/Kurskaya_oblast~/Schigryi/;46;17043;0
+Липецкая область;Грязи;2755;/banks/Lipetsskaya_oblast~/Gryazi/;48;46798;0
+Липецкая область;Данков;2769;/banks/Lipetsskaya_oblast~/Dankov/;48;21056;0
+Липецкая область;Елец;160;/banks/Lipetsskaya_oblast~/Eletss/;48;108404;0
+Липецкая область;Задонск;2865;/banks/Lipetsskaya_oblast~/Zadonsk/;48;9695;0
+Липецкая область;Лебедянь;159;/banks/Lipetsskaya_oblast~/Lebedyan~/;48;20991;0
+Липецкая область;Усмань;4032;/banks/Lipetsskaya_oblast~/Usman~/;48;18752;0
+Липецкая область;Чаплыгин;4109;/banks/Lipetsskaya_oblast~/Chaplyigin/;48;12656;0
+Магаданская область;Магадан;733;/banks/Magadan/;49;95925;0
+Магаданская область;Сусуман;3894;/banks/Magadanskaya_oblast~/Susuman/;49;5865;0
+Москва и область;Апрелевка;90;/banks/Moskva_i_oblast~/Aprelevka/;50;18467;0
+Москва и область;Балашиха;9;/banks/Moskva_i_oblast~/Balasshiha/;50;215353;0
+Москва и область;Бронницы;29;/banks/Moskva_i_oblast~/Bronnitssyi/;50;21102;0
+Москва и область;Верея;2651;/banks/Moskva_i_oblast~/Vereya/;50;5368;0
+Москва и область;Видное;30;/banks/Moskva_i_oblast~/Vidnoe/;50;56798;0
+Москва и область;Волоколамск;32;/banks/Moskva_i_oblast~/Volokolamsk/;50;23386;0
+Москва и область;Воскресенск;10;/banks/Moskva_i_oblast~/Voskresensk/;50;91301;0
+Москва и область;Высоковск;2705;/banks/Moskva_i_oblast~/Vyisokovsk/;50;10642;0
+Москва и область;Голицыно;31;/banks/Moskva_i_oblast~/Golitssyino/;50;17447;0
+Москва и область;Дедовск;86;/banks/Moskva_i_oblast~/Dedovsk/;50;29280;0
+Москва и область;Дзержинский;84;/banks/Moskva_i_oblast~/Dzerzhinskiy/;50;47125;0
+Москва и область;Дмитров;11;/banks/Moskva_i_oblast~/Dmitrov/;50;61454;0
+Москва и область;Долгопрудный;5;/banks/Moskva_i_oblast~/Dolgoprudnyiy/;50;90976;0
+Москва и область;Домодедово;85;/banks/Moskva_i_oblast~/Domodedovo/;50;96123;0
+Москва и область;Дрезна;2810;/banks/Moskva_i_oblast~/Drezna/;50;11815;0
+Москва и область;Дубна;6;/banks/Moskva_i_oblast~/Dubna/;50;70569;0
+Москва и область;Егорьевск;83;/banks/Moskva_i_oblast~/Egor~evsk/;50;70133;0
+Москва и область;Железнодорожный;25;/banks/Moskva_i_oblast~/Zheleznodorozhnyiy/;50;131729;0
+Москва и область;Жуковский;21;/banks/Moskva_i_oblast~/Zhukovskiy/;50;102729;0
+Москва и область;Зарайск;36;/banks/Moskva_i_oblast~/Zaraysk/;50;24648;0
+Москва и область;Звенигород;37;/banks/Moskva_i_oblast~/Zvenigorod/;50;16395;0
+Москва и область;Ивантеевка;26;/banks/Moskva_i_oblast~/Ivanteevka/;50;58594;0
+Москва и область;Истра;50;/banks/Moskva_i_oblast~/Istra/;50;35106;0
+Москва и область;Кашира;42;/banks/Moskva_i_oblast~/Kasshira/;50;41880;0
+Москва и область;Климовск;27;/banks/Moskva_i_oblast~/Klimovsk/;50;56113;0
+Москва и область;Клин;45;/banks/Moskva_i_oblast~/Klin/;50;80584;0
+Москва и область;Коломна;12;/banks/Moskva_i_oblast~/Kolomna/;50;144642;0
+Москва и область;Королев;22;/banks/Moskva_i_oblast~/Korolev/;50;183452;0
+Москва и область;Котельники;49;/banks/Moskva_i_oblast~/Kotel~niki/;50;32347;0
+Москва и область;Красноармейск;43;/banks/Moskva_i_oblast~/Krasnoarmeysk/;50;26294;0
+Москва и область;Красногорск;13;/banks/Moskva_i_oblast~/Krasnogorsk/;50;116738;0
+Москва и область;Краснозаводск;2860;/banks/Moskva_i_oblast~/Krasnozavodsk/;50;13432;0
+Москва и область;Кубинка;3150;/banks/Moskva_i_oblast~/Kubinka/;50;22918;0
+Москва и область;Куровское;3173;/banks/Moskva_i_oblast~/Kurovskoe/;50;21821;0
+Москва и область;Ликино-Дулево;3216;/banks/Moskva_i_oblast~/Likino-Dulevo/;50;31331;0
+Москва и область;Лобня;46;/banks/Moskva_i_oblast~/Lobnya/;50;74350;0
+Москва и область;Лосино-Петровский;48;/banks/Moskva_i_oblast~/Losino-Petrovskiy/;50;22550;0
+Москва и область;Луховицы;52;/banks/Moskva_i_oblast~/Luhovitssyi/;50;29849;0
+Москва и область;Лыткарино;53;/banks/Moskva_i_oblast~/Lyitkarino/;50;55147;0
+Москва и область;Люберцы;54;/banks/Moskva_i_oblast~/Lyubertssyi/;50;171978;0
+Москва и область;Можайск;14;/banks/Moskva_i_oblast~/Mozhaysk/;50;31388;0
+Москва и область;Наро-Фоминск;57;/banks/Moskva_i_oblast~/Naro-Fominsk/;50;64640;0
+Москва и область;Ногинск;62;/banks/Moskva_i_oblast~/Noginsk/;50;99762;0
+Москва и область;Одинцово;68;/banks/Moskva_i_oblast~/Odintssovo/;50;139021;0
+Москва и область;Ожерелье;3509;/banks/Moskva_i_oblast~/Ozherel~e/;50;10444;0
+Москва и область;Озеры;3511;/banks/Moskva_i_oblast~/Ozeryi/;50;25788;0
+Москва и область;Орехово-Зуево;15;/banks/Moskva_i_oblast~/Orehovo-Zuevo/;50;120620;0
+Москва и область;Павловский Посад;56;/banks/Moskva_i_oblast~/Pavlovskiy_Posad/;50;63771;0
+Москва и область;Протвино;60;/banks/Moskva_i_oblast~/Protvino/;50;37308;0
+Москва и область;Пушкино;66;/banks/Moskva_i_oblast~/Pusshkino/;50;102840;0
+Москва и область;Пущино;7;/banks/Moskva_i_oblast~/Pusschino/;50;20263;0
+Москва и область;Раменское;17;/banks/Moskva_i_oblast~/Ramenskoe/;50;96355;0
+Москва и область;Рошаль;3723;/banks/Moskva_i_oblast~/Rosshal~/;50;21265;0
+Москва и область;Руза;39;/banks/Moskva_i_oblast~/Ruza/;50;13495;0
+Москва и область;Сергиев Посад;18;/banks/Moskva_i_oblast~/Sergiev_Posad/;50;110878;0
+Москва и область;Серпухов;19;/banks/Moskva_i_oblast~/Serpuhov/;50;126496;0
+Москва и область;Солнечногорск;70;/banks/Moskva_i_oblast~/Solnechnogorsk/;50;52996;0
+Москва и область;Старая Купавна;71;/banks/Moskva_i_oblast~/Staraya_Kupavna/;50;21859;0
+Москва и область;Ступино;73;/banks/Moskva_i_oblast~/Stupino/;50;66942;0
+Москва и область;Талдом;3910;/banks/Moskva_i_oblast~/Taldom/;50;13819;0
+Москва и область;Фрязино;23;/banks/Moskva_i_oblast~/Fryazino/;50;55449;0
+Москва и область;Хотьково;4098;/banks/Moskva_i_oblast~/Hot~kovo/;50;21612;0
+Москва и область;Черноголовка;8;/banks/Moskva_i_oblast~/Chernogolovka/;50;20986;0
+Москва и область;Чехов;87;/banks/Moskva_i_oblast~/Chehov/;50;60677;0
+Москва и область;Шатура;88;/banks/Moskva_i_oblast~/Shatura/;50;32836;0
+Москва и область;Щелково;20;/banks/Moskva_i_oblast~/Schelkovo/;50;110380;0
+Москва и область;Электросталь;81;/banks/Moskva_i_oblast~/Jelektrostal~/;50;155324;0
+Москва и область;Электроугли;82;/banks/Moskva_i_oblast~/Jelektrougli/;50;20120;0
+Москва и область;Яхрома;89;/banks/Moskva_i_oblast~/Yahroma/;50;13248;0
+Мурманская область;Апатиты;253;/banks/Murmanskaya_oblast~/Apatityi/;51;59690;0
+Мурманская область;Гаджиево;7757;/banks/Murmanskaya_oblast~/Gadzhievo/;51;11089;0
+Мурманская область;Заозерск;7702;/banks/Murmanskaya_oblast~/Zaozersk/;51;11206;0
+Мурманская область;Заполярный;255;/banks/Murmanskaya_oblast~/Zapolyarnyiy/;51;15835;0
+Мурманская область;Кандалакша;256;/banks/Murmanskaya_oblast~/Kandalakssha/;51;35659;0
+Мурманская область;Кировск;257;/banks/Murmanskaya_oblast~/Kirovsk/;51;28659;0
+Мурманская область;Ковдор;3050;/banks/Murmanskaya_oblast~/Kovdor/;51;18836;0
+Мурманская область;Кола;258;/banks/Murmanskaya_oblast~/Kola/;51;10447;0
+Мурманская область;Мончегорск;260;/banks/Murmanskaya_oblast~/Monchegorsk/;51;45381;0
+Мурманская область;Оленегорск;259;/banks/Murmanskaya_oblast~/Olenegorsk/;51;23079;0
+Мурманская область;Островной;7700;/banks/Murmanskaya_oblast~/Ostrovnoy/;51;2177;0
+Мурманская область;Полярные Зори;3647;/banks/Murmanskaya_oblast~/Polyarnyie_Zori/;51;15106;0
+Мурманская область;Полярный;3648;/banks/Murmanskaya_oblast~/Polyarnyiy/;51;17304;0
+Мурманская область;Североморск;3761;/banks/Murmanskaya_oblast~/Severomorsk/;51;50076;0
+Мурманская область;Снежногорск;3806;/banks/Murmanskaya_oblast~/Snezhnogorsk/;51;12698;0
+Ненецкий автономный округ;Нарьян-Мар;230;/banks/Nar~yan-Mar/;83;21296;0
+Нижегородская область;Арзамас;404;/banks/Nizhegorodskaya_oblast~/Arzamas/;52;106367;0
+Нижегородская область;Балахна;403;/banks/Nizhegorodskaya_oblast~/Balahna/;52;51526;0
+Нижегородская область;Богородск;405;/banks/Nizhegorodskaya_oblast~/Bogorodsk/;52;25497;0
+Нижегородская область;Бор;406;/banks/Nizhegorodskaya_oblast~/Bor/;52;78079;0
+Нижегородская область;Ветлуга;2671;/banks/Nizhegorodskaya_oblast~/Vetluga/;52;8956;0
+Нижегородская область;Володарск;2684;/banks/Nizhegorodskaya_oblast~/Volodarsk/;52;9924;0
+Нижегородская область;Ворсма;2696;/banks/Nizhegorodskaya_oblast~/Vorsma/;52;11622;0
+Нижегородская область;Выкса;399;/banks/Nizhegorodskaya_oblast~/Vyiksa/;52;56196;0
+Нижегородская область;Горбатов;7167;/banks/Nizhegorodskaya_oblast~/Gorbatov/;52;2278;0
+Нижегородская область;Городец;407;/banks/Nizhegorodskaya_oblast~/Gorodetss/;52;30699;0
+Нижегородская область;Заволжье;408;/banks/Nizhegorodskaya_oblast~/Zavolzh~e/;52;40265;0
+Нижегородская область;Княгинино;3048;/banks/Nizhegorodskaya_oblast~/Knyaginino/;52;6708;0
+Нижегородская область;Кстово;400;/banks/Nizhegorodskaya_oblast~/Kstovo/;52;66641;0
+Нижегородская область;Кулебаки;409;/banks/Nizhegorodskaya_oblast~/Kulebaki/;52;35762;0
+Нижегородская область;Лукоянов;3236;/banks/Nizhegorodskaya_oblast~/Lukoyanov/;52;14949;0
+Нижегородская область;Лысково;410;/banks/Nizhegorodskaya_oblast~/Lyiskovo/;52;21882;0
+Нижегородская область;Навашино;411;/banks/Nizhegorodskaya_oblast~/Navasshino/;52;16413;0
+Нижегородская область;Павлово;412;/banks/Nizhegorodskaya_oblast~/Pavlovo/;52;60699;0
+Нижегородская область;Первомайск;413;/banks/Nizhegorodskaya_oblast~/Pervomaysk/;52;14567;0
+Нижегородская область;Перевоз;3586;/banks/Nizhegorodskaya_oblast~/Perevoz/;52;9201;0
+Нижегородская область;Саров;398;/banks/Nizhegorodskaya_oblast~/Sarov/;52;92073;0
+Нижегородская область;Семенов;415;/banks/Nizhegorodskaya_oblast~/Semenov/;52;24472;0
+Нижегородская область;Сергач;414;/banks/Nizhegorodskaya_oblast~/Sergach/;52;21387;0
+Нижегородская область;Урень;416;/banks/Nizhegorodskaya_oblast~/Uren~/;52;12306;0
+Нижегородская область;Чкаловск;4135;/banks/Nizhegorodskaya_oblast~/Chkalovsk/;52;12371;0
+Нижегородская область;Шахунья;417;/banks/Nizhegorodskaya_oblast~/Shahun~ya/;52;20926;0
+Новгородская область;Боровичи;263;/banks/Novgorodskaya_oblast~/Borovichi/;53;53699;0
+Новгородская область;Валдай;2399;/banks/Novgorodskaya_oblast~/Valday/;53;16099;0
+Новгородская область;Великий Новгород;2398;/banks/Velikiy_Novgorod/;53;218724;0
+Новгородская область;Малая Вишера;3263;/banks/Novgorodskaya_oblast~/Malaya_Visshera/;53;12461;0
+Новгородская область;Окуловка;3522;/banks/Novgorodskaya_oblast~/Okulovka/;53;12464;0
+Новгородская область;Пестово;3591;/banks/Novgorodskaya_oblast~/Pestovo/;53;15911;0
+Новгородская область;Сольцы;3827;/banks/Novgorodskaya_oblast~/Sol~tssyi/;53;10086;0
+Новгородская область;Старая Русса;264;/banks/Novgorodskaya_oblast~/Staraya_Russa/;53;31809;0
+Новгородская область;Холм;6701;/banks/Novgorodskaya_oblast~/Holm/;53;3830;0
+Новгородская область;Чудово;265;/banks/Novgorodskaya_oblast~/Chudovo/;53;15401;0
+Новосибирская область;Барабинск;2506;/banks/Novosibirskaya_oblast~/Barabinsk/;54;30394;0
+Новосибирская область;Болотное;2580;/banks/Novosibirskaya_oblast~/Bolotnoe/;54;16570;0
+Новосибирская область;Искитим;676;/banks/Novosibirskaya_oblast~/Iskitim/;54;60072;0
+Новосибирская область;Карасук;2988;/banks/Novosibirskaya_oblast~/Karasuk/;54;28586;0
+Новосибирская область;Каргат;2996;/banks/Novosibirskaya_oblast~/Kargat/;54;10042;0
+Новосибирская область;Куйбышев;3159;/banks/Novosibirskaya_oblast~/Kuybyisshev/;54;45298;0
+Новосибирская область;Купино;3167;/banks/Novosibirskaya_oblast~/Kupino/;54;14893;0
+Новосибирская область;Обь;3506;/banks/Novosibirskaya_oblast~/Ob~/;54;25383;0
+Новосибирская область;Татарск;3925;/banks/Novosibirskaya_oblast~/Tatarsk/;54;24217;0
+Новосибирская область;Тогучин;3954;/banks/Novosibirskaya_oblast~/Toguchin/;54;21900;0
+Новосибирская область;Черепаново;4121;/banks/Novosibirskaya_oblast~/Cherepanovo/;54;19803;0
+Новосибирская область;Чулым;4139;/banks/Novosibirskaya_oblast~/Chulyim/;54;11568;0
+Омская область;Исилькуль;2941;/banks/Omskaya_oblast~/Isil~kul~/;55;24481;0
+Омская область;Калачинск;2959;/banks/Omskaya_oblast~/Kalachinsk/;55;23539;0
+Омская область;Называевск;3384;/banks/Omskaya_oblast~/Nazyivaevsk/;55;11614;0
+Омская область;Тара;3911;/banks/Omskaya_oblast~/Tara/;55;27322;0
+Омская область;Тюкалинск;3995;/banks/Omskaya_oblast~/Tyukalinsk/;55;11276;0
+Оренбургская область;Абдулино;2405;/banks/Orenburgskaya_oblast~/Abdulino/;56;20183;0
+Оренбургская область;Бугуруслан;2614;/banks/Orenburgskaya_oblast~/Buguruslan/;56;49737;0
+Оренбургская область;Гай;422;/banks/Orenburgskaya_oblast~/Gay/;56;38302;0
+Оренбургская область;Кувандык;3151;/banks/Orenburgskaya_oblast~/Kuvandyik/;56;26176;0
+Оренбургская область;Медногорск;3296;/banks/Orenburgskaya_oblast~/Mednogorsk/;56;27290;0
+Оренбургская область;Соль-Илецк;3826;/banks/Orenburgskaya_oblast~/Sol~-Iletssk/;56;28369;0
+Оренбургская область;Сорочинск;3829;/banks/Orenburgskaya_oblast~/Sorochinsk/;56;29260;0
+Орловская область;Болхов;2581;/banks/Orlovskaya_oblast~/Bolhov/;57;11421;0
+Орловская область;Дмитровск;2796;/banks/Orlovskaya_oblast~/Dmitrovsk/;57;5651;0
+Орловская область;Ливны;3215;/banks/Orlovskaya_oblast~/Livnyi/;57;50430;0
+Орловская область;Малоархангельск;3270;/banks/Orlovskaya_oblast~/Maloarhangel~sk/;57;3614;0
+Орловская область;Мценск;3375;/banks/Orlovskaya_oblast~/Mtssensk/;57;43216;0
+Орловская область;Новосиль;3476;/banks/Orlovskaya_oblast~/Novosil~/;57;3661;0
+Орловская область;Орел;163;/banks/Orel/;57;317854;0
+Пензенская область;Белинский;2526;/banks/Penzenskaya_oblast~/Belinskiy/;58;8567;0
+Пензенская область;Городище;5352;/banks/Penzenskaya_oblast~/Gorodissche/;58;8102;0
+Пензенская область;Заречный;429;/banks/Penzenskaya_oblast~/Zarechnyiy/;58;63579;0
+Пензенская область;Каменка;2970;/banks/Penzenskaya_oblast~/Kamenka/;58;39579;0
+Пензенская область;Кузнецк;430;/banks/Penzenskaya_oblast~/Kuznetssk/;58;88883;0
+Пензенская область;Нижний Ломов;3414;/banks/Penzenskaya_oblast~/Nizhniy_Lomov/;58;22725;0
+Пензенская область;Никольск;3428;/banks/Penzenskaya_oblast~/Nikol~sk/;58;22475;0
+Пензенская область;Сердобск;3779;/banks/Penzenskaya_oblast~/Serdobsk/;58;35387;0
+Пензенская область;Спасск;3840;/banks/Penzenskaya_oblast~/Spassk/;58;7442;0
+Пензенская область;Сурск;7357;/banks/Penzenskaya_oblast~/Sursk/;58;7032;0
+Пермский край;Александровск;437;/banks/Permskiy_kray/Aleksandrovsk/;59;14502;0
+Пермский край;Березники;434;/banks/Permskiy_kray/Berezniki/;59;156512;0
+Пермский край;Верещагино;2650;/banks/Permskiy_kray/Veresschagino/;59;22161;0
+Пермский край;Горнозаводск;438;/banks/Permskiy_kray/Gornozavodsk/;59;12056;0
+Пермский край;Гремячинск;436;/banks/Permskiy_kray/Gremyachinsk/;59;10750;0
+Пермский край;Губаха;439;/banks/Permskiy_kray/Gubaha/;59;27544;0
+Пермский край;Добрянка;454;/banks/Permskiy_kray/Dobryanka/;59;33685;0
+Пермский край;Кизел;444;/banks/Permskiy_kray/Kizel/;59;19590;0
+Пермский край;Красновишерск;442;/banks/Permskiy_kray/Krasnovisshersk/;59;16098;0
+Пермский край;Краснокамск;443;/banks/Permskiy_kray/Krasnokamsk/;59;51929;0
+Пермский край;Кудымкар;446;/banks/Permskiy_kray/Kudyimkar/;59;28984;0
+Пермский край;Кунгур;445;/banks/Permskiy_kray/Kungur/;59;66110;0
+Пермский край;Лысьва;447;/banks/Permskiy_kray/Lyis~va/;59;65931;0
+Пермский край;Нытва;450;/banks/Permskiy_kray/Nyitva/;59;19042;0
+Пермский край;Оса;449;/banks/Permskiy_kray/Osa/;59;21191;0
+Пермский край;Оханск;7816;/banks/Permskiy_kray/Ohansk/;59;7249;0
+Пермский край;Очер;452;/banks/Permskiy_kray/Ocher/;59;14239;0
+Пермский край;Соликамск;453;/banks/Permskiy_kray/Solikamsk/;59;97239;0
+Пермский край;Усолье;7323;/banks/Permskiy_kray/Usol~e/;59;5694;0
+Пермский край;Чайковский;455;/banks/Permskiy_kray/Chaykovskiy/;59;82933;0
+Пермский край;Чердынь;7422;/banks/Permskiy_kray/Cherdyin~/;59;4920;0
+Пермский край;Чермоз;7883;/banks/Permskiy_kray/Chermoz/;59;3861;0
+Пермский край;Чернушка;457;/banks/Permskiy_kray/Chernusshka/;59;33275;0
+Пермский край;Чусовой;456;/banks/Permskiy_kray/Chusovoy/;59;46740;0
+Приморский край;Арсеньев;740;/banks/Primorskiy_kray/Arsen~ev/;25;56742;0
+Приморский край;Артем;741;/banks/Primorskiy_kray/Artem/;25;102636;0
+Приморский край;Большой Камень;743;/banks/Primorskiy_kray/Bol~sshoy_Kamen~/;25;39259;0
+Приморский край;Дальнегорск;759;/banks/Primorskiy_kray/Dal~negorsk/;25;37503;0
+Приморский край;Дальнереченск;760;/banks/Primorskiy_kray/Dal~nerechensk/;25;27601;0
+Приморский край;Лесозаводск;748;/banks/Primorskiy_kray/Lesozavodsk/;25;36975;0
+Приморский край;Партизанск;3575;/banks/Primorskiy_kray/Partizansk/;25;38648;0
+Приморский край;Спасск-Дальний;754;/banks/Primorskiy_kray/Spassk-Dal~niy/;25;44166;0
+Приморский край;Фокино;757;/banks/Primorskiy_kray/Fokino/;25;23683;0
+Псковская область;Великие Луки;268;/banks/Pskovskaya_oblast~/Velikie_Luki/;60;98778;0
+Псковская область;Гдов;2719;/banks/Pskovskaya_oblast~/Gdov/;60;4379;0
+Псковская область;Дно;2797;/banks/Pskovskaya_oblast~/Dno/;60;9061;0
+Псковская область;Невель;4750;/banks/Pskovskaya_oblast~/Nevel~/;60;16324;0
+Псковская область;Новоржев;7082;/banks/Pskovskaya_oblast~/Novorzhev/;60;3695;0
+Псковская область;Новосокольники;3478;/banks/Pskovskaya_oblast~/Novosokol~niki/;60;8119;0
+Псковская область;Опочка;3536;/banks/Pskovskaya_oblast~/Opochka/;60;11601;0
+Псковская область;Остров;3545;/banks/Pskovskaya_oblast~/Ostrov/;60;21670;0
+Псковская область;Печоры;3606;/banks/Pskovskaya_oblast~/Pechoryi/;60;11195;0
+Псковская область;Порхов;6911;/banks/Pskovskaya_oblast~/Porhov/;60;10608;0
+Псковская область;Пустошка;6955;/banks/Pskovskaya_oblast~/Pustosshka/;60;4619;0
+Псковская область;Пыталово;7068;/banks/Pskovskaya_oblast~/Pyitalovo/;60;5826;0
+Псковская область;Себеж;6929;/banks/Pskovskaya_oblast~/Sebezh/;60;6375;0
+Республика Адыгея;Адыгейск;2413;/banks/Respublika_Adyigeya/Adyigeysk/;1;12248;0
+Республика Адыгея;Майкоп;340;/banks/Maykop/;1;144246;0
+Республика Алтай;Горно-Алтайск;615;/banks/Gorno-Altaysk/;4;56928;0
+Республика Башкортостан;Агидель;6317;/banks/Respublika_Basshkortostan/Agidel~/;2;16365;0
+Республика Башкортостан;Баймак;2494;/banks/Respublika_Basshkortostan/Baymak/;2;17710;0
+Республика Башкортостан;Белебей;2525;/banks/Respublika_Basshkortostan/Belebey/;2;60183;0
+Республика Башкортостан;Белорецк;466;/banks/Respublika_Basshkortostan/Beloretssk/;2;68804;0
+Республика Башкортостан;Бирск;465;/banks/Respublika_Basshkortostan/Birsk/;2;41637;0
+Республика Башкортостан;Благовещенск;6276;/banks/Respublika_Basshkortostan/Blagovesschensk/;2;34246;0
+Республика Башкортостан;Давлеканово;2764;/banks/Respublika_Basshkortostan/Davlekanovo/;2;24040;0
+Республика Башкортостан;Дюртюли;2821;/banks/Respublika_Basshkortostan/Dyurtyuli/;2;31272;0
+Республика Башкортостан;Ишимбай;468;/banks/Respublika_Basshkortostan/Isshimbay/;2;66242;0
+Республика Башкортостан;Кумертау;467;/banks/Respublika_Basshkortostan/Kumertau/;2;62854;0
+Республика Башкортостан;Межгорье;6280;/banks/Respublika_Basshkortostan/Mezhgor~e/;2;17353;0
+Республика Башкортостан;Мелеуз;3300;/banks/Respublika_Basshkortostan/Meleuz/;2;61408;0
+Республика Башкортостан;Нефтекамск;460;/banks/Respublika_Basshkortostan/Neftekamsk/;2;121757;0
+Республика Башкортостан;Октябрьский;463;/banks/Respublika_Basshkortostan/Oktyabr~skiy/;2;109379;0
+Республика Башкортостан;Салават;461;/banks/Respublika_Basshkortostan/Salavat/;2;156085;0
+Республика Башкортостан;Сибай;469;/banks/Respublika_Basshkortostan/Sibay/;2;62732;0
+Республика Башкортостан;Туймазы;470;/banks/Respublika_Basshkortostan/Tuymazyi/;2;66849;0
+Республика Башкортостан;Учалы;471;/banks/Respublika_Basshkortostan/Uchalyi/;2;37771;0
+Республика Башкортостан;Янаул;472;/banks/Respublika_Basshkortostan/Yanaul/;2;26988;0
+Республика Бурятия;Бабушкин;2480;/banks/Respublika_Buryatiya/Babusshkin/;3;4839;0
+Республика Бурятия;Гусиноозерск;684;/banks/Respublika_Buryatiya/Gusinoozersk/;3;24603;0
+Республика Бурятия;Закаменск;2869;/banks/Respublika_Buryatiya/Zakamensk/;3;11530;0
+Республика Бурятия;Кяхта;3188;/banks/Respublika_Buryatiya/Kyahta/;3;20041;0
+Республика Бурятия;Северобайкальск;686;/banks/Respublika_Buryatiya/Severobaykal~sk/;3;24935;0
+Республика Бурятия;Улан-Удэ;688;/banks/Ulan-Udje/;3;404357;0
+Республика Дагестан;Буйнакск;2781;/banks/Respublika_Dagestan/Buynaksk/;5;65735;0
+Республика Дагестан;Дагестанские Огни;2765;/banks/Respublika_Dagestan/Dagestanskie_Ogni/;5;30671;0
+Республика Дагестан;Дербент;2780;/banks/Respublika_Dagestan/Derbent/;5;119961;0
+Республика Дагестан;Избербаш;790;/banks/Respublika_Dagestan/Izberbassh/;5;56301;0
+Республика Дагестан;Каспийск;793;/banks/Respublika_Dagestan/Kaspiysk/;5;103914;0
+Республика Дагестан;Кизилюрт;3023;/banks/Respublika_Dagestan/Kizilyurt/;5;36187;0
+Республика Дагестан;Кизляр;3024;/banks/Respublika_Dagestan/Kizlyar/;5;49169;0
+Республика Дагестан;Махачкала;791;/banks/Mahachkala/;5;577990;0
+Республика Дагестан;Хасавюрт;792;/banks/Respublika_Dagestan/Hasavyurt/;5;133929;0
+Республика Дагестан;Южно-Сухокумск;5064;/banks/Respublika_Dagestan/Yuzhno-Suhokumsk/;5;10048;0
+Республика Ингушетия;Карабулак;2983;/banks/Respublika_Ingusshetiya/Karabulak/;6;31081;0
+Республика Ингушетия;Малгобек;3265;/banks/Respublika_Ingusshetiya/Malgobek/;6;31076;0
+Республика Ингушетия;Назрань;796;/banks/Respublika_Ingusshetiya/Nazran~/;6;93357;0
+Республика Калмыкия;Городовиковск;2740;/banks/Respublika_Kalmyikiya/Gorodovikovsk/;8;9565;0
+Республика Калмыкия;Лагань;3190;/banks/Respublika_Kalmyikiya/Lagan~/;8;14323;0
+Республика Калмыкия;Элиста;343;/banks/Jelista/;8;103728;0
+Республика Карелия;Беломорск;2531;/banks/Respublika_Kareliya/Belomorsk/;10;11217;0
+Республика Карелия;Кемь;3016;/banks/Respublika_Kareliya/Kem~/;10;13061;0
+Республика Карелия;Кондопога;271;/banks/Respublika_Kareliya/Kondopoga/;10;32978;0
+Республика Карелия;Костомукша;3090;/banks/Respublika_Kareliya/Kostomukssha/;10;28433;0
+Республика Карелия;Лахденпохья;6626;/banks/Respublika_Kareliya/Lahdenpoh~ya/;10;7818;0
+Республика Карелия;Медвежьегорск;275;/banks/Respublika_Kareliya/Medvezh~egorsk/;10;15536;0
+Республика Карелия;Олонец;3526;/banks/Respublika_Kareliya/Olonetss/;10;9060;0
+Республика Карелия;Питкяранта;274;/banks/Respublika_Kareliya/Pitkyaranta/;10;11484;0
+Республика Карелия;Пудож;3690;/banks/Respublika_Kareliya/Pudozh/;10;9698;0
+Республика Карелия;Сегежа;276;/banks/Respublika_Kareliya/Segezha/;10;29660;0
+Республика Карелия;Сортавала;272;/banks/Respublika_Kareliya/Sortavala/;10;19215;0
+Республика Карелия;Суоярви;3886;/banks/Respublika_Kareliya/Suoyarvi/;10;9763;0
+Республика Коми;Воркута;279;/banks/Respublika_Komi/Vorkuta/;11;70551;0
+Республика Коми;Вуктыл;6767;/banks/Respublika_Komi/Vuktyil/;11;12357;0
+Республика Коми;Емва;2832;/banks/Respublika_Komi/Emva/;11;14574;0
+Республика Коми;Инта;284;/banks/Respublika_Komi/Inta/;11;32021;0
+Республика Коми;Микунь;285;/banks/Respublika_Komi/Mikun~/;11;10732;0
+Республика Коми;Печора;286;/banks/Respublika_Komi/Pechora/;11;43458;0
+Республика Коми;Сосногорск;3837;/banks/Respublika_Komi/Sosnogorsk/;11;27809;0
+Республика Коми;Усинск;280;/banks/Respublika_Komi/Usinsk/;11;41100;0
+Республика Коми;Ухта;281;/banks/Respublika_Komi/Uhta/;11;99642;0
+Республика Марий Эл;Волжск;393;/banks/Respublika_Mariy_Jel/Volzhsk/;12;55671;0
+Республика Марий Эл;Звенигово;2881;/banks/Respublika_Mariy_Jel/Zvenigovo/;12;11945;0
+Республика Марий Эл;Козьмодемьянск;3056;/banks/Respublika_Mariy_Jel/Koz~modem~yansk/;12;21262;0
+Республика Мордовия;Ардатов;2451;/banks/Respublika_Mordoviya/Ardatov/;13;9400;0
+Республика Мордовия;Инсар;2934;/banks/Respublika_Mordoviya/Insar/;13;8687;0
+Республика Мордовия;Ковылкино;3052;/banks/Respublika_Mordoviya/Kovyilkino/;13;21307;0
+Республика Мордовия;Краснослободск;3122;/banks/Respublika_Mordoviya/Krasnoslobodsk/;13;10151;0
+Республика Мордовия;Рузаевка;475;/banks/Respublika_Mordoviya/Ruzaevka/;13;47529;0
+Республика Мордовия;Темников;3935;/banks/Respublika_Mordoviya/Temnikov/;13;7247;0
+Республика Саха (Якутия);Алдан;765;/banks/Respublika_Saha_(Yakutiya)/Aldan/;14;21277;0
+Республика Саха (Якутия);Вилюйск;2675;/banks/Respublika_Saha_(Yakutiya)/Vilyuysk/;14;10233;0
+Республика Саха (Якутия);Ленск;766;/banks/Respublika_Saha_(Yakutiya)/Lensk/;14;24955;0
+Республика Саха (Якутия);Мирный;767;/banks/Respublika_Saha_(Yakutiya)/Mirnyiy/;14;37179;0
+Республика Саха (Якутия);Нерюнгри;768;/banks/Respublika_Saha_(Yakutiya)/Neryungri/;14;61746;0
+Республика Саха (Якутия);Нюрба;3497;/banks/Respublika_Saha_(Yakutiya)/Nyurba/;14;10156;0
+Республика Саха (Якутия);Олекминск;3524;/banks/Respublika_Saha_(Yakutiya)/Olekminsk/;14;9487;0
+Республика Саха (Якутия);Покровск;3637;/banks/Respublika_Saha_(Yakutiya)/Pokrovsk/;14;9495;0
+Республика Саха (Якутия);Среднеколымск;7390;/banks/Respublika_Saha_(Yakutiya)/Srednekolyimsk/;14;3525;0
+Республика Саха (Якутия);Томмот;4808;/banks/Respublika_Saha_(Yakutiya)/Tommot/;14;8054;0
+Республика Саха (Якутия);Удачный;7377;/banks/Respublika_Saha_(Yakutiya)/Udachnyiy/;14;12611;0
+Республика Северная Осетия-Алания;Алагир;2426;/banks/Respublika_Severnaya_Osetiya-Alaniya/Alagir/;15;20949;0
+Республика Северная Осетия-Алания;Ардон;4661;/banks/Respublika_Severnaya_Osetiya-Alaniya/Ardon/;15;18774;0
+Республика Северная Осетия-Алания;Беслан;807;/banks/Respublika_Severnaya_Osetiya-Alaniya/Beslan/;15;36724;0
+Республика Северная Осетия-Алания;Владикавказ;806;/banks/Vladikavkaz/;15;311635;0
+Республика Северная Осетия-Алания;Дигора;2790;/banks/Respublika_Severnaya_Osetiya-Alaniya/Digora/;15;10856;0
+Республика Северная Осетия-Алания;Моздок;3324;/banks/Respublika_Severnaya_Osetiya-Alaniya/Mozdok/;15;38748;0
+Республика Татарстан;Агрыз;2411;/banks/Respublika_Tatarstan/Agryiz/;16;19299;0
+Республика Татарстан;Азнакаево;2415;/banks/Respublika_Tatarstan/Aznakaevo/;16;34859;0
+Республика Татарстан;Альметьевск;481;/banks/Respublika_Tatarstan/Al~met~evsk/;16;146309;0
+Республика Татарстан;Арск;2454;/banks/Respublika_Tatarstan/Arsk/;16;18114;0
+Республика Татарстан;Бавлы;2484;/banks/Respublika_Tatarstan/Bavlyi/;16;22109;0
+Республика Татарстан;Болгар;2579;/banks/Respublika_Tatarstan/Bolgar/;16;8650;0
+Республика Татарстан;Бугульма;482;/banks/Respublika_Tatarstan/Bugul~ma/;16;89144;0
+Республика Татарстан;Буинск;2617;/banks/Respublika_Tatarstan/Buinsk/;16;20342;0
+Республика Татарстан;Елабуга;487;/banks/Respublika_Tatarstan/Elabuga/;16;70750;0
+Республика Татарстан;Заинск;2867;/banks/Respublika_Tatarstan/Zainsk/;16;41798;0
+Республика Татарстан;Зеленодольск;2886;/banks/Respublika_Tatarstan/Zelenodol~sk/;16;97651;0
+Республика Татарстан;Лаишево;3195;/banks/Respublika_Tatarstan/Laisshevo/;16;7735;0
+Республика Татарстан;Лениногорск;485;/banks/Respublika_Tatarstan/Leninogorsk/;16;64145;0
+Республика Татарстан;Мамадыш;3276;/banks/Respublika_Tatarstan/Mamadyissh/;16;14432;0
+Республика Татарстан;Менделеевск;486;/banks/Respublika_Tatarstan/Mendeleevsk/;16;22075;0
+Республика Татарстан;Мензелинск;3304;/banks/Respublika_Tatarstan/Menzelinsk/;16;16474;0
+Республика Татарстан;Нижнекамск;483;/banks/Respublika_Tatarstan/Nizhnekamsk/;16;234108;0
+Республика Татарстан;Нурлат;3495;/banks/Respublika_Tatarstan/Nurlat/;16;32600;0
+Республика Татарстан;Тетюши;3946;/banks/Respublika_Tatarstan/Tetyusshi/;16;11596;0
+Республика Татарстан;Чистополь;3359;/banks/Respublika_Tatarstan/Chistopol~/;16;60703;0
+Республика Татарстан;Агрыз;2411;/banks/Respublika_Tatarstan/Agryiz/;16;19299;0
+Республика Татарстан;Азнакаево;2415;/banks/Respublika_Tatarstan/Aznakaevo/;16;34859;0
+Республика Татарстан;Альметьевск;481;/banks/Respublika_Tatarstan/Al~met~evsk/;16;146309;0
+Республика Татарстан;Арск;2454;/banks/Respublika_Tatarstan/Arsk/;16;18114;0
+Республика Татарстан;Бавлы;2484;/banks/Respublika_Tatarstan/Bavlyi/;16;22109;0
+Республика Татарстан;Болгар;2579;/banks/Respublika_Tatarstan/Bolgar/;16;8650;0
+Республика Татарстан;Бугульма;482;/banks/Respublika_Tatarstan/Bugul~ma/;16;89144;0
+Республика Татарстан;Буинск;2617;/banks/Respublika_Tatarstan/Buinsk/;16;20342;0
+Республика Татарстан;Елабуга;487;/banks/Respublika_Tatarstan/Elabuga/;16;70750;0
+Республика Татарстан;Заинск;2867;/banks/Respublika_Tatarstan/Zainsk/;16;41798;0
+Республика Татарстан;Зеленодольск;2886;/banks/Respublika_Tatarstan/Zelenodol~sk/;16;97651;0
+Республика Татарстан;Лаишево;3195;/banks/Respublika_Tatarstan/Laisshevo/;16;7735;0
+Республика Татарстан;Лениногорск;485;/banks/Respublika_Tatarstan/Leninogorsk/;16;64145;0
+Республика Татарстан;Мамадыш;3276;/banks/Respublika_Tatarstan/Mamadyissh/;16;14432;0
+Республика Татарстан;Менделеевск;486;/banks/Respublika_Tatarstan/Mendeleevsk/;16;22075;0
+Республика Татарстан;Мензелинск;3304;/banks/Respublika_Tatarstan/Menzelinsk/;16;16474;0
+Республика Татарстан;Нижнекамск;483;/banks/Respublika_Tatarstan/Nizhnekamsk/;16;234108;0
+Республика Татарстан;Нурлат;3495;/banks/Respublika_Tatarstan/Nurlat/;16;32600;0
+Республика Татарстан;Тетюши;3946;/banks/Respublika_Tatarstan/Tetyusshi/;16;11596;0
+Республика Татарстан;Чистополь;3359;/banks/Respublika_Tatarstan/Chistopol~/;16;60703;0
+Республика Тыва;Ак-Довурак;4865;/banks/Respublika_Tyiva/Ak-Dovurak/;17;13469;0
+Республика Тыва;Кызыл;618;/banks/Kyizyil/;17;109906;0
+Республика Тыва;Туран;4859;/banks/Respublika_Tyiva/Turan/;17;4988;0
+Республика Тыва;Чадан;4860;/banks/Respublika_Tyiva/Chadan/;17;9037;0
+Республика Тыва;Шагонар;4861;/banks/Respublika_Tyiva/Shagonar/;17;10958;0
+Республика Хакасия;Абаза;2400;/banks/Respublika_Hakasiya/Abaza/;19;17111;0
+Республика Хакасия;Саяногорск;692;/banks/Respublika_Hakasiya/Sayanogorsk/;19;49889;0
+Республика Хакасия;Сорск;3830;/banks/Respublika_Hakasiya/Sorsk/;19;12140;0
+Республика Хакасия;Черногорск;693;/banks/Respublika_Hakasiya/Chernogorsk/;19;72117;0
+Ростовская область;Азов;354;/banks/Rostovskaya_oblast~/Azov/;61;82882;0
+Ростовская область;Аксай;355;/banks/Rostovskaya_oblast~/Aksay/;61;41984;0
+Ростовская область;Батайск;353;/banks/Rostovskaya_oblast~/Bataysk/;61;111856;0
+Ростовская область;Белая Калитва;357;/banks/Rostovskaya_oblast~/Belaya_Kalitva/;61;43688;0
+Ростовская область;Волгодонск;348;/banks/Rostovskaya_oblast~/Volgodonsk/;61;170621;0
+Ростовская область;Донецк;2807;/banks/Rostovskaya_oblast~/Donetssk/;61;50085;0
+Ростовская область;Зверево;2882;/banks/Rostovskaya_oblast~/Zverevo/;61;22416;0
+Ростовская область;Зерноград;361;/banks/Rostovskaya_oblast~/Zernograd/;61;26850;0
+Ростовская область;Каменск-Шахтинский;349;/banks/Rostovskaya_oblast~/Kamensk-Shahtinskiy/;61;95306;0
+Ростовская область;Константиновск;369;/banks/Rostovskaya_oblast~/Konstantinovsk/;61;17926;0
+Ростовская область;Красный Сулин;368;/banks/Rostovskaya_oblast~/Krasnyiy_Sulin/;61;40866;0
+Ростовская область;Миллерово;372;/banks/Rostovskaya_oblast~/Millerovo/;61;36493;0
+Ростовская область;Морозовск;374;/banks/Rostovskaya_oblast~/Morozovsk/;61;27644;0
+Ростовская область;Новочеркасск;346;/banks/Rostovskaya_oblast~/Novocherkassk/;61;169039;0
+Ростовская область;Новошахтинск;373;/banks/Rostovskaya_oblast~/Novosshahtinsk/;61;111087;0
+Ростовская область;Пролетарск;3682;/banks/Rostovskaya_oblast~/Proletarsk/;61;20267;0
+Ростовская область;Сальск;375;/banks/Rostovskaya_oblast~/Sal~sk/;61;61312;0
+Ростовская область;Семикаракорск;376;/banks/Rostovskaya_oblast~/Semikarakorsk/;61;23884;0
+Ростовская область;Цимлянск;380;/banks/Rostovskaya_oblast~/Tsimlyansk/;61;15029;0
+Ростовская область;Шахты;350;/banks/Rostovskaya_oblast~/Shahtyi/;61;240152;0
+Рязанская область;Касимов;167;/banks/Ryazanskaya_oblast~/Kasimov/;62;33494;0
+Рязанская область;Кораблино;4718;/banks/Ryazanskaya_oblast~/Korablino/;62;12657;0
+Рязанская область;Михайлов;3315;/banks/Ryazanskaya_oblast~/Mihaylov/;62;11783;0
+Рязанская область;Новомичуринск;4862;/banks/Ryazanskaya_oblast~/Novomichurinsk/;62;19309;0
+Рязанская область;Рыбное;3730;/banks/Ryazanskaya_oblast~/Ryibnoe/;62;18378;0
+Рязанская область;Ряжск;166;/banks/Ryazanskaya_oblast~/Ryazhsk/;62;21676;0
+Рязанская область;Сасово;3750;/banks/Ryazanskaya_oblast~/Sasovo/;62;28117;0
+Рязанская область;Скопин;3792;/banks/Ryazanskaya_oblast~/Skopin/;62;30374;0
+Рязанская область;Спас-Клепики;4792;/banks/Ryazanskaya_oblast~/Spas-Klepiki/;62;5917;0
+Рязанская область;Спасск-Рязанский;4793;/banks/Ryazanskaya_oblast~/Spassk-Ryazanskiy/;62;7745;0
+Рязанская область;Шацк;4825;/banks/Ryazanskaya_oblast~/Shatssk/;62;6562;0
+Самарская область;Жигулевск;491;/banks/Samarskaya_oblast~/Zhigulevsk/;63;55560;0
+Самарская область;Кинель;3030;/banks/Samarskaya_oblast~/Kinel~/;63;34472;0
+Самарская область;Нефтегорск;3405;/banks/Samarskaya_oblast~/Neftegorsk/;63;19256;0
+Самарская область;Новокуйбышевск;495;/banks/Samarskaya_oblast~/Novokuybyisshevsk/;63;108449;0
+Самарская область;Октябрьск;3514;/banks/Samarskaya_oblast~/Oktyabr~sk/;63;27244;0
+Самарская область;Отрадный;3549;/banks/Samarskaya_oblast~/Otradnyiy/;63;48359;0
+Самарская область;Похвистнево;3656;/banks/Samarskaya_oblast~/Pohvistnevo/;63;28181;0
+Самарская область;Чапаевск;496;/banks/Samarskaya_oblast~/Chapaevsk/;63;72689;0
+Санкт-Петербург и область;Бокситогорск;2578;/banks/Sankt-Peterburg_i_oblast~/Boksitogorsk/;47;16593;0
+Санкт-Петербург и область;Волосово;2687;/banks/Sankt-Peterburg_i_oblast~/Volosovo/;47;12162;0
+Санкт-Петербург и область;Волхов;213;/banks/Sankt-Peterburg_i_oblast~/Volhov/;47;47344;0
+Санкт-Петербург и область;Всеволожск;214;/banks/Sankt-Peterburg_i_oblast~/Vsevolozhsk/;47;59689;0
+Санкт-Петербург и область;Выборг;212;/banks/Sankt-Peterburg_i_oblast~/Vyiborg/;47;80013;0
+Санкт-Петербург и область;Высоцк;2707;/banks/Sankt-Peterburg_i_oblast~/Vyisotssk/;47;1244;0
+Санкт-Петербург и область;Гатчина;215;/banks/Sankt-Peterburg_i_oblast~/Gatchina/;47;92566;0
+Санкт-Петербург и область;Ивангород;2903;/banks/Sankt-Peterburg_i_oblast~/Ivangorod/;47;9797;0
+Санкт-Петербург и область;Каменногорск;2971;/banks/Sankt-Peterburg_i_oblast~/Kamennogorsk/;47;6761;0
+Санкт-Петербург и область;Кингисепп;3029;/banks/Sankt-Peterburg_i_oblast~/Kingisepp/;47;48667;0
+Санкт-Петербург и область;Кириши;216;/banks/Sankt-Peterburg_i_oblast~/Kirisshi/;47;52826;0
+Санкт-Петербург и область;Кировск;221;/banks/Sankt-Peterburg_i_oblast~/Kirovsk/;47;25633;0
+Санкт-Петербург и область;Коммунар;3066;/banks/Sankt-Peterburg_i_oblast~/Kommunar/;47;20265;0
+Санкт-Петербург и область;Лодейное Поле;3224;/banks/Sankt-Peterburg_i_oblast~/Lodeynoe_Pole/;47;21053;0
+Санкт-Петербург и область;Луга;222;/banks/Sankt-Peterburg_i_oblast~/Luga/;47;36409;0
+Санкт-Петербург и область;Любань;3242;/banks/Sankt-Peterburg_i_oblast~/Lyuban~/;47;4188;0
+Санкт-Петербург и область;Никольское;3429;/banks/Sankt-Peterburg_i_oblast~/Nikol~skoe/;47;19345;0
+Санкт-Петербург и область;Новая Ладога;3436;/banks/Sankt-Peterburg_i_oblast~/Novaya_Ladoga/;47;8839;0
+Санкт-Петербург и область;Отрадное;224;/banks/Sankt-Peterburg_i_oblast~/Otradnoe/;47;23874;0
+Санкт-Петербург и область;Пикалево;223;/banks/Sankt-Peterburg_i_oblast~/Pikalevo/;47;21567;0
+Санкт-Петербург и область;Подпорожье;3629;/banks/Sankt-Peterburg_i_oblast~/Podporozh~e/;47;18729;0
+Санкт-Петербург и область;Приморск;3671;/banks/Sankt-Peterburg_i_oblast~/Primorsk/;47;6122;0
+Санкт-Петербург и область;Приозерск;3675;/banks/Sankt-Peterburg_i_oblast~/Priozersk/;47;18929;0
+Санкт-Петербург и область;Светогорск;3756;/banks/Sankt-Peterburg_i_oblast~/Svetogorsk/;47;15973;0
+Санкт-Петербург и область;Сертолово;226;/banks/Sankt-Peterburg_i_oblast~/Sertolovo/;47;47854;0
+Санкт-Петербург и область;Сланцы;3206;/banks/Sankt-Peterburg_i_oblast~/Slantssyi/;47;33587;0
+Санкт-Петербург и область;Сясьстрой;3899;/banks/Sankt-Peterburg_i_oblast~/Syas~stroy/;47;13747;0
+Санкт-Петербург и область;Тихвин;218;/banks/Sankt-Peterburg_i_oblast~/Tihvin/;47;58843;0
+Санкт-Петербург и область;Тосно;3207;/banks/Sankt-Peterburg_i_oblast~/Tosno/;47;39127;0
+Санкт-Петербург и область;Шлиссельбург;3204;/banks/Sankt-Peterburg_i_oblast~/Shlissel~burg/;47;13305;0
+Саратовская область;Аркадак;2453;/banks/Saratovskaya_oblast~/Arkadak/;64;12846;0
+Саратовская область;Аткарск;504;/banks/Saratovskaya_oblast~/Atkarsk/;64;25620;0
+Саратовская область;Балашов;502;/banks/Saratovskaya_oblast~/Balasshov/;64;82222;0
+Саратовская область;Вольск;503;/banks/Saratovskaya_oblast~/Vol~sk/;64;66520;0
+Саратовская область;Ершов;2845;/banks/Saratovskaya_oblast~/Ersshov/;64;21447;0
+Саратовская область;Калининск;2961;/banks/Saratovskaya_oblast~/Kalininsk/;64;16442;0
+Саратовская область;Красный Кут;3132;/banks/Saratovskaya_oblast~/Krasnyiy_Kut/;64;14420;0
+Саратовская область;Маркс;505;/banks/Saratovskaya_oblast~/Marks/;64;31535;0
+Саратовская область;Новоузенск;3482;/banks/Saratovskaya_oblast~/Novouzensk/;64;17015;0
+Саратовская область;Петровск;3595;/banks/Saratovskaya_oblast~/Petrovsk/;64;31158;0
+Саратовская область;Пугачев;3689;/banks/Saratovskaya_oblast~/Pugachev/;64;41705;0
+Саратовская область;Ртищево;3724;/banks/Saratovskaya_oblast~/Rtisschevo/;64;41295;0
+Саратовская область;Хвалынск;4085;/banks/Saratovskaya_oblast~/Hvalyinsk/;64;13094;0
+Саратовская область;Шиханы;7511;/banks/Saratovskaya_oblast~/Shihanyi/;64;6067;0
+Сахалинская область;Александровск-Сахалинский;772;/banks/Sahalinskaya_oblast~/Aleksandrovsk-Sahalinskiy/;65;10613;0
+Сахалинская область;Анива;773;/banks/Sahalinskaya_oblast~/Aniva/;65;9113;0
+Сахалинская область;Долинск;2805;/banks/Sahalinskaya_oblast~/Dolinsk/;65;12200;0
+Сахалинская область;Корсаков;774;/banks/Sahalinskaya_oblast~/Korsakov/;65;33518;0
+Сахалинская область;Курильск;4954;/banks/Sahalinskaya_oblast~/Kuril~sk/;65;2070;0
+Сахалинская область;Макаров;3259;/banks/Sahalinskaya_oblast~/Makarov/;65;6705;0
+Сахалинская область;Невельск;3392;/banks/Sahalinskaya_oblast~/Nevel~sk/;65;11667;0
+Сахалинская область;Оха;3550;/banks/Sahalinskaya_oblast~/Oha/;65;23007;0
+Сахалинская область;Поронайск;775;/banks/Sahalinskaya_oblast~/Poronaysk/;65;16099;0
+Сахалинская область;Северо-Курильск;7568;/banks/Sahalinskaya_oblast~/Severo-Kuril~sk/;65;2535;0
+Сахалинская область;Томари;4807;/banks/Sahalinskaya_oblast~/Tomari/;65;4537;0
+Сахалинская область;Холмск;776;/banks/Sahalinskaya_oblast~/Holmsk/;65;30936;0
+Сахалинская область;Шахтерск;9074;/banks/Sahalinskaya_oblast~/Shahtersk/;65;8382;0
+Свердловская область;Алапаевск;538;/banks/Sverdlovskaya_oblast~/Alapaevsk/;66;38198;0
+Свердловская область;Арамиль;2447;/banks/Sverdlovskaya_oblast~/Aramil~/;66;14227;0
+Свердловская область;Артемовский;537;/banks/Sverdlovskaya_oblast~/Artemovskiy/;66;33136;0
+Свердловская область;Асбест;539;/banks/Sverdlovskaya_oblast~/Asbest/;66;68914;0
+Свердловская область;Березовский;542;/banks/Sverdlovskaya_oblast~/Berezovskiy/;66;51583;0
+Свердловская область;Богданович;2570;/banks/Sverdlovskaya_oblast~/Bogdanovich/;66;30678;0
+Свердловская область;Верхний Тагил;2663;/banks/Sverdlovskaya_oblast~/Verhniy_Tagil/;66;11839;0
+Свердловская область;Верхняя Пышма;540;/banks/Sverdlovskaya_oblast~/Verhnyaya_Pyisshma/;66;59745;0
+Свердловская область;Верхняя Салда;541;/banks/Sverdlovskaya_oblast~/Verhnyaya_Salda/;66;46240;0
+Свердловская область;Верхняя Тура;2665;/banks/Sverdlovskaya_oblast~/Verhnyaya_Tura/;66;9468;0
+Свердловская область;Верхотурье;2668;/banks/Sverdlovskaya_oblast~/Verhotur~e/;66;8815;0
+Свердловская область;Волчанск;2689;/banks/Sverdlovskaya_oblast~/Volchansk/;66;10008;0
+Свердловская область;Дегтярск;2773;/banks/Sverdlovskaya_oblast~/Degtyarsk/;66;15521;0
+Свердловская область;Ивдель;2906;/banks/Sverdlovskaya_oblast~/Ivdel~/;66;17764;0
+Свердловская область;Ирбит;2939;/banks/Sverdlovskaya_oblast~/Irbit/;66;38352;0
+Свердловская область;Камышлов;2979;/banks/Sverdlovskaya_oblast~/Kamyisshlov/;66;26875;0
+Свердловская область;Карпинск;2999;/banks/Sverdlovskaya_oblast~/Karpinsk/;66;29118;0
+Свердловская область;Качканар;544;/banks/Sverdlovskaya_oblast~/Kachkanar/;66;41429;0
+Свердловская область;Кировград;548;/banks/Sverdlovskaya_oblast~/Kirovgrad/;66;21006;0
+Свердловская область;Краснотурьинск;546;/banks/Sverdlovskaya_oblast~/Krasnotur~insk/;66;59701;0
+Свердловская область;Красноуральск;545;/banks/Sverdlovskaya_oblast~/Krasnoural~sk/;66;24973;0
+Свердловская область;Красноуфимск;547;/banks/Sverdlovskaya_oblast~/Krasnoufimsk/;66;39762;0
+Свердловская область;Кушва;549;/banks/Sverdlovskaya_oblast~/Kusshva/;66;30166;0
+Свердловская область;Лесной;550;/banks/Sverdlovskaya_oblast~/Lesnoy/;66;50364;0
+Свердловская область;Михайловск;6224;/banks/Sverdlovskaya_oblast~/Mihaylovsk/;66;9854;0
+Свердловская область;Невьянск;556;/banks/Sverdlovskaya_oblast~/Nev~yansk/;66;24555;0
+Свердловская область;Нижние Серги;551;/banks/Sverdlovskaya_oblast~/Nizhnie_Sergi/;66;10347;0
+Свердловская область;Нижняя Салда;552;/banks/Sverdlovskaya_oblast~/Nizhnyaya_Salda/;66;17610;0
+Свердловская область;Нижняя Тура;553;/banks/Sverdlovskaya_oblast~/Nizhnyaya_Tura/;66;21997;0
+Свердловская область;Новая Ляля;6177;/banks/Sverdlovskaya_oblast~/Novaya_Lyalya/;66;12731;0
+Свердловская область;Новоуральск;554;/banks/Sverdlovskaya_oblast~/Novoural~sk/;66;85519;0
+Свердловская область;Полевской;555;/banks/Sverdlovskaya_oblast~/Polevskoy/;66;64191;0
+Свердловская область;Ревда;543;/banks/Sverdlovskaya_oblast~/Revda/;66;61890;0
+Свердловская область;Реж;3711;/banks/Sverdlovskaya_oblast~/Rezh/;66;38213;0
+Свердловская область;Североуральск;3764;/banks/Sverdlovskaya_oblast~/Severoural~sk/;66;29279;0
+Свердловская область;Серов;559;/banks/Sverdlovskaya_oblast~/Serov/;66;99381;0
+Свердловская область;Среднеуральск;3842;/banks/Sverdlovskaya_oblast~/Sredneural~sk/;66;20445;0
+Свердловская область;Сухой Лог;557;/banks/Sverdlovskaya_oblast~/Suhoy_Log/;66;34547;0
+Свердловская область;Сысерть;558;/banks/Sverdlovskaya_oblast~/Syisert~/;66;20485;0
+Свердловская область;Тавда;3901;/banks/Sverdlovskaya_oblast~/Tavda/;66;35415;0
+Свердловская область;Талица;3909;/banks/Sverdlovskaya_oblast~/Talitssa/;66;16220;0
+Свердловская область;Туринск;3986;/banks/Sverdlovskaya_oblast~/Turinsk/;66;17923;0
+Смоленская область;Велиж;4673;/banks/Smolenskaya_oblast~/Velizh/;67;7620;0
+Смоленская область;Вязьма;173;/banks/Smolenskaya_oblast~/Vyaz~ma/;67;57103;0
+Смоленская область;Гагарин;172;/banks/Smolenskaya_oblast~/Gagarin/;67;31721;0
+Смоленская область;Демидов;4687;/banks/Smolenskaya_oblast~/Demidov/;67;7333;0
+Смоленская область;Десногорск;177;/banks/Smolenskaya_oblast~/Desnogorsk/;67;29677;0
+Смоленская область;Дорогобуж;2809;/banks/Smolenskaya_oblast~/Dorogobuzh/;67;10720;0
+Смоленская область;Духовщина;4695;/banks/Smolenskaya_oblast~/Duhovsschina/;67;4370;0
+Смоленская область;Ельня;4696;/banks/Smolenskaya_oblast~/El~nya/;67;10095;0
+Смоленская область;Починок;4771;/banks/Smolenskaya_oblast~/Pochinok/;67;8776;0
+Смоленская область;Рославль;174;/banks/Smolenskaya_oblast~/Roslavl~/;67;54898;0
+Смоленская область;Рудня;7610;/banks/Smolenskaya_oblast~/Rudnya/;67;10029;0
+Смоленская область;Сафоново;175;/banks/Smolenskaya_oblast~/Safonovo/;67;46116;0
+Смоленская область;Смоленск;176;/banks/Smolensk/;67;326863;0
+Смоленская область;Сычевка;4803;/banks/Smolenskaya_oblast~/Syichevka/;67;8111;0
+Смоленская область;Ярцево;178;/banks/Smolenskaya_oblast~/Yartssevo/;67;47853;0
+Ставропольский край;Благодарный;2564;/banks/Stavropol~skiy_kray/Blagodarnyiy/;26;32736;0
+Ставропольский край;Буденновск;820;/banks/Stavropol~skiy_kray/Budennovsk/;26;64628;0
+Ставропольский край;Георгиевск;821;/banks/Stavropol~skiy_kray/Georgievsk/;26;72126;0
+Ставропольский край;Ессентуки;814;/banks/Stavropol~skiy_kray/Essentuki/;26;100969;0
+Ставропольский край;Железноводск;825;/banks/Stavropol~skiy_kray/Zheleznovodsk/;26;24496;0
+Ставропольский край;Зеленокумск;4700;/banks/Stavropol~skiy_kray/Zelenokumsk/;26;35790;0
+Ставропольский край;Изобильный;2921;/banks/Stavropol~skiy_kray/Izobil~nyiy/;26;40546;0
+Ставропольский край;Ипатово;2937;/banks/Stavropol~skiy_kray/Ipatovo/;26;26055;0
+Ставропольский край;Кисловодск;815;/banks/Stavropol~skiy_kray/Kislovodsk/;26;128502;0
+Ставропольский край;Лермонтов;822;/banks/Stavropol~skiy_kray/Lermontov/;26;22540;0
+Ставропольский край;Минеральные Воды;816;/banks/Stavropol~skiy_kray/Mineral~nyie_Vodyi/;26;76715;0
+Ставропольский край;Михайловск;3318;/banks/Stavropol~skiy_kray/Mihaylovsk/;26;71018;0
+Ставропольский край;Невинномысск;817;/banks/Stavropol~skiy_kray/Nevinnomyissk/;26;118351;0
+Ставропольский край;Нефтекумск;3406;/banks/Stavropol~skiy_kray/Neftekumsk/;26;27700;0
+Ставропольский край;Новоалександровск;3441;/banks/Stavropol~skiy_kray/Novoaleksandrovsk/;26;26759;0
+Ставропольский край;Новопавловск;3470;/banks/Stavropol~skiy_kray/Novopavlovsk/;26;26556;0
+Ставропольский край;Пятигорск;818;/banks/Stavropol~skiy_kray/Pyatigorsk/;26;142397;0
+Ставропольский край;Светлоград;823;/banks/Stavropol~skiy_kray/Svetlograd/;26;38520;0
+Тамбовская область;Жердевка;4698;/banks/Tambovskaya_oblast~/Zherdevka/;68;15211;0
+Тамбовская область;Кирсанов;3038;/banks/Tambovskaya_oblast~/Kirsanov/;68;17240;0
+Тамбовская область;Котовск;181;/banks/Tambovskaya_oblast~/Kotovsk/;68;31851;0
+Тамбовская область;Мичуринск;183;/banks/Tambovskaya_oblast~/Michurinsk/;68;98758;0
+Тамбовская область;Моршанск;3337;/banks/Tambovskaya_oblast~/Morsshansk/;68;41550;0
+Тамбовская область;Рассказово;3708;/banks/Tambovskaya_oblast~/Rasskazovo/;68;45484;0
+Тамбовская область;Тамбов;184;/banks/Tambov/;68;280457;0
+Тамбовская область;Уварово;4005;/banks/Tambovskaya_oblast~/Uvarovo/;68;26829;0
+Тверская область;Андреаполь;4660;/banks/Tverskaya_oblast~/Andreapol~/;69;8265;0
+Тверская область;Бежецк;2518;/banks/Tverskaya_oblast~/Bezhetssk/;69;24517;0
+Тверская область;Белый;6002;/banks/Tverskaya_oblast~/Belyiy/;69;3771;0
+Тверская область;Бологое;187;/banks/Tverskaya_oblast~/Bologoe/;69;23499;0
+Тверская область;Весьегонск;2670;/banks/Tverskaya_oblast~/Ves~egonsk/;69;7330;0
+Тверская область;Вышний Волочек;188;/banks/Tverskaya_oblast~/Vyisshniy_Volochek/;69;52326;0
+Тверская область;Западная Двина;4699;/banks/Tverskaya_oblast~/Zapadnaya_Dvina/;69;9376;0
+Тверская область;Зубцов;4704;/banks/Tverskaya_oblast~/Zubtssov/;69;6937;0
+Тверская область;Калязин;4707;/banks/Tverskaya_oblast~/Kalyazin/;69;13870;0
+Тверская область;Кашин;4712;/banks/Tverskaya_oblast~/Kasshin/;69;16174;0
+Тверская область;Кимры;189;/banks/Tverskaya_oblast~/Kimryi/;69;49623;0
+Тверская область;Конаково;190;/banks/Tverskaya_oblast~/Konakovo/;69;41303;0
+Тверская область;Красный Холм;3133;/banks/Tverskaya_oblast~/Krasnyiy_Holm/;69;5608;0
+Тверская область;Кувшиново;6004;/banks/Tverskaya_oblast~/Kuvsshinovo/;69;10008;0
+Тверская область;Лихославль;6029;/banks/Tverskaya_oblast~/Lihoslavl~/;69;12259;0
+Тверская область;Нелидово;3398;/banks/Tverskaya_oblast~/Nelidovo/;69;22886;0
+Тверская область;Осташков;3544;/banks/Tverskaya_oblast~/Ostasshkov/;69;18073;0
+Тверская область;Ржев;3714;/banks/Tverskaya_oblast~/Rzhev/;69;62026;0
+Тверская область;Старица;4796;/banks/Tverskaya_oblast~/Staritssa/;69;8610;0
+Тверская область;Торжок;3967;/banks/Tverskaya_oblast~/Torzhok/;69;47702;0
+Тверская область;Торопец;3968;/banks/Tverskaya_oblast~/Toropetss/;69;13018;0
+Тверская область;Удомля;192;/banks/Tverskaya_oblast~/Udomlya/;69;31048;0
+Томская область;Асино;2460;/banks/Tomskaya_oblast~/Asino/;70;25614;0
+Томская область;Кедровый;6662;/banks/Tomskaya_oblast~/Kedrovyiy/;70;2451;0
+Томская область;Колпашево;3058;/banks/Tomskaya_oblast~/Kolpasshevo/;70;24126;0
+Томская область;Северск;696;/banks/Tomskaya_oblast~/Seversk/;70;108466;0
+Томская область;Стрежевой;698;/banks/Tomskaya_oblast~/Strezhevoy/;70;42216;0
+Тульская область;Алексин;197;/banks/Tul~skaya_oblast~/Aleksin/;71;61738;0
+Тульская область;Белев;4901;/banks/Tul~skaya_oblast~/Belev/;71;13918;0
+Тульская область;Богородицк;2573;/banks/Tul~skaya_oblast~/Bogoroditssk/;71;31897;0
+Тульская область;Болохово;7583;/banks/Tul~skaya_oblast~/Bolohovo/;71;9619;0
+Тульская область;Венев;2647;/banks/Tul~skaya_oblast~/Venev/;71;15220;0
+Тульская область;Донской;2808;/banks/Tul~skaya_oblast~/Donskoy/;71;64561;0
+Тульская область;Ефремов;2848;/banks/Tul~skaya_oblast~/Efremov/;71;42350;0
+Тульская область;Кимовск;4905;/banks/Tul~skaya_oblast~/Kimovsk/;71;28493;0
+Тульская область;Киреевск;3033;/banks/Tul~skaya_oblast~/Kireevsk/;71;25585;0
+Тульская область;Липки;7582;/banks/Tul~skaya_oblast~/Lipki/;71;8741;0
+Тульская область;Новомосковск;195;/banks/Tul~skaya_oblast~/Novomoskovsk/;71;131227;0
+Тульская область;Плавск;4904;/banks/Tul~skaya_oblast~/Plavsk/;71;16248;0
+Тульская область;Советск;7578;/banks/Tul~skaya_oblast~/Sovetsk/;71;7537;0
+Тульская область;Суворов;198;/banks/Tul~skaya_oblast~/Suvorov/;71;18975;0
+Тульская область;Узловая;4012;/banks/Tul~skaya_oblast~/Uzlovaya/;71;55282;0
+Тульская область;Щекино;4180;/banks/Tul~skaya_oblast~/Schekino/;71;58154;0
+Тульская область;Ясногорск;7588;/banks/Tul~skaya_oblast~/Yasnogorsk/;71;16804;0
+Тюменская область;Заводоуковск;2859;/banks/Tyumenskaya_oblast~/Zavodoukovsk/;72;25657;0
+Тюменская область;Ишим;562;/banks/Tyumenskaya_oblast~/Isshim/;72;65229;0
+Тюменская область;Тобольск;563;/banks/Tyumenskaya_oblast~/Tobol~sk/;72;99698;0
+Тюменская область;Ялуторовск;3354;/banks/Tyumenskaya_oblast~/Yalutorovsk/;72;36494;0
+Удмуртская Республика;Воткинск;512;/banks/Udmurtskaya_Respublika/Votkinsk/;18;100034;0
+Удмуртская Республика;Камбарка;2967;/banks/Udmurtskaya_Respublika/Kambarka/;18;11028;0
+Удмуртская Республика;Можга;3323;/banks/Udmurtskaya_Respublika/Mozhga/;18;47959;0
+Удмуртская Республика;Сарапул;510;/banks/Udmurtskaya_Respublika/Sarapul/;18;101390;0
+Удмуртская Республика;Воткинск;512;/banks/Udmurtskaya_Respublika/Votkinsk/;18;100034;0
+Удмуртская Республика;Камбарка;2967;/banks/Udmurtskaya_Respublika/Kambarka/;18;11028;0
+Удмуртская Республика;Можга;3323;/banks/Udmurtskaya_Respublika/Mozhga/;18;47959;0
+Удмуртская Республика;Сарапул;510;/banks/Udmurtskaya_Respublika/Sarapul/;18;101390;0
+Хабаровский край;Амурск;2439;/banks/Habarovskiy_kray/Amursk/;27;42977;0
+Хабаровский край;Бикин;2555;/banks/Habarovskiy_kray/Bikin/;27;17156;0
+Хабаровский край;Вяземский;2709;/banks/Habarovskiy_kray/Vyazemskiy/;27;14556;0
+Хабаровский край;Николаевск-на-Амуре;784;/banks/Habarovskiy_kray/Nikolaevsk-na-Amure/;27;22773;0
+Хабаровский край;Советская Гавань;786;/banks/Habarovskiy_kray/Sovetskaya_Gavan~/;27;27712;0
+Ханты-Мансийский автономный округ;Белоярский;2536;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Beloyarskiy/;86;20283;0
+Ханты-Мансийский автономный округ;Когалым;572;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Kogalyim/;86;58192;0
+Ханты-Мансийский автономный округ;Лангепас;571;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Langepas/;86;41675;0
+Ханты-Мансийский автономный округ;Лянтор;3247;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Lyantor/;86;38922;0
+Ханты-Мансийский автономный округ;Нефтеюганск;568;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Nefteyugansk/;86;123276;0
+Ханты-Мансийский автономный округ;Нягань;3352;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Nyagan~/;86;54903;0
+Ханты-Мансийский автономный округ;Покачи;3635;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Pokachi/;86;17053;0
+Ханты-Мансийский автономный округ;Пыть-Ях;573;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Pyit~-Yah/;86;41453;0
+Ханты-Мансийский автономный округ;Радужный;570;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Raduzhnyiy/;86;43394;0
+Ханты-Мансийский автономный округ;Советский;576;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Sovetskiy/;86;26434;0
+Ханты-Мансийский автономный округ;Урай;577;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Uray/;86;39435;0
+Ханты-Мансийский автономный округ;Ханты-Мансийск;565;/banks/Hantyi-Mansiysk/;86;79410;0
+Ханты-Мансийский автономный округ;Югорск;578;/banks/Hantyi-Mansiyskiy_avtonomnyiy_okrug/Yugorsk/;86;34066;0
+Челябинская область;Аша;587;/banks/Chelyabinskaya_oblast~/Assha/;74;31916;0
+Челябинская область;Бакал;2495;/banks/Chelyabinskaya_oblast~/Bakal/;74;20953;0
+Челябинская область;Верхнеуральск;4989;/banks/Chelyabinskaya_oblast~/Verhneural~sk/;74;9459;0
+Челябинская область;Верхний Уфалей;586;/banks/Chelyabinskaya_oblast~/Verhniy_Ufaley/;74;30504;0
+Челябинская область;Еманжелинск;597;/banks/Chelyabinskaya_oblast~/Emanzhelinsk/;74;30218;0
+Челябинская область;Карабаш;589;/banks/Chelyabinskaya_oblast~/Karabassh/;74;13151;0
+Челябинская область;Карталы;3001;/banks/Chelyabinskaya_oblast~/Kartalyi/;74;29136;0
+Челябинская область;Касли;3003;/banks/Chelyabinskaya_oblast~/Kasli/;74;16998;0
+Челябинская область;Катав-Ивановск;3006;/banks/Chelyabinskaya_oblast~/Katav-Ivanovsk/;74;17640;0
+Челябинская область;Копейск;590;/banks/Chelyabinskaya_oblast~/Kopeysk/;74;137604;0
+Челябинская область;Коркино;3081;/banks/Chelyabinskaya_oblast~/Korkino/;74;38950;0
+Челябинская область;Куса;3179;/banks/Chelyabinskaya_oblast~/Kusa/;74;18792;0
+Челябинская область;Кыштым;591;/banks/Chelyabinskaya_oblast~/Kyisshtyim/;74;38950;0
+Челябинская область;Миньяр;3312;/banks/Chelyabinskaya_oblast~/Min~yar/;74;10195;0
+Челябинская область;Нязепетровск;3498;/banks/Chelyabinskaya_oblast~/Nyazepetrovsk/;74;12452;0
+Челябинская область;Озерск;583;/banks/Chelyabinskaya_oblast~/Ozersk/;74;82268;0
+Челябинская область;Пласт;3613;/banks/Chelyabinskaya_oblast~/Plast/;74;17344;0
+Челябинская область;Сатка;584;/banks/Chelyabinskaya_oblast~/Satka/;74;45465;0
+Челябинская область;Сим;3788;/banks/Chelyabinskaya_oblast~/Sim/;74;14465;0
+Челябинская область;Снежинск;593;/banks/Chelyabinskaya_oblast~/Snezhinsk/;74;48896;0
+Челябинская область;Трехгорный;596;/banks/Chelyabinskaya_oblast~/Trehgornyiy/;74;33678;0
+Челябинская область;Троицк;595;/banks/Chelyabinskaya_oblast~/Troitssk/;74;78637;0
+Челябинская область;Усть-Катав;4044;/banks/Chelyabinskaya_oblast~/Ust~-Katav/;74;23586;0
+Челябинская область;Чебаркуль;598;/banks/Chelyabinskaya_oblast~/Chebarkul~/;74;43405;0
+Челябинская область;Южноуральск;599;/banks/Chelyabinskaya_oblast~/Yuzhnoural~sk/;74;37890;0
+Челябинская область;Юрюзань;600;/banks/Chelyabinskaya_oblast~/Yuryuzan~/;74;12568;0
+Чувашская Республика;Алатырь;2428;/banks/Chuvasshskaya_Respublika/Alatyir~/;21;38202;0
+Чувашская Республика;Канаш;521;/banks/Chuvasshskaya_Respublika/Kanassh/;21;45608;0
+Чувашская Республика;Козловка;5000;/banks/Chuvasshskaya_Respublika/Kozlovka/;21;10355;0
+Чувашская Республика;Мариинский Посад;3281;/banks/Chuvasshskaya_Respublika/Mariinskiy_Posad/;21;9089;0
+Чувашская Республика;Новочебоксарск;518;/banks/Chuvasshskaya_Respublika/Novocheboksarsk/;21;124113;0
+Чувашская Республика;Цивильск;5007;/banks/Chuvasshskaya_Respublika/Tsivil~sk/;21;13478;0
+Чувашская Республика;Шумерля;522;/banks/Chuvasshskaya_Respublika/Shumerlya/;21;31724;0
+Чувашская Республика;Ядрин;523;/banks/Chuvasshskaya_Respublika/Yadrin/;21;9614;0
+Чукотский автономный округ;Анадырь;716;/banks/Anadyir~/;87;13053;0
+Чукотский автономный округ;Билибино;2557;/banks/Chukotskiy_avtonomnyiy_okrug/Bilibino/;87;5504;0
+Чукотский автономный округ;Певек;7554;/banks/Chukotskiy_avtonomnyiy_okrug/Pevek/;87;4161;0
+Ямало-Ненецкий автономный округ;Губкинский;2756;/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Gubkinskiy/;89;23340;0
+Ямало-Ненецкий автономный округ;Лабытнанги;607;/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Labyitnangi/;89;26948;0
+Ямало-Ненецкий автономный округ;Муравленко;609;/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Muravlenko/;89;33401;0
+Ямало-Ненецкий автономный округ;Надым;608;/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Nadyim/;89;46550;0
+Ямало-Ненецкий автономный округ;Новый Уренгой;604;/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Novyiy_Urengoy/;89;104144;0
+Ямало-Ненецкий автономный округ;Ноябрьск;605;/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Noyabr~sk/;89;110572;0
+Ямало-Ненецкий автономный округ;Салехард;603;/banks/Salehard/;89;42494;0
+Ямало-Ненецкий автономный округ;Тарко-Сале;610;/banks/Yamalo-Nenetsskiy_avtonomnyiy_okrug/Tarko-Sale/;89;20372;0
+Ярославская область;Гаврилов-Ям;204;/banks/Yaroslavskaya_oblast~/Gavrilov-Yam/;76;17792;0
+Ярославская область;Данилов;2767;/banks/Yaroslavskaya_oblast~/Danilov/;76;15861;0
+Ярославская область;Любим;5021;/banks/Yaroslavskaya_oblast~/Lyubim/;76;5553;0
+Ярославская область;Мышкин;206;/banks/Yaroslavskaya_oblast~/Myisshkin/;76;5932;0
+Ярославская область;Переславль-Залесский;207;/banks/Yaroslavskaya_oblast~/Pereslavl~-Zalesskiy/;76;41923;0
+Ярославская область;Пошехонье;3659;/banks/Yaroslavskaya_oblast~/Posshehon~e/;76;6085;0
+Ярославская область;Ростов;205;/banks/Yaroslavskaya_oblast~/Rostov/;76;31791;0
+Ярославская область;Рыбинск;201;/banks/Yaroslavskaya_oblast~/Ryibinsk/;76;200771;0
+Ярославская область;Тутаев;202;/banks/Yaroslavskaya_oblast~/Tutaev/;76;41001;0
+Ярославская область;Углич;208;/banks/Yaroslavskaya_oblast~/Uglich/;76;34505;0
